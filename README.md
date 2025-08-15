@@ -7,12 +7,6 @@ This repository contains an end-to-end ETL project that aims to extract datasets
 > You may need to install the VSCode Mermaid Preview Extension to view this diagram
 
 ```mermaid
----
-config:
-  logLevel: 'debug'
-  theme: 'dark'
-
----
 
 ```
 
@@ -279,7 +273,7 @@ kanban
         (Epic 2 Story 5: As a Data Analyst, I want to be able to access the combined, enriched and aggregated movie and user ratings, so that it can be analysed easier.)
         (Epic 3 Story 6: As a Data Analyst, I want the cleaned, standardised, enriched and aggregated data to be available in the SQL database, so that it can be analysed easier.)
         (Epic 4 Story 7: As the customer, I want to be able to access a deployed Streamlit application on the web,so that I can view visualisations of trends analysed and interact with the app based on what I want to view.)
-    (Activity 7 Backlog - Epic 1 Story 1: As a Data Analyst/Scientist, I want to be able to access the transaction data from the SQL database, so that it can be transformed ready for analysis)
+    (Backlog - Epic 1 Story 1: As a Data Analyst, I want to be able to access the movie data from the SQL database, so that it can be transformed ready for analysis)
         Task 1: Create Database Engine and Connection
         Task 2: Create SQL query to Extract Movies Data
         Task 3: Create script to import query from SQL file
