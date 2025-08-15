@@ -2,14 +2,6 @@
 
 This repository contains an end-to-end ETL project that aims to extract datasets containing user ratings from Letterboxd users with the most ratings and data pertaining to the movies they have rated, as well as produce insights and visualisations of this data through Streamlit.
 
-## Repository Structure and Commits
-
-> You may need to install the VSCode Mermaid Preview Extension to view this diagram
-
-```mermaid
-
-```
-
 ## PROJECT REQUIREMENTS
 
 I want to build a robust ETL pipeline to integrate Letterboxd movie and user ratings data from a SQL database. The pipeline must clean and standardise the data and remove invalid or incomplete records, retaining only movies which have ratings or calculating the average rating for any duplicate movies with differing ratings.  Additionally, it should enrich the dataset by calculating average rating per user, average rating of each film across the userbase subsection I am studying compared to its average rating across all users. This is so that I can track trends in movie ratings across attributes such as runtime, language and genre, and identify any trends in how "power-users" rate films compared to the general userbase, as well as identify subgroups in these users with similar taste in films to potentially generate recommendations based on films the user already appreciates. These insights will be visualised in an interactive Streamlit application. The final dataset must be stored in SQL and be able to be updated regularly for accurate analysis.
