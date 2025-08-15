@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "Letterboxd-Ratings-Project"
+version = "0.1.0"
+description = "An ETL project for extracting, transforming, loading and visualising Letterboxd data."
+authors = [{name = "Raphael Fywell", email = "raphyfywell@gmail.com"}]
+readme = "README.md"
+requires-python = ">=3.11"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dynamic = ["dependencies"]
+
+[project.urls]
+Homepage = ""
+
+[project.scripts]
+run_etl = "scripts.run_etl:main"
+run_tests = "tests.run_tests:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["*"]
+
+[tool.setuptools.dynamic]
+dependencies = {file = ["requirements.txt"]}
