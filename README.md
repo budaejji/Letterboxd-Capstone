@@ -13,7 +13,8 @@ config:
   theme: 'dark'
 
 ---
----
+
+```
 
 ## PROJECT REQUIREMENTS
 
@@ -290,5 +291,4 @@ kanban
         None
 ```
 
----
 ---
