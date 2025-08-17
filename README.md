@@ -205,6 +205,11 @@ So that it can be analysed easier.
 
 #### USER STORY 6 ACCEPTANCE CRITERIA
 
+- [ ] Loaded the tables into the SQL database
+- [ ] Verified record count is correct
+- [ ] Database connection errors are logged and handled gracefully
+- [ ] Database transaction errors are logged and handled gracefully
+  
 ---
 ---
 
@@ -224,7 +229,18 @@ I want to be able to access a deployed Streamlit application on the web,
 So that I can view visualisations of trends analysed and interact with the app based on what I want to view.
 ```
 
-#### USER STORY 6 ACCEPTANCE CRITERIA
+#### USER STORY 7 ACCEPTANCE CRITERIA
+
+- [ ] App created with Streamlit
+- [ ] Visualisation of rating trends across runtime created
+- [ ] Visualisation of rating trends across genre created
+- [ ] Visualisation of rating trends across language created
+- [ ] Visualisation of top rated films with general users vs power-users runtime created
+- [ ] Visualisation of most differently rated films with general users vs power-users runtime created
+- [ ] Visualisation of subgroups within power-users created
+- [ ] Visualisations are interactive (users can change parameters/size of data viewed)
+- [ ] General layout of Streamlit app is formed to create an easy to navigate and visually appealing website
+- [ ] Streamlit app is deployed
 
 ---
 ---
