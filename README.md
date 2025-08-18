@@ -78,13 +78,13 @@ So that it can be transformed ready for analysis
 
 ```text
 As a Data Analyst,
-I want to be able to access the movies data from the SQL database,
+I want to be able to access the movies data from a CSV file,
 So that it can be transformed ready for analysis
 ```
 
 #### USER STORY 1 ACCEPTANCE CRITERIA
 
-- [ ] The movies data is extracted from the SQL database
+- [ ] The movies data is extracted from a CSV file
 - [ ] Movies data extraction is executed in less than 2 seconds
 - [ ] Extraction occurs without errors and data integrity is maintained (no missing or corrupted data)
 - [ ] Successful extractions are logged
@@ -99,13 +99,13 @@ So that it can be transformed ready for analysis
 
 ```text
 As a Data Analyst,
-I want to be able to access the user ratings data from the SQL database,
+I want to be able to access the user ratings data from a CSV file,
 So that it can be transformed, ready for analysis
 ```
 
 #### USER STORY 2 ACCEPTANCE CRITERIA
 
-- [ ] The user ratings data is extracted from the SQL database
+- [ ] The user ratings data is extracted from a CSV file
 - [ ] User ratings data extraction is executed in less than 2 seconds
 - [ ] Extraction occurs without errors and data integrity is maintained (no missing or corrupted data)
 - [ ] Successful extractions are logged
@@ -274,21 +274,21 @@ kanban
         (Epic 3: As a Data Analyst, I want to be able to access the extracted, transformed data loaded into the SQL database, so that analysis can be done on power-users ratings and compared against general users ratings.)
         (Epic 4: As the customer, I want to be able to view key insights about the dataset visualised in a Streamlit app, so that I can easily understand the trends analysed in a visual format.)
     Product Backlog
-        (Epic 1 Story 1: As a Data Analyst, I want to be able to access the movies data from the SQL database,so that it can be transformed ready for analysis.)
-        (Epic 1 Story 2: As a Data Analyst, I want to be able to access the user ratings data from the SQL database,so that it can be transformed, ready for analysis.)
+        (Epic 1 Story 1: As a Data Analyst, I want to be able to access the movies data from a CSV file, so that it can be transformed ready for analysis.)
+        (Epic 1 Story 2: As a Data Analyst, I want to be able to access the user ratings data from a CSV file, so that it can be transformed, ready for analysis.)
         (Epic 2 Story 3: As a Data Analyst, I want to be able to access cleaned, standardised movie data, so that it can be combined with the user ratings data and made available as a single table.)
         (Epic 2 Story 4: As a Data Analyst/Scientist, I want to be able to access cleaned, standardised user ratings data, so that it can be combined with the movie data and made available as a single table.)
         (Epic 2 Story 5: As a Data Analyst, I want to be able to access the combined, enriched and aggregated movie and user ratings, so that it can be analysed easier.)
         (Epic 3 Story 6: As a Data Analyst, I want the cleaned, standardised, enriched and aggregated data to be available in the SQL database, so that it can be analysed easier.)
         (Epic 4 Story 7: As the customer, I want to be able to access a deployed Streamlit application on the web,so that I can view visualisations of trends analysed and interact with the app based on what I want to view.)
-    (Backlog - Epic 1 Story 1: As a Data Analyst, I want to be able to access the movie data from the SQL database, so that it can be transformed ready for analysis)
-        Task 1: Create Database Engine and Connection
-        Task 2: Create SQL query to Extract Movies Data
-        Task 3: Create script to import query from SQL file
-        Task 4: Create script to execute query, log and return
-        Task 5: Create script to measure performance and log process
-        Task 6: Add movies extraction to extract.py and to scripts/run_etl.py
-        Task 7: Create integration tests to verify the transaction data extraction process
+    (Backlog - Epic 1 Story 1: As a Data Analyst, I want to be able to access the movie data from a CSV file, so that it can be transformed ready for analysis)
+        Task 1: Create script to read the CSV file
+        Task 2: Add logging to the script, including error handling and performance metrics
+        Task 3: Add movie extraction to extract.py and to scripts/run_etl.py
+        Task 4: Create integration tests to verify the customer data extraction process
+        Task 5: Create integration test to verify both sources are extracted correctly and that the performance metrics are met
+        Task 6: Create a component test to verify the extract_data function in extract.py works correctly
+        Task 7: Create an end-to-end aka e2e test to verify the entire extraction process works correctly
     Done
         None
 ```
