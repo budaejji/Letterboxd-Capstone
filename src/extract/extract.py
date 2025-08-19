@@ -7,7 +7,7 @@ from src.utils.logging_utils import setup_logger
 logger = setup_logger("extract_data", "extract_data.log")
 
 
-def extract_data() -> tuple[pd.DataFrame, pd.DataFrame]:
+def extract_data() -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
     try:
         logger.info("Starting data extraction process")
 

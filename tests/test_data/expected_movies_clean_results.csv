@@ -1,0 +1,866 @@
+movie_id,movie_title,genres,original_language,image_url,runtime,spoken_languages,year_released
+napoleon-dynamite,Napoleon Dynamite,['Comedy'],en,sm/upload/wu/r9/ma/tt/2VMXuUAvU8T0oQl0w77CqVARxYs-0-230-0-345-crop,95,['English'],2004
+insomnia-2002,Insomnia,"['Crime', 'Mystery', 'Thriller']",en,film-poster/5/1/7/3/9/51739-insomnia-0-230-0-345-crop,118,['English'],2002
+a-bugs-life,A Bug's Life,"['Adventure', 'Animation', 'Comedy', 'Family']",en,film-poster/4/7/1/1/1/47111-a-bug-s-life-0-230-0-345-crop,95,['English'],1998
+before-midnight,Before Midnight,"['Romance', 'Drama']",en,film-poster/1/0/2/4/4/4/102444-before-midnight-0-230-0-345-crop,109,"['English', 'ελληνικά', 'Français']",2013
+searching-2018,Searching,"['Thriller', 'Mystery', 'Drama']",en,film-poster/4/2/0/4/6/7/420467-searching-0-230-0-345-crop,102,['English'],2018
+thor-ragnarok,Thor: Ragnarok,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Science Fiction']",en,film-poster/2/0/9/3/8/2/209382-thor-ragnarok-0-230-0-345-crop,131,['English'],2017
+chungking-express,Chungking Express,"['Drama', 'Comedy', 'Romance']",cn,film-poster/4/5/6/0/2/45602-chungking-express-0-230-0-345-crop,103,"['广州话 / 廣州話', '普通话', 'English', 'हिन्दी', '日本語', 'ਪੰਜਾਬੀ', 'اردو']",1994
+the-lost-world-jurassic-park,The Lost World: Jurassic Park,"['Adventure', 'Action', 'Science Fiction']",en,sm/upload/ab/ir/xl/7z/u1fXmEQUCI9CjyHCCYOPBSq2DYo-0-230-0-345-crop,129,['English'],1997
+21-jump-street,21 Jump Street,"['Action', 'Comedy', 'Crime']",en,film-poster/2/7/9/279-21-jump-street-0-230-0-345-crop,109,['English'],2012
+a-ghost-story-2017,A Ghost Story,"['Drama', 'Fantasy']",en,sm/upload/zx/51/yo/oc/ydENrBUenr4khaP6tj4JZn1CpMs-0-230-0-345-crop,93,['English'],2017
+big-trouble-in-little-china,Big Trouble in Little China,"['Action', 'Adventure', 'Comedy', 'Fantasy']",en,film-poster/4/8/1/3/9/48139-big-trouble-in-little-china-0-230-0-345-crop,99,"['English', '广州话 / 廣州話']",1986
+the-curious-case-of-benjamin-button,The Curious Case of Benjamin Button,"['Drama', 'Fantasy', 'Romance']",en,sm/upload/yh/ob/ip/lw/gjMR102u5hPdIAWX7O2rim8ZWgA-0-230-0-345-crop,166,['English'],2008
+the-lion-king,The Lion King,"['Family', 'Animation', 'Drama']",en,sm/upload/lz/96/yu/mf/ztuEReeV6ofpU1HxUV9AsR6aLoe-0-230-0-345-crop,89,['English'],1994
+straight-outta-compton,Straight Outta Compton,"['Drama', 'Music']",en,film-poster/2/0/1/3/4/0/201340-straight-outta-compton-0-230-0-345-crop,147,['English'],2015
+raiders-of-the-lost-ark,Raiders of the Lost Ark,"['Adventure', 'Action']",en,sm/upload/oz/di/0n/js/mkDExQxNWZug5T9dtVdng7ouPzk-0-230-0-345-crop,115,"['English', 'Español', 'Deutsch', 'עִבְרִית', 'العربية']",1981
+the-shallows,The Shallows,"['Horror', 'Drama', 'Thriller']",en,film-poster/2/6/1/1/1/2/261112-the-shallows-0-230-0-345-crop,86,['English'],2016
+booksmart,Booksmart,['Comedy'],en,film-poster/4/3/5/4/5/0/435450-booksmart-0-230-0-345-crop,102,"['English', 'Español', '普通话', '日本語']",2019
+austin-powers-international-man-of-mystery,Austin Powers: International Man of Mystery,"['Science Fiction', 'Comedy', 'Crime']",en,film-poster/5/1/3/3/6/51336-austin-powers-international-man-of-mystery-0-230-0-345-crop,94,['English'],1997
+jurassic-world-fallen-kingdom,Jurassic World: Fallen Kingdom,"['Action', 'Adventure', 'Science Fiction']",en,film-poster/2/8/1/5/2/9/281529-jurassic-world-fallen-kingdom-0-230-0-345-crop,129,"['English', 'Pусский']",2018
+big-fish,Big Fish,"['Adventure', 'Fantasy', 'Drama']",en,sm/upload/w2/v9/2v/lv/6DRFdlNZpAaEt7eejsbAlJGgaM7-0-230-0-345-crop,125,['English'],2003
+the-greatest-showman,The Greatest Showman,['Drama'],en,film-poster/2/4/3/0/6/3/243063-the-greatest-showman-0-230-0-345-crop,105,['English'],2017
+unbreakable,Unbreakable,"['Thriller', 'Drama', 'Mystery']",en,sm/upload/74/wa/wg/46/pvL37V88plePxFSszCbV3wRHiBm-0-230-0-345-crop,106,['English'],2000
+little-miss-sunshine,Little Miss Sunshine,"['Comedy', 'Drama']",en,sm/upload/h6/xm/om/q7/dOeM4R55TsAFBXCPNIDDMiJkePr-0-230-0-345-crop,102,['English'],2006
+the-hobbit-an-unexpected-journey,The Hobbit: An Unexpected Journey,"['Adventure', 'Fantasy', 'Action']",en,sm/upload/s7/p6/sy/6v/mfSAahVkAIYFkx1GVFSlCEdn0mt-0-230-0-345-crop,169,['English'],2012
+american-hustle,American Hustle,"['Drama', 'Crime']",en,film-poster/1/2/4/3/7/9/124379-american-hustle-0-230-0-345-crop,138,['English'],2013
+the-great-gatsby-2013,The Great Gatsby,"['Drama', 'Romance']",en,film-poster/2/8/5/285-the-great-gatsby-0-230-0-345-crop,143,['English'],2013
+moon,Moon,"['Science Fiction', 'Drama']",en,sm/upload/1z/15/kh/dw/ydmC5WsPEhMZKV7VwQ8jT8hQLlc-0-230-0-345-crop,97,"['Español', 'English']",2009
+the-apartment,The Apartment,"['Comedy', 'Drama', 'Romance']",en,film-poster/5/1/7/7/4/51774-the-apartment-0-230-0-345-crop,125,['English'],1960
+shoplifters,Shoplifters,['Drama'],ja,film-poster/4/3/5/1/2/9/435129-shoplifters-0-230-0-345-crop,121,['日本語'],2018
+the-gentlemen,The Gentlemen,"['Action', 'Crime', 'Comedy']",en,film-poster/4/5/2/2/8/9/452289-the-gentlemen-0-230-0-345-crop,113,['English'],2019
+blade-runner-2049,Blade Runner 2049,"['Science Fiction', 'Drama']",en,film-poster/2/6/5/4/3/9/265439-blade-runner-2049-0-230-0-345-crop,164,"['English', 'suomi', 'Magyar', '日本語', 'Pусский', 'Somali', 'Español']",2017
+kill-bill-vol-2,Kill Bill: Vol. 2,"['Action', 'Crime', 'Thriller']",en,sm/upload/ka/7q/dh/8m/bxbX4sHZHcy81dnNs4VAVs7HXDL-0-230-0-345-crop,136,"['English', '普通话', 'Español', '广州话 / 廣州話']",2004
+the-incredible-hulk,The Incredible Hulk,"['Science Fiction', 'Action', 'Adventure']",en,film-poster/5/0/8/2/7/50827-the-incredible-hulk-0-230-0-345-crop,114,"['Português', 'Español', 'English']",2008
+the-irishman-2019,The Irishman,"['Crime', 'Drama', 'History']",en,film-poster/3/3/3/2/0/3/333203-the-irishman-0-230-0-345-crop,209,"['English', 'Italiano', 'Latin', 'Español']",2019
+midnight-in-paris,Midnight in Paris,"['Fantasy', 'Comedy', 'Romance']",en,sm/upload/1e/0j/vs/s6/xxSopLYATHXSepXcEaBh9Gazv6p-0-230-0-345-crop,94,"['English', 'Français', 'Deutsch', 'Español']",2011
+oceans-eleven-2001,Ocean's Eleven,"['Thriller', 'Crime']",en,sm/upload/cq/zv/tn/d6/5ZfdSZeP4ZDJwA3Q17SpxV6wBjF-0-230-0-345-crop,116,"['Italiano', 'English']",2001
+captain-fantastic,Captain Fantastic,"['Adventure', 'Drama']",en,sm/upload/5d/hg/f9/my/fnaGmGCWgGOQjCpM0TqKPZJ5x85-0-230-0-345-crop,118,"['Esperanto', 'English']",2016
+the-blair-witch-project,The Blair Witch Project,"['Horror', 'Mystery']",en,film-poster/5/0/1/5/9/50159-the-blair-witch-project-0-230-0-345-crop,81,['English'],1999
+oldboy,Oldboy,"['Drama', 'Thriller', 'Mystery', 'Action']",ko,sm/upload/yl/pb/x9/pe/hzj9o9cizYFv76rK0C7nXBAQ9lw-0-230-0-345-crop,120,['한국어/조선말'],2003
+goodfellas,GoodFellas,"['Drama', 'Crime']",en,film-poster/5/1/3/8/3/51383-goodfellas-0-230-0-345-crop,145,"['Italiano', 'English']",1990
+unforgiven,Unforgiven,['Western'],en,sm/upload/jm/nq/0c/ke/9oPodyvCWyPMZJDjg29tBfFRwtG-0-230-0-345-crop,130,['English'],1992
+velvet-buzzsaw,Velvet Buzzsaw,"['Thriller', 'Mystery', 'Horror']",en,film-poster/3/9/5/3/7/4/395374-velvet-buzzsaw-0-230-0-345-crop,113,['English'],2019
+clueless,Clueless,"['Comedy', 'Romance']",en,sm/upload/fn/rr/3z/h7/i8gEHh2sszB6YWLC0jl559sxAeN-0-230-0-345-crop,97,"['Español', 'English']",1995
+king-kong-2005,King Kong,"['Adventure', 'Drama', 'Action']",en,sm/upload/jb/d6/wt/v2/ueMFrWi2NTqvpDAUWh5lSewai8Q-0-230-0-345-crop,187,['English'],2005
+la-la-land,La La Land,"['Comedy', 'Drama', 'Romance', 'Music']",en,film-poster/2/4/0/3/4/4/240344-la-la-land-0-230-0-345-crop,129,['English'],2016
+catch-me-if-you-can-2002,Catch Me If You Can,"['Drama', 'Crime']",en,film-poster/5/1/4/8/4/51484-catch-me-if-you-can-0-230-0-345-crop,141,"['English', 'Français']",2002
+spring-breakers,Spring Breakers,"['Drama', 'Crime']",en,film-poster/9/6/1/0/9/96109-spring-breakers-0-230-0-345-crop,94,['English'],2012
+thor,Thor,"['Adventure', 'Fantasy', 'Action']",en,film-poster/4/6/4/5/6/46456-thor-0-230-0-345-crop,115,['English'],2011
+star-wars-the-force-awakens,Star Wars: The Force Awakens,"['Action', 'Adventure', 'Science Fiction', 'Fantasy']",en,sm/upload/t1/n6/d1/k6/g2mqdMU3jaz6uEosF5aqJgbw7e9-0-230-0-345-crop,136,['English'],2015
+justice-league,Justice League,"['Action', 'Adventure', 'Fantasy', 'Science Fiction']",en,film-poster/1/0/7/6/7/0/107670-justice-league-0-230-0-345-crop,120,['English'],2017
+baby-driver,Baby Driver,"['Action', 'Crime']",en,film-poster/2/6/8/9/5/0/268950-baby-driver-0-230-0-345-crop,113,['English'],2017
+mulholland-drive,Mulholland Drive,"['Thriller', 'Drama', 'Mystery']",en,sm/upload/kv/7n/p8/tv/fMC8JBWx2VjsJ53JopAcFjqmlYv-0-230-0-345-crop,147,"['Español', 'English']",2001
+game-night,Game Night,"['Mystery', 'Comedy', 'Crime']",en,film-poster/3/7/8/0/4/8/378048-game-night-0-230-0-345-crop,100,['English'],2018
+the-bling-ring,The Bling Ring,"['Drama', 'Crime']",en,film-poster/7/9/8/9/3/79893-the-bling-ring-0-230-0-345-crop,90,['English'],2013
+bohemian-rhapsody,Bohemian Rhapsody,"['Music', 'Drama', 'History']",en,film-poster/3/5/8/2/2/2/358222-bohemian-rhapsody-0-230-0-345-crop,135,['English'],2018
+national-treasure,National Treasure,"['Adventure', 'Action', 'Thriller', 'Mystery']",en,film-poster/5/0/5/6/1/50561-national-treasure-0-230-0-345-crop,131,"['Latin', 'English', 'Español']",2004
+gravity-2013,Gravity,"['Science Fiction', 'Thriller', 'Drama']",en,sm/upload/4c/kn/9m/6a/221dfc20f8690b357b6b9ad66c13b5be-0-230-0-345-crop,91,['English'],2013
+memories-of-murder,Memories of Murder,"['Crime', 'Drama', 'Thriller']",ko,sm/upload/84/xt/e8/mw/gawnVe9cFowdoDLo9Pok12NTw39-0-230-0-345-crop,131,"['한국어/조선말', 'English']",2003
+star-wars-the-last-jedi,Star Wars: The Last Jedi,"['Science Fiction', 'Action', 'Adventure']",en,sm/upload/21/h4/fo/18/47zTsc9gkruDmDssiCqyZTxdOla-0-230-0-345-crop,152,['English'],2017
+the-departed,The Departed,"['Drama', 'Thriller', 'Crime']",en,sm/upload/jr/th/pu/pb/laefkgrfa3oKwvBtWTBtf2suiI4-0-230-0-345-crop,151,"['English', '广州话 / 廣州話']",2006
+the-lego-movie,The Lego Movie,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",en,sm/upload/az/2g/rn/wz/7HdNvpAMnU9rjKDJSFzAjnsz0eh-0-230-0-345-crop,100,['English'],2014
+the-room,The Room,"['Drama', 'Romance']",en,sm/upload/qq/yi/i3/dk/aUC39cFC2KO8CJ0EV0ijIJRr3PT-0-230-0-345-crop,99,['English'],2003
+the-breakfast-club,The Breakfast Club,"['Comedy', 'Drama']",en,film-poster/5/0/5/1/8/50518-the-breakfast-club-0-230-0-345-crop,98,['English'],1985
+free-fire,Free Fire,"['Action', 'Crime', 'Mystery']",en,sm/upload/ct/hf/l4/w1/21WsmKivqOE2Vut73z07M8yx84F-0-230-0-345-crop,90,['English'],2016
+toy-story-3,Toy Story 3,"['Animation', 'Family', 'Comedy']",en,film-poster/4/6/4/5/8/46458-toy-story-3-0-230-0-345-crop,103,"['English', 'Español']",2010
+persona,Persona,['Drama'],sv,film-poster/5/1/3/5/5/51355-persona-0-230-0-345-crop,84,['svenska'],1966
+fantastic-beasts-and-where-to-find-them,Fantastic Beasts and Where to Find Them,"['Adventure', 'Fantasy']",en,sm/upload/4c/fd/3n/60/gri0DDxsERr6B2sOR1fGLxLpSLx-0-230-0-345-crop,132,['English'],2016
+gladiator-2000,Gladiator,"['Action', 'Drama', 'Adventure']",en,film-poster/5/1/9/5/2/51952-gladiator-0-230-0-345-crop,155,['English'],2000
+amadeus,Amadeus,"['Music', 'Drama', 'History']",en,sm/upload/bn/hr/ki/ay/eP2pJudgGzUlo2kZuh0tF1MInsb-0-230-0-345-crop,160,"['Deutsch', 'English', 'Italiano', 'Latin']",1984
+the-dead-dont-die-2019,The Dead Don't Die,"['Comedy', 'Horror', 'Fantasy']",en,film-poster/4/6/4/7/3/5/464735-the-dead-don-t-die-0-230-0-345-crop,104,['English'],2019
+portrait-of-a-lady-on-fire,Portrait of a Lady on Fire,"['Drama', 'Romance']",fr,film-poster/4/6/0/8/3/0/460830-portrait-of-a-lady-on-fire-0-230-0-345-crop,120,"['Italiano', 'Français']",2019
+crazy-stupid-love,"Crazy, Stupid, Love.","['Comedy', 'Drama', 'Romance']",en,film-poster/1/5/0/5/1/15051-crazy-stupid-love--0-230-0-345-crop,118,['English'],2011
+minority-report,Minority Report,"['Action', 'Thriller', 'Science Fiction', 'Mystery']",en,sm/upload/1o/qh/5e/ur/dS5AHLt4DhZpisxryIxKJU6Urxb-0-230-0-345-crop,145,"['English', 'svenska']",2002
+deadpool,Deadpool,"['Action', 'Adventure', 'Comedy']",en,film-poster/2/2/0/5/7/5/220575-deadpool-0-230-0-345-crop,108,['English'],2016
+the-jungle-book-2016,The Jungle Book,"['Family', 'Adventure', 'Drama', 'Fantasy']",en,sm/upload/re/d0/vo/uh/iMmpHJ9MeOwOF41BmUqytbHCWtz-0-230-0-345-crop,106,['English'],2016
+carrie-1976,Carrie,"['Horror', 'Thriller']",en,sm/upload/2c/5d/69/bc/uc3OvgmbnYaS5Y0BOjSmC1EmSz1-0-230-0-345-crop,98,['English'],1976
+the-guest-2014,The Guest,"['Mystery', 'Thriller', 'Action']",en,sm/upload/is/9i/99/04/xxSuU7Q9ZmPjw9TNQ1WzmHVAxBI-0-230-0-345-crop,100,['English'],2014
+the-lord-of-the-rings-the-fellowship-of-the-ring,The Lord of the Rings: The Fellowship of the Ring,"['Adventure', 'Fantasy', 'Action']",en,sm/upload/3t/vq/0u/m6/1tX9ZlgVvWjAQhMs1vAfsYpi7VK-0-230-0-345-crop,179,['English'],2001
+groundhog-day,Groundhog Day,"['Romance', 'Fantasy', 'Drama', 'Comedy']",en,film-poster/5/1/9/1/4/51914-groundhog-day-0-230-0-345-crop,101,"['English', 'Français', 'Italiano']",1993
+final-destination,Final Destination,['Horror'],en,film-poster/4/7/0/6/8/47068-final-destination-0-230-0-345-crop,98,"['English', 'Français']",2000
+sorry-to-bother-you,Sorry to Bother You,"['Fantasy', 'Science Fiction', 'Comedy']",en,sm/upload/pi/8d/sk/jg/wdiJKxlyg3bzqZgRsNcIfoaQs1O-0-230-0-345-crop,112,['English'],2018
+el-camino-a-breaking-bad-movie,El Camino: A Breaking Bad Movie,"['Crime', 'Drama', 'Thriller', 'Action']",en,film-poster/4/8/8/5/7/5/488575-el-camino-a-breaking-bad-movie-0-230-0-345-crop,123,['English'],2019
+call-me-by-your-name,Call Me by Your Name,"['Romance', 'Drama']",en,sm/upload/g9/9t/cc/7u/tcNniniS4rfqrLH0oORikJfnIwY-0-230-0-345-crop,132,"['Français', 'English', 'Italiano']",2017
+ghostbusters-2016,Ghostbusters,"['Action', 'Fantasy', 'Comedy']",en,film-poster/2/2/0/4/8/22048-ghostbusters-0-230-0-345-crop,117,['English'],2016
+the-tree-of-life-2011,The Tree of Life,"['Drama', 'Fantasy']",en,film-poster/4/7/4/6/8/47468-the-tree-of-life-0-230-0-345-crop,139,['English'],2011
+beauty-and-the-beast-2017,Beauty and the Beast,"['Family', 'Fantasy', 'Romance']",en,film-poster/2/4/8/7/0/8/248708-beauty-and-the-beast-0-230-0-345-crop,129,"['Français', 'English']",2017
+fear-and-loathing-in-las-vegas,Fear and Loathing in Las Vegas,"['Adventure', 'Drama', 'Comedy']",en,film-poster/5/0/7/2/5/50725-fear-and-loathing-in-las-vegas-0-230-0-345-crop,118,['English'],1998
+the-adventures-of-tintin,The Adventures of Tintin,"['Adventure', 'Animation', 'Mystery']",en,sm/upload/tx/v5/nk/lz/rLsuszK65hQRl4KHmOtCNYV4kyD-0-230-0-345-crop,107,['English'],2011
+toy-story-2,Toy Story 2,"['Animation', 'Comedy', 'Family']",en,film-poster/5/1/2/8/9/51289-toy-story-2-0-230-0-345-crop,92,['English'],1999
+the-good-the-bad-and-the-ugly,"The Good, the Bad and the Ugly",['Western'],it,film-poster/5/1/6/6/6/51666-the-good-the-bad-and-the-ugly-0-230-0-345-crop,161,['Italiano'],1966
+swiss-army-man,Swiss Army Man,"['Comedy', 'Drama', 'Romance', 'Fantasy', 'Adventure']",en,sm/upload/pp/ya/j6/9k/kH7Jwo3Pv0pbosU4rzDafTigIZx-0-230-0-345-crop,97,['English'],2016
+war-of-the-worlds,War of the Worlds,"['Adventure', 'Thriller', 'Science Fiction']",en,film-poster/5/1/9/7/6/51976-war-of-the-worlds-0-230-0-345-crop,117,['English'],2005
+mission-impossible,Mission: Impossible,"['Adventure', 'Action', 'Thriller']",en,film-poster/5/1/2/0/6/51206-mission-impossible-0-230-0-345-crop,110,"['English', 'Français', 'Český']",1996
+big-hero-6,Big Hero 6,"['Adventure', 'Family', 'Animation', 'Action', 'Comedy']",en,sm/upload/hu/db/3b/mm/q6WZxPlic8hpKzCxnzWOFCCLQfo-0-230-0-345-crop,102,['English'],2014
+the-sixth-sense,The Sixth Sense,"['Mystery', 'Thriller', 'Drama']",en,film-poster/5/1/4/0/7/51407-the-sixth-sense-0-230-0-345-crop,107,"['Latin', 'Español', 'English']",1999
+captain-america-the-winter-soldier,Captain America: The Winter Soldier,"['Action', 'Adventure', 'Science Fiction']",en,sm/upload/he/p6/cc/lg/zt6b493XEL2OQ1bCSKccZ7V0iRY-0-230-0-345-crop,136,['English'],2014
+willy-wonka-the-chocolate-factory,Willy Wonka & the Chocolate Factory,"['Family', 'Fantasy', 'Comedy']",en,film-poster/5/1/8/0/4/51804-willy-wonka-the-chocolate-factory-0-230-0-345-crop,100,"['Français', 'English', 'Italiano', 'Deutsch']",1971
+batman-1989,Batman,"['Fantasy', 'Action']",en,film-poster/5/1/7/8/8/51788-batman-0-230-0-345-crop,126,"['English', 'Français']",1989
+the-conjuring-2,The Conjuring 2,"['Horror', 'Mystery', 'Thriller']",en,sm/upload/vu/cv/s6/zw/7GUzvvrb6hbOWl8l8YkaS4fgTDT-0-230-0-345-crop,134,['English'],2016
+brazil,Brazil,"['Comedy', 'Science Fiction']",en,film-poster/5/1/9/8/1/51981-brazil-0-230-0-345-crop,143,['English'],1985
+the-shape-of-water,The Shape of Water,"['Drama', 'Fantasy', 'Romance']",en,sm/upload/f0/2f/4e/am/bxVvUHI1A9PWoVfEBZko6FZPv5A-0-230-0-345-crop,123,"['English', 'Pусский']",2017
+a-clockwork-orange,A Clockwork Orange,"['Science Fiction', 'Drama']",en,film-poster/5/1/8/6/7/51867-a-clockwork-orange-0-230-0-345-crop,137,['English'],1971
+this-is-the-end,This Is the End,"['Action', 'Comedy']",en,sm/upload/jc/9p/19/zx/oie_1512543TJ3vNUDP-0-230-0-345-crop,107,['English'],2013
+friday-the-13th,Friday the 13th,['Horror'],en,film-poster/4/9/2/9/9/49299-friday-the-13th-0-230-0-345-crop,95,['English'],1980
+sound-of-metal,Sound of Metal,"['Drama', 'Music']",en,film-poster/4/3/2/0/0/4/432004-sound-of-metal-0-230-0-345-crop,121,"['English', 'Français']",2019
+snatch,Snatch,"['Crime', 'Comedy']",en,sm/upload/6p/tf/oh/ao/on9JlbGEccLsYkjeEph2Whm1DIp-0-230-0-345-crop,104,"['English', 'Pусский']",2000
+the-green-mile,The Green Mile,"['Fantasy', 'Drama', 'Crime']",en,film-poster/5/1/6/1/3/51613-the-green-mile-0-230-0-345-crop,189,"['Français', 'English']",1999
+onward-2020,Onward,"['Family', 'Animation', 'Adventure', 'Comedy', 'Fantasy']",en,film-poster/4/3/8/2/7/2/438272-onward-0-230-0-345-crop,103,['English'],2020
+only-god-forgives,Only God Forgives,"['Drama', 'Thriller', 'Crime']",en,film-poster/6/4/4/2/7/64427-only-god-forgives-0-230-0-345-crop,90,"['English', 'ภาษาไทย']",2013
+fargo,Fargo,"['Crime', 'Drama', 'Thriller']",en,film-poster/5/1/7/8/1/51781-fargo-0-230-0-345-crop,98,['English'],1996
+alien-covenant,Alien: Covenant,"['Horror', 'Science Fiction', 'Mystery']",en,film-poster/9/9/1/4/4/99144-alien-covenant-0-230-0-345-crop,122,"['English', 'Deutsch']",2017
+children-of-men,Children of Men,"['Drama', 'Action', 'Thriller', 'Science Fiction']",en,sm/upload/ju/ac/6a/yi/lg7s7U1FQtB4VbLzvFUSgDX0frZ-0-230-0-345-crop,109,['English'],2006
+bicycle-thieves,Bicycle Thieves,['Drama'],it,film-poster/4/8/9/3/0/48930-bicycle-thieves-0-230-0-345-crop,89,['Italiano'],1948
+ponyo,Ponyo,"['Animation', 'Fantasy', 'Family']",ja,film-poster/4/4/5/9/4/44594-ponyo-0-230-0-345-crop,100,['日本語'],2008
+do-the-right-thing,Do the Right Thing,['Drama'],en,sm/upload/zm/fz/vn/ie/obNQLtdeJy3IiKnExWoWBJH8V67-0-230-0-345-crop,120,"['한국어/조선말', 'Español', 'English', 'Italiano']",1989
+dredd,Dredd,"['Action', 'Science Fiction']",en,film-poster/1/6/5/2/7/16527-dredd-0-230-0-345-crop,95,['English'],2012
+spider-man-3,Spider-Man 3,"['Fantasy', 'Action', 'Adventure']",en,sm/upload/gi/zi/fp/69/uC2pAMjb32NIgQ1GdC1Bl6LZJc2-0-230-0-345-crop,139,"['English', 'Français']",2007
+the-40-year-old-virgin,The 40 Year Old Virgin,"['Comedy', 'Romance']",en,film-poster/4/8/1/6/0/48160-the-40-year-old-virgin-0-230-0-345-crop,116,"['English', 'Español']",2005
+1917,1917,"['War', 'Drama', 'Action', 'Thriller']",en,film-poster/4/6/0/1/5/5/460155-1917-0-230-0-345-crop,119,"['English', 'Français', 'Deutsch']",2019
+silver-linings-playbook,Silver Linings Playbook,"['Drama', 'Comedy', 'Romance']",en,film-poster/6/9/1/5/1/69151-silver-linings-playbook-0-230-0-345-crop,122,['English'],2012
+da-5-bloods,Da 5 Bloods,"['War', 'Drama']",en,film-poster/5/0/9/6/9/9/509699-da-5-bloods-0-230-0-345-crop,156,"['English', 'Tiếng Việt', 'suomi', 'Français']",2020
+hush-2016,Hush,"['Horror', 'Thriller']",en,sm/upload/uy/c2/ed/fu/khDYdmPFlaTqeLQVD4ds4xC1mIf-0-230-0-345-crop,82,['English'],2016
+batman-returns,Batman Returns,"['Action', 'Fantasy']",en,film-poster/5/1/7/0/9/51709-batman-returns-0-230-0-345-crop,126,['English'],1992
+hereditary,Hereditary,"['Horror', 'Mystery', 'Thriller']",en,film-poster/4/2/4/3/4/8/424348-hereditary-0-230-0-345-crop,127,['English'],2018
+lion,Lion,['Drama'],en,film-poster/2/6/3/2/2/2/263222-lion-0-230-0-345-crop,118,"['বাংলা', 'English', 'हिन्दी']",2016
+the-game,The Game,"['Drama', 'Thriller', 'Mystery']",en,sm/upload/p4/tj/oj/ph/4b7QXyDJsDFXrwVHUNlrmezCZJC-0-230-0-345-crop,129,"['广州话 / 廣州話', 'Deutsch', 'English']",1997
+another-round,Another Round,"['Comedy', 'Drama']",da,film-poster/5/0/8/2/4/6/508246-another-round-0-230-0-345-crop,117,"['Dansk', 'svenska']",2020
+deadpool-2,Deadpool 2,"['Action', 'Comedy', 'Adventure']",en,film-poster/3/1/8/1/9/5/318195-deadpool-2-0-230-0-345-crop,119,"['广州话 / 廣州話', 'English', 'Pусский', 'Español']",2018
+us-2019,Us,"['Thriller', 'Horror', 'Mystery']",en,film-poster/3/9/0/5/2/0/390520-us-0-230-0-345-crop,116,['English'],2019
+alice-in-wonderland-2010,Alice in Wonderland,"['Family', 'Fantasy', 'Adventure']",en,sm/upload/qp/te/tw/3j/alice-in-wonderland-original-0-230-0-345-crop,108,['English'],2010
+dark-phoenix,Dark Phoenix,"['Science Fiction', 'Action', 'Adventure']",en,film-poster/2/4/7/3/8/5/247385-dark-phoenix-0-230-0-345-crop,114,['English'],2019
+iron-man-2008,Iron Man,"['Action', 'Science Fiction', 'Adventure']",en,film-poster/5/0/8/2/5/50825-iron-man-0-230-0-345-crop,126,"['English', 'فارسی', 'اردو', 'العربية']",2008
+the-godfather-part-ii,The Godfather: Part II,"['Drama', 'Crime']",en,film-poster/5/1/8/1/6/51816-the-godfather-part-ii-0-230-0-345-crop,202,"['English', 'Italiano', 'Latin', 'Español']",1974
+28-days-later,28 Days Later,"['Horror', 'Thriller', 'Science Fiction']",en,sm/upload/qr/28/nz/3f/xaYdxi1PBEAYvqknvAmMPK5Eff3-0-230-0-345-crop,113,"['Español', 'English']",2002
+adaptation,Adaptation.,"['Comedy', 'Crime', 'Drama']",en,film-poster/5/0/1/1/2/50112-adaptation--0-230-0-345-crop,115,"['English', 'Latin']",2002
+fast-furious-6,Fast & Furious 6,"['Action', 'Thriller', 'Crime']",en,film-poster/6/9/4/5/3/69453-fast-furious-6-0-230-0-345-crop,131,"['广州话 / 廣州話', 'Nederlands', 'English', '日本語', 'Pусский', 'Español']",2013
+jumanji,Jumanji,"['Adventure', 'Fantasy', 'Family']",en,sm/upload/7j/8o/rt/sd/8wBKXZNod4frLZjAKSDuAcQ2dEU-0-230-0-345-crop,104,"['English', 'Français']",1995
+little-women-2019,Little Women,"['Drama', 'Romance']",en,sm/upload/r4/np/q5/te/mSmiB8XjUnR1GSIljuCPGsk0cwX-0-230-0-345-crop,135,"['Français', 'English']",2019
+die-hard,Die Hard,"['Action', 'Thriller']",en,film-poster/5/1/5/5/6/51556-die-hard-0-230-0-345-crop,131,"['English', 'Deutsch', 'Italiano']",1988
+x2,X2,"['Adventure', 'Action', 'Science Fiction', 'Thriller']",en,sm/upload/lt/cd/xz/vb/xmen2-poster-0-230-0-345-crop,133,"['English', 'Deutsch', 'Italiano']",2003
+schindlers-list,Schindler's List,"['Drama', 'History', 'War']",en,sm/upload/bz/1x/em/jr/yPisjyLweCl1tbgwgtzBCNCBle-0-230-0-345-crop,195,"['Deutsch', 'Polski', 'עִבְרִית', 'English']",1993
+m,M,"['Drama', 'Action', 'Thriller', 'Crime']",de,film-poster/5/1/3/2/0/51320-m-0-230-0-345-crop,117,['Deutsch'],1931
+american-beauty,American Beauty,['Drama'],en,film-poster/2/7/0/3/2703-american-beauty-0-230-0-345-crop,122,['English'],1999
+scooby-doo,Scooby-Doo,"['Mystery', 'Adventure', 'Comedy']",en,sm/upload/35/mj/25/xd/yn1dLaEcvUHIgxmAu6NY5ho6CnJ-0-230-0-345-crop,88,['English'],2002
+jumanji-welcome-to-the-jungle,Jumanji: Welcome to the Jungle,"['Adventure', 'Action', 'Comedy', 'Fantasy']",en,sm/upload/j1/1c/as/56/bUzOyCgsb6FLXco6mxaNufY0joi-0-230-0-345-crop,119,['English'],2017
+crawl-2019,Crawl,"['Thriller', 'Horror']",en,film-poster/4/4/1/6/6/5/441665-crawl-0-230-0-345-crop,88,['English'],2019
+the-master-2012,The Master,['Drama'],en,film-poster/5/2/5/1/2/52512-the-master-0-230-0-345-crop,137,['English'],2012
+mad-max-2,Mad Max 2,"['Adventure', 'Action', 'Thriller', 'Science Fiction']",en,film-poster/4/7/5/9/9/47599-mad-max-2-the-road-warrior-0-230-0-345-crop,96,['English'],1981
+lucy-2014,Lucy,"['Action', 'Science Fiction']",en,film-poster/1/6/8/8/6/0/168860-lucy-0-230-0-345-crop,89,"['普通话', 'English', 'Français', 'Español', '한국어/조선말']",2014
+jurassic-park-iii,Jurassic Park III,"['Adventure', 'Action', 'Thriller', 'Science Fiction']",en,film-poster/5/1/7/3/1/51731-jurassic-park-iii-0-230-0-345-crop,92,"['English', 'Español']",2001
+madagascar,Madagascar,"['Family', 'Animation', 'Adventure', 'Comedy']",en,sm/upload/4g/qd/0m/h2/80MP1QuE4D8TQ0EBygGbWiWadrd-0-230-0-345-crop,86,"['English', 'Français', 'Deutsch', 'Português', 'Español']",2005
+star-trek-beyond,Star Trek Beyond,"['Action', 'Adventure', 'Science Fiction']",en,sm/upload/d7/xz/42/kc/bd7InZu9ItUjeLGZqcwCWEGPLjT-0-230-0-345-crop,122,['English'],2016
+spider-man,Spider-Man,"['Fantasy', 'Action']",en,film-poster/5/1/5/6/1/51561-spider-man-0-230-0-345-crop,121,['English'],2002
+sin-city,Sin City,"['Thriller', 'Action', 'Crime']",en,film-poster/5/1/8/6/5/51865-sin-city-0-230-0-345-crop,124,['English'],2005
+close-encounters-of-the-third-kind,Close Encounters of the Third Kind,"['Science Fiction', 'Drama']",en,sm/upload/4j/8g/do/5y/3Av8ZPiMrxFq9XiOjZl0tkoq9Oo-0-230-0-345-crop,135,"['हिन्दी', 'English', 'Français', 'Español']",1977
+home-alone-2-lost-in-new-york,Home Alone 2: Lost in New York,"['Comedy', 'Family', 'Adventure']",en,sm/upload/i5/04/e8/7t/home%20alone%202-0-230-0-345-crop,120,"['English', 'Français']",1992
+jackie-brown,Jackie Brown,"['Crime', 'Thriller', 'Drama']",en,sm/upload/08/3j/am/rx/4XVPYOdMAizdNMSwS0SK3fPJcvR-0-230-0-345-crop,154,['English'],1997
+bird-box,Bird Box,"['Thriller', 'Drama', 'Science Fiction']",en,film-poster/3/4/0/2/0/2/340202-bird-box-0-230-0-345-crop,124,['English'],2018
+megamind,Megamind,"['Animation', 'Action', 'Comedy', 'Family', 'Science Fiction']",en,film-poster/2/6/4/7/6/26476-megamind-0-230-0-345-crop,96,['English'],2010
+the-suicide-squad,The Suicide Squad,"['Action', 'Adventure', 'Fantasy', 'Comedy']",en,film-poster/3/6/9/8/3/5/369835-the-suicide-squad-0-230-0-345-crop,132,"['English', 'Français', 'Español']",2021
+burning-2018,Burning,"['Mystery', 'Drama', 'Thriller']",ko,film-poster/4/2/2/0/3/5/422035-burning-0-230-0-345-crop,148,"['English', '한국어/조선말']",2018
+double-indemnity,Double Indemnity,"['Crime', 'Drama', 'Mystery', 'Thriller']",en,film-poster/5/1/1/7/3/51173-double-indemnity-0-230-0-345-crop,107,['English'],1944
+under-the-skin-2013,Under the Skin,"['Thriller', 'Science Fiction', 'Drama']",en,sm/upload/dq/mt/4m/2s/vYbCF0Hn6f4kVtOtVF3FiktiiXd-0-230-0-345-crop,108,['English'],2013
+zero-dark-thirty,Zero Dark Thirty,"['Thriller', 'Drama', 'History']",en,film-poster/8/0/3/4/9/80349-zero-dark-thirty-0-230-0-345-crop,157,"['English', 'العربية']",2012
+neighbors-2014,Neighbors,['Comedy'],en,film-poster/1/4/0/5/1/2/140512-neighbors-0-230-0-345-crop,97,['English'],2014
+gangs-of-new-york-2002,Gangs of New York,"['Drama', 'History', 'Crime']",en,film-poster/4/9/8/4/6/49846-gangs-of-new-york-0-230-0-345-crop,167,"['English', 'Gaeilge', 'Latin', '普通话']",2002
+youre-next,You're Next,"['Horror', 'Thriller', 'Mystery']",en,sm/upload/8i/yg/d5/m5/qhVj0F09RFtQdBrBMPhrdzivRcI-0-230-0-345-crop,95,['English'],2011
+how-to-train-your-dragon-2,How to Train Your Dragon 2,"['Fantasy', 'Action', 'Adventure', 'Animation', 'Comedy', 'Family']",en,film-poster/6/9/1/4/2/69142-how-to-train-your-dragon-2-0-230-0-345-crop,102,['English'],2014
+interstellar,Interstellar,"['Adventure', 'Drama', 'Science Fiction']",en,film-poster/1/1/7/6/2/1/117621-interstellar-0-230-0-345-crop,169,['English'],2014
+the-invitation-2015,The Invitation,['Thriller'],en,sm/upload/d0/yt/w1/l2/v5Bdti2w5sqKNPge6I9jF2YpAqF-0-230-0-345-crop,100,['English'],2015
+the-400-blows,The 400 Blows,['Drama'],fr,film-poster/5/1/9/0/4/51904-the-400-blows-0-230-0-345-crop,99,"['English', 'Français']",1959
+the-prestige,The Prestige,"['Drama', 'Mystery', 'Thriller']",en,film-poster/5/1/1/4/7/51147-the-prestige-0-230-0-345-crop,130,['English'],2006
+now-you-see-me,Now You See Me,"['Thriller', 'Crime']",en,sm/upload/10/vk/qc/6e/1NybAlflbmRXMIr9WoYxtlt1b6m-0-230-0-345-crop,116,"['Français', 'English']",2013
+inception,Inception,"['Action', 'Science Fiction', 'Adventure']",en,sm/upload/sv/95/s9/4j/inception-0-230-0-345-crop,148,"['English', '日本語']",2010
+django-unchained,Django Unchained,"['Drama', 'Western']",en,film-poster/5/2/5/1/6/52516-django-unchained-0-230-0-345-crop,165,"['English', 'Français', 'Deutsch']",2012
+maleficent,Maleficent,"['Fantasy', 'Adventure', 'Action', 'Family', 'Romance']",en,sm/upload/dl/sr/wn/m6/1cFVCUYKSBuEUDoVftKvqcfuIgc-0-230-0-345-crop,97,['English'],2014
+lady-bird,Lady Bird,"['Drama', 'Comedy']",en,film-poster/3/2/6/2/7/9/326279-lady-bird-0-230-0-345-crop,94,['English'],2017
+eternal-sunshine-of-the-spotless-mind,Eternal Sunshine of the Spotless Mind,"['Science Fiction', 'Drama', 'Romance']",en,sm/upload/ay/bp/kl/1y/uBfQ7IGpi0jXSP3GPCzp9Pzm10v-0-230-0-345-crop,108,['English'],2004
+the-perks-of-being-a-wallflower,The Perks of Being a Wallflower,['Drama'],en,sm/upload/zz/o0/mz/sv/fyYncUQh5gUTvxmQ4bigm2DVCv7-0-230-0-345-crop,103,['English'],2012
+howls-moving-castle,Howl's Moving Castle,"['Fantasy', 'Animation', 'Adventure']",ja,film-poster/4/9/0/6/2/49062-howl-s-moving-castle-0-230-0-345-crop,119,['日本語'],2004
+perfect-blue,Perfect Blue,"['Animation', 'Thriller']",ja,film-poster/4/6/1/7/5/46175-perfect-blue-0-230-0-345-crop,81,['日本語'],1997
+fantastic-four-2005,Fantastic Four,"['Action', 'Adventure', 'Fantasy', 'Science Fiction']",en,film-poster/4/6/8/6/9/46869-fantastic-four-0-230-0-345-crop,106,['English'],2005
+despicable-me,Despicable Me,"['Family', 'Animation', 'Comedy']",en,film-poster/3/9/0/6/7/39067-despicable-me-0-230-0-345-crop,95,['English'],2010
+synecdoche-new-york,"Synecdoche, New York",['Drama'],en,sm/upload/z9/j9/kx/ve/l3r5MgeN0UUySPbf6aWeUyKGdb2-0-230-0-345-crop,124,"['Deutsch', 'English']",2008
+creed,Creed,['Drama'],en,film-poster/2/3/9/2/6/0/239260-creed-0-230-0-345-crop,133,['English'],2015
+scream-2,Scream 2,"['Horror', 'Mystery']",en,sm/upload/ju/sr/4r/t3/c5AyWNWooMGkJXlqLwmPQCjUwHt-0-230-0-345-crop,120,['English'],1997
+bottle-rocket-1996,Bottle Rocket,"['Comedy', 'Crime', 'Drama']",en,film-poster/4/3/6/8/0/43680-bottle-rocket-0-230-0-345-crop,91,"['Español', 'English']",1996
+raging-bull,Raging Bull,"['Drama', 'History']",en,film-poster/5/0/9/5/6/50956-raging-bull-0-230-0-345-crop,129,['English'],1980
+guardians-of-the-galaxy,Guardians of the Galaxy,"['Action', 'Science Fiction', 'Adventure']",en,film-poster/9/3/6/7/6/93676-guardians-of-the-galaxy-0-230-0-345-crop,121,['English'],2014
+scarface-1983,Scarface,"['Action', 'Crime', 'Drama', 'Thriller']",en,film-poster/5/1/9/3/9/51939-scarface-0-230-0-345-crop,170,"['English', 'Español']",1983
+thoroughbreds-2017,Thoroughbreds,"['Drama', 'Thriller']",en,film-poster/3/3/2/0/0/9/332009-thoroughbreds-0-230-0-345-crop,92,['English'],2017
+black-panther-2018,Black Panther,"['Action', 'Adventure', 'Science Fiction']",en,film-poster/2/0/9/3/8/3/209383-black-panther-0-230-0-345-crop,134,"['English', '한국어/조선말', 'Kiswahili']",2018
+mollys-game,Molly's Game,"['Crime', 'Drama']",en,sm/upload/te/bh/hd/ib/h9hUP5ZJGsjL2wbERrGlj4dMjZq-0-230-0-345-crop,140,['English'],2017
+saving-private-ryan,Saving Private Ryan,"['Drama', 'History', 'War']",en,sm/upload/hz/fu/r7/y7/35CMz4t7PuUiQqt5h4u5nbrXZlF-0-230-0-345-crop,169,"['Český', 'Deutsch', 'English', 'Français']",1998
+seven-psychopaths,Seven Psychopaths,"['Comedy', 'Crime']",en,sm/upload/pg/x4/nh/ju/tBXdHVUQozj229NqnM9CoExXvw1-0-230-0-345-crop,110,"['English', 'Tiếng Việt']",2012
+the-hateful-eight,The Hateful Eight,"['Crime', 'Drama', 'Mystery', 'Western']",en,film-poster/1/9/7/0/1/2/197012-the-hateful-eight-0-230-0-345-crop,188,"['Español', 'English']",2015
+brokeback-mountain,Brokeback Mountain,"['Drama', 'Romance']",en,film-poster/5/1/9/0/9/51909-brokeback-mountain-0-230-0-345-crop,134,['English'],2005
+eighth-grade,Eighth Grade,"['Comedy', 'Drama']",en,film-poster/4/2/0/4/5/1/420451-eighth-grade-0-230-0-345-crop,94,['English'],2018
+point-break,Point Break,"['Action', 'Thriller', 'Crime']",en,film-poster/5/1/1/5/7/51157-point-break-0-230-0-345-crop,122,['English'],1991
+step-brothers,Step Brothers,['Comedy'],en,film-poster/4/4/7/6/8/44768-step-brothers-0-230-0-345-crop,98,"['English', 'Español']",2008
+the-seventh-seal,The Seventh Seal,"['Fantasy', 'Drama']",sv,film-poster/5/1/6/2/0/51620-the-seventh-seal-0-230-0-345-crop,96,['svenska'],1957
+phantom-thread,Phantom Thread,"['Drama', 'Romance']",en,film-poster/3/3/5/3/8/4/335384-phantom-thread-0-230-0-345-crop,130,"['English', 'Français']",2017
+night-at-the-museum,Night at the Museum,"['Action', 'Adventure', 'Comedy', 'Family', 'Fantasy']",en,film-poster/5/0/9/4/1/50941-night-at-the-museum-0-230-0-345-crop,108,"['English', 'Italiano', 'עִבְרִית']",2006
+taken,Taken,"['Action', 'Thriller']",en,film-poster/4/7/6/4/8/47648-taken-0-230-0-345-crop,94,"['English', 'Français', 'العربية', 'shqip']",2008
+the-imitation-game,The Imitation Game,"['History', 'Drama', 'Thriller', 'War']",en,film-poster/1/4/6/9/5/4/146954-the-imitation-game-0-230-0-345-crop,113,['English'],2014
+the-shawshank-redemption,The Shawshank Redemption,"['Drama', 'Crime']",en,sm/upload/7l/hn/46/uz/zGINvGjdlO6TJRu9wESQvWlOKVT-0-230-0-345-crop,142,['English'],1994
+they-live,They Live,"['Science Fiction', 'Action']",en,film-poster/4/7/7/9/8/47798-they-live-0-230-0-345-crop,94,"['English', 'Deutsch']",1988
+how-to-train-your-dragon,How to Train Your Dragon,"['Fantasy', 'Adventure', 'Animation', 'Family']",en,sm/upload/0r/r7/c6/7e/hIXX3IRFy0InUOmYeWjvhCAgQNj-0-230-0-345-crop,98,['English'],2010
+love-actually,Love Actually,"['Comedy', 'Romance', 'Drama']",en,sm/upload/m4/4f/b1/h3/kfX8Ctin3fSZbdnjh6CXSNZUOVP-0-230-0-345-crop,135,"['English', 'Français', 'Português']",2003
+scary-movie-2000,Scary Movie,['Comedy'],en,film-poster/4/9/4/4/3/49443-scary-movie-0-230-0-345-crop,88,['English'],2000
+in-the-mood-for-love,In the Mood for Love,"['Drama', 'Romance']",cn,sm/upload/g1/7l/2j/qk/tSRdvZY1waXrTeMqeLBmq9IRs08-0-230-0-345-crop,99,"['广州话 / 廣州話', 'Français', 'Español']",2000
+pacific-rim,Pacific Rim,"['Action', 'Science Fiction', 'Adventure']",en,film-poster/5/2/5/0/8/52508-pacific-rim-0-230-0-345-crop,131,['English'],2013
+indiana-jones-and-the-temple-of-doom,Indiana Jones and the Temple of Doom,"['Adventure', 'Action']",en,film-poster/5/1/9/6/3/51963-indiana-jones-and-the-temple-of-doom-0-230-0-345-crop,118,"['普通话', 'English', 'සිංහල']",1984
+the-disaster-artist,The Disaster Artist,"['Comedy', 'Drama']",en,film-poster/3/0/7/2/9/8/307298-the-disaster-artist-0-230-0-345-crop,104,['English'],2017
+in-bruges,In Bruges,"['Comedy', 'Drama', 'Crime']",en,film-poster/4/7/8/0/9/47809-in-bruges-0-230-0-345-crop,108,['English'],2008
+split-2016,Split,"['Horror', 'Thriller']",en,sm/upload/5e/pw/vs/km/8CHJcVc5IGXS1sC5DyjeMwTDEQH-0-230-0-345-crop,117,['English'],2016
+popstar-never-stop-never-stopping,Popstar: Never Stop Never Stopping,"['Comedy', 'Music']",en,film-poster/2/7/0/4/7/6/270476-popstar-never-stop-never-stopping-0-230-0-345-crop,86,['English'],2016
+terminator-2-judgment-day,Terminator 2: Judgment Day,"['Action', 'Thriller', 'Science Fiction']",en,sm/upload/03/67/3s/tc/terminator-2-judgment-day-original-0-230-0-345-crop,137,"['English', 'Español']",1991
+x-men-days-of-future-past,X-Men: Days of Future Past,"['Action', 'Adventure', 'Fantasy', 'Science Fiction']",en,film-poster/9/9/5/0/7/99507-x-men-days-of-future-past-0-230-0-345-crop,132,['English'],2014
+ford-v-ferrari,Ford v Ferrari,"['Drama', 'Action', 'History']",en,film-poster/2/9/1/4/1/9/291419-ford-v-ferrari-0-230-0-345-crop,153,"['Français', '日本語', 'Italiano', 'English']",2019
+murder-on-the-orient-express-2017,Murder on the Orient Express,"['Mystery', 'Crime', 'Drama']",en,sm/upload/x3/oo/kp/41/iBlfxlw8qwtUS0R8YjIU7JtM6LM-0-230-0-345-crop,114,['English'],2017
+juno,Juno,"['Comedy', 'Drama', 'Romance']",en,film-poster/4/8/0/5/1/48051-juno-0-230-0-345-crop,96,['English'],2007
+mission-impossible-ii,Mission: Impossible II,"['Adventure', 'Action', 'Thriller']",en,sm/upload/67/p1/1d/1m/MnK1Kn8cFcORYT8pIIexPUwLfW-0-230-0-345-crop,123,['English'],2000
+slumdog-millionaire,Slumdog Millionaire,"['Drama', 'Romance']",en,film-poster/4/4/6/1/3/44613-slumdog-millionaire-0-230-0-345-crop,120,"['Français', 'हिन्दी', 'English']",2008
+star-wars-episode-iii-revenge-of-the-sith,Star Wars: Episode III - Revenge of the Sith,"['Science Fiction', 'Adventure', 'Action']",en,film-poster/5/0/7/0/9/50709-star-wars-episode-iii-revenge-of-the-sith-0-230-0-345-crop,140,['English'],2005
+the-royal-tenenbaums,The Royal Tenenbaums,"['Comedy', 'Drama']",en,sm/upload/sf/k0/qu/5o/5xw30y0pSaMtTcuZW5VaQPiR8qb-0-230-0-345-crop,110,"['English', 'Italiano']",2001
+skyfall,Skyfall,"['Action', 'Adventure', 'Thriller']",en,sm/upload/5j/ag/wy/k3/bwCC7klDpDcVtEXDK74vDzXLyeF-0-230-0-345-crop,143,['English'],2012
+12-years-a-slave,12 Years a Slave,"['Drama', 'History']",en,film-poster/6/2/6/7/1/62671-12-years-a-slave-0-230-0-345-crop,134,['English'],2013
+la-confidential,L.A. Confidential,"['Crime', 'Drama', 'Mystery', 'Thriller']",en,sm/upload/3n/0w/ax/pt/rIXzJCAvyd3Ci8ipylDQ5wUKqwh-0-230-0-345-crop,138,['English'],1997
+psycho,Psycho,"['Horror', 'Drama', 'Thriller']",en,sm/upload/a0/cs/2i/ec/81d8oyEFgj7FlxJqSDXWr8JH8kV-0-230-0-345-crop,109,['English'],1960
+north-by-northwest,North by Northwest,"['Mystery', 'Thriller']",en,film-poster/5/1/8/4/3/51843-north-by-northwest-0-230-0-345-crop,136,['English'],1959
+soul-2020,Soul,"['Animation', 'Comedy', 'Fantasy', 'Family']",en,film-poster/4/3/8/5/1/1/438511-soul-0-230-0-345-crop,101,['English'],2020
+halloween-2018,Halloween,"['Horror', 'Thriller']",en,film-poster/3/5/7/6/8/2/357682-halloween-0-230-0-345-crop,106,['English'],2018
+the-princess-bride,The Princess Bride,"['Adventure', 'Family', 'Fantasy', 'Comedy', 'Romance']",en,sm/upload/hk/2u/bd/9p/gpxjoE0yvRwIhFEJgNArtKtaN7S-0-230-0-345-crop,99,['English'],1987
+the-babadook,The Babadook,"['Drama', 'Horror']",en,film-poster/1/6/9/7/2/8/169728-the-babadook-0-230-0-345-crop,94,['English'],2014
+it-chapter-two,It Chapter Two,"['Horror', 'Fantasy']",en,film-poster/4/0/5/5/4/5/405545-it-chapter-two-0-230-0-345-crop,169,['English'],2019
+shutter-island,Shutter Island,"['Drama', 'Thriller', 'Mystery']",en,film-poster/4/5/4/0/9/45409-shutter-island-0-230-0-345-crop,138,"['English', 'Deutsch']",2010
+hacksaw-ridge,Hacksaw Ridge,"['Drama', 'History', 'War']",en,film-poster/2/5/1/8/7/2/251872-hacksaw-ridge-0-230-0-345-crop,139,"['日本語', 'English']",2016
+coco-2017,Coco,"['Family', 'Animation', 'Fantasy', 'Music', 'Comedy', 'Adventure']",en,sm/upload/3p/mh/wq/v9/6Ryitt95xrO8KXuqRGm1fUuNwqF-0-230-0-345-crop,105,"['English', 'Español']",2017
+taxi-driver,Taxi Driver,"['Crime', 'Drama']",en,sm/upload/zt/zd/oi/0f/ekstpH614fwDX8DUln1a2Opz0N8-0-230-0-345-crop,114,"['English', 'Español']",1976
+nocturnal-animals,Nocturnal Animals,"['Drama', 'Thriller']",en,sm/upload/nu/i0/7z/nd/oHL437Dz1TGQMlKfpE6rSQJgMxb-0-230-0-345-crop,116,['English'],2016
+scream,Scream,"['Crime', 'Horror', 'Mystery']",en,film-poster/4/9/4/5/5/49455-scream-0-230-0-345-crop,112,['English'],1996
+a-star-is-born-2018,A Star Is Born,"['Drama', 'Romance', 'Music']",en,film-poster/2/6/1/1/0/8/261108-a-star-is-born-0-230-0-345-crop,136,['English'],2018
+rogue-one-a-star-wars-story,Rogue One: A Star Wars Story,"['Action', 'Adventure', 'Science Fiction']",en,film-poster/2/5/8/1/2/8/258128-rogue-one-a-star-wars-story-0-230-0-345-crop,133,['English'],2016
+parasite-2019,Parasite,"['Comedy', 'Thriller', 'Drama']",ko,film-poster/4/2/6/4/0/6/426406-parasite-0-230-0-345-crop,133,"['English', 'Deutsch', '한국어/조선말']",2019
+inherent-vice,Inherent Vice,"['Drama', 'Mystery', 'Comedy']",en,film-poster/1/2/5/8/3/0/125830-inherent-vice-0-230-0-345-crop,149,['English'],2014
+saw,Saw,"['Horror', 'Mystery', 'Crime']",en,sm/upload/qd/18/jq/1b/oFl8U5Mzohs6z8mL8KT4Gjoiirm-0-230-0-345-crop,103,['English'],2004
+green-book,Green Book,"['Drama', 'Comedy', 'Music']",en,film-poster/4/2/0/7/0/3/420703-green-book-0-230-0-345-crop,130,"['English', 'Italiano', 'Pусский']",2018
+sonic-the-hedgehog,Sonic the Hedgehog,"['Action', 'Science Fiction', 'Comedy', 'Family']",en,film-poster/3/8/6/6/0/8/386608-sonic-the-hedgehog-0-230-0-345-crop,99,['English'],2020
+shrek-2,Shrek 2,"['Animation', 'Family', 'Comedy', 'Fantasy', 'Adventure']",en,sm/upload/g4/4m/0c/6s/rD8SvOTCCJ2VIpIV7GUwUKD1Kzc-0-230-0-345-crop,93,['English'],2004
+signs,Signs,"['Drama', 'Thriller', 'Science Fiction', 'Mystery']",en,film-poster/5/0/1/5/2/50152-signs-0-230-0-345-crop,106,"['English', 'Português']",2002
+scream-3,Scream 3,"['Horror', 'Mystery']",en,film-poster/4/9/4/5/3/49453-scream-3-0-230-0-345-crop,116,['English'],2000
+easy-a,Easy A,['Comedy'],en,film-poster/2/6/7/7/0/26770-easy-a-0-230-0-345-crop,93,['English'],2010
+captain-america-the-first-avenger,Captain America: The First Avenger,"['Action', 'Adventure', 'Science Fiction']",en,film-poster/5/0/8/0/9/50809-captain-america-the-first-avenger-0-230-0-345-crop,124,"['Français', 'Norsk', 'English']",2011
+robocop,RoboCop,"['Action', 'Thriller', 'Science Fiction']",en,sm/upload/dz/ke/a9/9m/robocop-0-230-0-345-crop,102,['English'],1987
+the-matrix-revolutions,The Matrix Revolutions,"['Adventure', 'Action', 'Thriller', 'Science Fiction']",en,film-poster/5/1/5/1/6/51516-the-matrix-revolutions-0-230-0-345-crop,129,"['English', 'Français']",2003
+kill-bill-vol-1,Kill Bill: Vol. 1,"['Action', 'Crime']",en,sm/upload/sw/w2/ep/v4/9O50TVszkz0dcP5g6Ej33UhR7vw-0-230-0-345-crop,111,"['English', '日本語', 'Français']",2003
+mission-impossible-fallout,Mission: Impossible - Fallout,"['Action', 'Adventure']",en,film-poster/2/8/3/2/7/3/283273-mission-impossible-fallout-0-230-0-345-crop,147,"['English', 'Français']",2018
+the-gift-2015-1,The Gift,"['Thriller', 'Mystery', 'Drama']",en,film-poster/2/5/5/9/2/7/255927-the-gift-0-230-0-345-crop,108,['English'],2015
+ted,Ted,"['Comedy', 'Fantasy']",en,sm/upload/ow/bs/pe/yv/carghLovNNSEphT9UZXTJ74I7lE-0-230-0-345-crop,107,['English'],2012
+spy,Spy,"['Action', 'Comedy', 'Crime']",en,film-poster/1/6/7/5/0/2/167502-spy-0-230-0-345-crop,120,"['Deutsch', 'English', 'Français', 'Italiano']",2015
+the-death-of-stalin,The Death of Stalin,"['Comedy', 'Drama', 'History']",en,sm/upload/2r/41/ij/ah/fWG5A6KMyInWDc5ZVkarjGPXkwC-0-230-0-345-crop,107,['English'],2017
+black-christmas,Black Christmas,"['Horror', 'Thriller', 'Mystery']",en,film-poster/4/1/3/0/5/41305-black-christmas-0-230-0-345-crop,98,['English'],1974
+the-meg,The Meg,"['Action', 'Science Fiction', 'Horror']",en,film-poster/2/7/6/2/9/1/276291-the-meg-0-230-0-345-crop,113,"['普通话', 'English', '日本語', 'ภาษาไทย']",2018
+shrek,Shrek,"['Animation', 'Comedy', 'Fantasy', 'Adventure', 'Family']",en,film-poster/5/1/3/4/4/51344-shrek-0-230-0-345-crop,90,['English'],2001
+the-avengers-2012,The Avengers,"['Science Fiction', 'Action', 'Adventure']",en,sm/upload/10/u6/42/pa/cezWGskPY5x7GaglTTRN4Fugfb8-0-230-0-345-crop,143,"['English', 'हिन्दी', 'Pусский']",2012
+ready-or-not-2019,Ready or Not,"['Horror', 'Thriller', 'Comedy']",en,film-poster/4/9/5/9/6/9/495969-ready-or-not-0-230-0-345-crop,95,['English'],2019
+what-we-do-in-the-shadows,What We Do in the Shadows,"['Comedy', 'Horror']",en,film-poster/1/7/2/5/3/7/172537-what-we-do-in-the-shadows-0-230-0-345-crop,86,"['Deutsch', 'English']",2014
+pitch-perfect,Pitch Perfect,"['Comedy', 'Music', 'Romance']",en,sm/upload/yw/kc/ma/m9/cLUMPdwCV0Dxd3P1ZkCXe7bVImI-0-230-0-345-crop,112,['English'],2012
+nomadland,Nomadland,['Drama'],en,sm/upload/wp/uz/5m/aa/eYMeV0DQuAkugB3TVBZBe2rEXka-0-230-0-345-crop,108,['English'],2020
+kubo-and-the-two-strings,Kubo and the Two Strings,"['Animation', 'Adventure', 'Family']",en,film-poster/2/4/0/0/6/8/240068-kubo-and-the-two-strings-0-230-0-345-crop,102,['English'],2016
+eraserhead,Eraserhead,"['Fantasy', 'Horror']",en,sm/upload/cw/7x/ig/m6/l8oAmU5swopsyWzTHpZtAK15Mrc-0-230-0-345-crop,89,['English'],1977
+romeo-juliet-1996,Romeo + Juliet,"['Drama', 'Romance']",en,film-poster/5/1/6/4/7/51647-romeo-juliet-0-230-0-345-crop,120,['English'],1996
+frances-ha,Frances Ha,"['Comedy', 'Drama']",en,film-poster/9/6/0/8/3/96083-frances-ha-0-230-0-345-crop,86,['English'],2012
+toy-story,Toy Story,"['Animation', 'Adventure', 'Family', 'Comedy']",en,film-poster/5/1/2/9/0/51290-toy-story-0-230-0-345-crop,81,['English'],1995
+locke,Locke,"['Drama', 'Thriller']",en,film-poster/1/4/9/8/0/2/149802-locke-0-230-0-345-crop,85,['English'],2013
+melancholia,Melancholia,"['Drama', 'Science Fiction']",en,sm/upload/1y/p9/o1/xu/eCjATHunhgLl9ARKUFtmKguaWDJ-0-230-0-345-crop,135,['English'],2011
+captain-marvel,Captain Marvel,"['Action', 'Adventure', 'Science Fiction']",en,film-poster/2/2/6/7/5/0/226750-captain-marvel-0-230-0-345-crop,124,['English'],2019
+iron-man-3,Iron Man 3,"['Action', 'Adventure', 'Science Fiction']",en,sm/upload/5r/0i/96/db/7XiGqZE8meUv7L4720L0tIDd7gO-0-230-0-345-crop,130,['English'],2013
+elf,Elf,"['Comedy', 'Family', 'Fantasy']",en,sm/upload/na/qh/1q/84/lJqIgDqRr3nw3PiGu7ESCANCs9I-0-230-0-345-crop,97,['English'],2003
+corpse-bride,Corpse Bride,"['Romance', 'Fantasy', 'Animation']",en,sm/upload/v1/h6/lc/lu/o9GbcdP7rOg2m1NyUnUR3ZwNcTE-0-230-0-345-crop,77,['English'],2005
+me-and-earl-and-the-dying-girl,Me and Earl and the Dying Girl,"['Comedy', 'Drama']",en,film-poster/2/3/5/4/8/0/235480-me-and-earl-and-the-dying-girl-0-230-0-345-crop,105,['English'],2015
+speed,Speed,"['Action', 'Adventure', 'Crime']",en,film-poster/5/0/9/0/4/50904-speed-0-230-0-345-crop,116,['English'],1994
+the-truman-show,The Truman Show,"['Comedy', 'Drama']",en,sm/upload/xx/io/jp/45/the-truman-show-0-230-0-345-crop,103,['English'],1998
+avengers-infinity-war,Avengers: Infinity War,"['Adventure', 'Action', 'Science Fiction']",en,film-poster/2/2/6/6/6/1/226661-avengers-infinity-war-0-230-0-345-crop,149,['English'],2018
+after-hours,After Hours,"['Comedy', 'Thriller', 'Drama']",en,sm/upload/2z/7c/vx/lo/qpr5tRmvyx4rbv1gKMKbW1v5JUC-0-230-0-345-crop,97,['English'],1985
+logan-lucky,Logan Lucky,"['Action', 'Comedy', 'Crime', 'Drama']",en,sm/upload/oh/pn/ri/gu/mQrhrBaaHvRfBQq0Px3HtVbH9iE-0-230-0-345-crop,118,['English'],2017
+les-miserables-2012,Les Misérables,"['History', 'Drama']",en,film-poster/6/9/1/4/9/69149-les-miserables-0-230-0-345-crop,158,['English'],2012
+lost-highway,Lost Highway,"['Drama', 'Thriller', 'Mystery']",en,sm/upload/25/5e/r1/3t/z6yhgEzGUJaBBgAxoyggRzwLnVM-0-230-0-345-crop,134,['English'],1997
+being-john-malkovich,Being John Malkovich,"['Comedy', 'Drama', 'Fantasy']",en,film-poster/5/1/6/1/8/51618-being-john-malkovich-0-230-0-345-crop,113,"['Français', 'English']",1999
+an-american-werewolf-in-london,An American Werewolf in London,"['Horror', 'Comedy']",en,film-poster/5/1/3/3/8/51338-an-american-werewolf-in-london-0-230-0-345-crop,97,['English'],1981
+10-things-i-hate-about-you,10 Things I Hate About You,"['Comedy', 'Romance', 'Drama']",en,sm/upload/hl/jj/br/9g/Kd5OkBc6GyUa1tIpxYUHLpyE2t-0-230-0-345-crop,97,"['English', 'Français']",1999
+the-handmaiden,The Handmaiden,"['Thriller', 'Drama', 'Romance']",ko,sm/upload/pc/n6/pz/mi/wvzfK5QR6dGLwND8MCzWjsQWG4Q-0-230-0-345-crop,145,"['日本語', '한국어/조선말']",2016
+bad-times-at-the-el-royale,Bad Times at the El Royale,"['Thriller', 'Drama', 'Mystery', 'Crime']",en,film-poster/3/7/8/4/7/3/378473-bad-times-at-the-el-royale-0-230-0-345-crop,141,['English'],2018
+eyes-wide-shut,Eyes Wide Shut,"['Drama', 'Thriller', 'Mystery']",en,sm/upload/td/om/t8/dh/c8X6UIbzbhBBuyuHRrzVzaCMbkZ-0-230-0-345-crop,159,['English'],1999
+the-terminator,The Terminator,"['Action', 'Thriller', 'Science Fiction']",en,sm/upload/g2/2g/f0/6b/the-terminator-original-0-230-0-345-crop,108,['English'],1984
+green-room,Green Room,"['Horror', 'Crime', 'Thriller']",en,film-poster/2/4/1/0/5/2/241052-green-room-0-230-0-345-crop,95,['English'],2015
+hellraiser,Hellraiser,['Horror'],en,film-poster/4/7/4/3/8/47438-hellraiser-0-230-0-345-crop,94,['English'],1987
+zombieland-double-tap,Zombieland: Double Tap,"['Horror', 'Action', 'Comedy']",en,film-poster/2/6/8/3/8/0/268380-zombieland-double-tap-0-230-0-345-crop,99,['English'],2019
+good-will-hunting,Good Will Hunting,['Drama'],en,film-poster/5/1/6/2/1/51621-good-will-hunting-0-230-0-345-crop,127,['English'],1997
+the-nightmare-before-christmas,The Nightmare Before Christmas,"['Fantasy', 'Animation', 'Family']",en,film-poster/4/7/1/1/9/47119-the-nightmare-before-christmas-0-230-0-345-crop,76,['English'],1993
+moonrise-kingdom,Moonrise Kingdom,"['Comedy', 'Drama', 'Romance']",en,sm/upload/v5/7f/mn/y8/ysTohGF7NY9Z6MYz9vLNYiyzh0r-0-230-0-345-crop,94,['English'],2012
+the-host,The Host,"['Horror', 'Drama', 'Science Fiction']",ko,film-poster/5/1/1/2/5/51125-the-host-0-230-0-345-crop,120,"['English', '한국어/조선말']",2006
+possession,Possession,['Horror'],fr,sm/upload/8c/pk/z8/4v/aIjO3kraeaD4MDBSef3rTO2vIuZ-0-230-0-345-crop,124,"['English', 'Français', 'Deutsch']",1981
+forrest-gump,Forrest Gump,"['Comedy', 'Drama', 'Romance']",en,sm/upload/nr/k3/ab/cc/zlCyDduhGLJ5yEYPo7UVyeE0rab-0-230-0-345-crop,142,['English'],1994
+the-edge-of-seventeen,The Edge of Seventeen,"['Comedy', 'Drama']",en,film-poster/3/1/1/8/9/4/311894-the-edge-of-seventeen-0-230-0-345-crop,105,['English'],2016
+the-theory-of-everything-2014,The Theory of Everything,"['Drama', 'Romance']",en,film-poster/1/9/0/0/7/7/190077-the-theory-of-everything-0-230-0-345-crop,123,"['Latin', 'English', 'Français', 'Italiano']",2014
+raising-arizona,Raising Arizona,"['Comedy', 'Crime']",en,film-poster/5/1/7/0/7/51707-raising-arizona-0-230-0-345-crop,94,['English'],1987
+superbad,Superbad,['Comedy'],en,film-poster/4/7/7/7/6/47776-superbad-0-230-0-345-crop,113,['English'],2007
+black-mirror-bandersnatch,Black Mirror: Bandersnatch,"['Science Fiction', 'Mystery', 'Drama', 'Thriller', 'TV Movie']",en,sm/upload/ko/oe/64/j1/e497fa503c25cdde4fc76db4916c4548-0-230-0-345-crop,90,['English'],2018
+thelma-louise,Thelma & Louise,"['Drama', 'Thriller', 'Crime', 'Adventure']",en,sm/upload/wt/r4/hc/iz/pnzuLoE52EiTfjfqRex2uTkH7LB-0-230-0-345-crop,130,['English'],1991
+stand-by-me,Stand by Me,"['Crime', 'Drama']",en,film-poster/5/1/8/2/1/51821-stand-by-me-0-230-0-345-crop,89,['English'],1986
+battle-royale,Battle Royale,"['Drama', 'Thriller', 'Action']",ja,film-poster/4/9/8/1/0/49810-battle-royale-0-230-0-345-crop,123,['日本語'],2000
+your-name,Your Name.,"['Romance', 'Animation', 'Drama']",ja,sm/upload/md/ku/l7/m5/xq1Ugd62d23K2knRUx6xxuALTZB-0-230-0-345-crop,106,['日本語'],2016
+no-time-to-die-2021,No Time to Die,"['Adventure', 'Action', 'Thriller']",en,film-poster/3/0/5/9/6/4/305964-no-time-to-die-0-230-0-345-crop,163,"['Pусский', 'Español', 'English', 'Italiano', 'Français']",2021
+the-wolf-of-wall-street,The Wolf of Wall Street,"['Crime', 'Drama', 'Comedy']",en,film-poster/8/6/1/1/4/86114-the-wolf-of-wall-street-0-230-0-345-crop,180,"['English', 'Français']",2013
+return-of-the-jedi,Return of the Jedi,"['Adventure', 'Action', 'Science Fiction']",en,sm/upload/88/lu/ak/8v/5wDrNqePjb5SOucrWQwiFu340vv-0-230-0-345-crop,135,['English'],1983
+knives-out-2019,Knives Out,"['Comedy', 'Drama', 'Crime', 'Mystery']",en,film-poster/4/7/5/3/7/0/475370-knives-out-0-230-0-345-crop,131,"['Español', 'English']",2019
+the-amazing-spider-man-2,The Amazing Spider-Man 2,"['Action', 'Adventure', 'Fantasy']",en,sm/upload/fs/xh/ms/hx/9HFdUfEuvbsaBfroPZNeDiA9W9-0-230-0-345-crop,142,['English'],2014
+the-wizard-of-oz-1939,The Wizard of Oz,"['Adventure', 'Fantasy', 'Family']",en,film-poster/5/1/4/9/4/51494-the-wizard-of-oz-0-230-0-345-crop,102,['English'],1939
+alien,Alien,"['Horror', 'Science Fiction']",en,sm/upload/8v/f1/qw/aa/bg7K6VtUG7Ew70gQj6SSroD5d4R-0-230-0-345-crop,117,"['English', 'Español']",1979
+rocketman-2019,Rocketman,"['Music', 'Drama', 'History']",en,film-poster/4/3/4/4/8/2/434482-rocketman-0-230-0-345-crop,121,['English'],2019
+tenet,Tenet,"['Action', 'Thriller', 'Science Fiction']",en,sm/upload/pq/9f/sr/vt/aCIFMriQh8rvhxpN1IWGgvH0Tlg-0-230-0-345-crop,150,['English'],2020
+the-favourite,The Favourite,"['History', 'Drama', 'Comedy']",en,film-poster/3/1/0/7/0/5/310705-the-favourite-0-230-0-345-crop,119,['English'],2018
+the-ballad-of-buster-scruggs,The Ballad of Buster Scruggs,"['Comedy', 'Drama', 'Western']",en,film-poster/4/6/7/0/6/1/467061-the-ballad-of-buster-scruggs-0-230-0-345-crop,132,['English'],2018
+the-invisible-man-2020,The Invisible Man,"['Thriller', 'Science Fiction', 'Horror']",en,film-poster/4/9/9/0/8/5/499085-the-invisible-man-0-230-0-345-crop,124,['English'],2020
+snowpiercer,Snowpiercer,"['Action', 'Science Fiction', 'Drama']",ko,film-poster/8/8/4/8/8/88488-snowpiercer-0-230-0-345-crop,127,"['English', 'Français', '日本語', '한국어/조선말']",2013
+requiem-for-a-dream,Requiem for a Dream,"['Crime', 'Drama']",en,sm/upload/lv/4b/f2/zj/muym4jTjdLx7E6as09d1wlC3sOB-0-230-0-345-crop,102,['English'],2000
+kikis-delivery-service,Kiki's Delivery Service,"['Animation', 'Family', 'Fantasy', 'Adventure']",ja,sm/upload/5e/rk/0e/99/C70E830B-E641-4CD4-87B3-8DFB91383E20-0-230-0-345-crop,103,['日本語'],1989
+ratatouille,Ratatouille,"['Animation', 'Comedy', 'Family', 'Fantasy']",en,sm/upload/n8/rl/pc/se/jEiEU8viSb8CIIHcfprVr2V6XDz-0-230-0-345-crop,111,"['English', 'Français']",2007
+atomic-blonde,Atomic Blonde,"['Action', 'Thriller']",en,film-poster/2/7/0/4/7/7/270477-atomic-blonde-0-230-0-345-crop,115,"['svenska', 'English', 'Deutsch', 'Pусский']",2017
+cars-2,Cars 2,"['Animation', 'Family', 'Adventure', 'Comedy']",en,film-poster/1/6/5/6/0/16560-cars-2-0-230-0-345-crop,106,"['English', '日本語', 'Italiano', 'Français']",2011
+jurassic-world,Jurassic World,"['Action', 'Adventure', 'Science Fiction', 'Thriller']",en,film-poster/1/0/4/1/7/4/104174-jurassic-world-0-230-0-345-crop,124,['English'],2015
+suspiria,Suspiria,['Horror'],it,film-poster/4/4/9/0/0/44900-suspiria-0-230-0-345-crop,99,"['Deutsch', 'English', 'Italiano', 'Latin']",1977
+ad-astra-2019,Ad Astra,"['Science Fiction', 'Drama']",en,film-poster/3/5/3/4/8/5/353485-ad-astra-0-230-0-345-crop,123,"['English', 'Norsk']",2019
+rushmore,Rushmore,"['Comedy', 'Drama']",en,sm/upload/vx/bi/ni/1k/921qm0FJwDvi6ptaxNCp7xvqNGA-0-230-0-345-crop,93,"['Français', 'English', 'Latin', 'Español']",1998
+space-jam,Space Jam,"['Animation', 'Family', 'Comedy', 'Science Fiction']",en,sm/upload/2r/nv/5b/ef/bJhVLribUKCrKv1h1WFqv4QmRWM-0-230-0-345-crop,88,['English'],1996
+the-hangover,The Hangover,['Comedy'],en,film-poster/4/0/1/0/0/40100-the-hangover-0-230-0-345-crop,100,['English'],2009
+the-goonies,The Goonies,"['Adventure', 'Comedy', 'Family']",en,sm/upload/aa/b7/fu/qo/56EjKCNGQD6I698mFIVk8tUbQjR-0-230-0-345-crop,114,"['English', 'Italiano', 'Español', '广州话 / 廣州話']",1985
+escape-from-new-york,Escape from New York,"['Science Fiction', 'Action']",en,sm/upload/ft/7g/e0/y0/50aa3ZKcDF0c3r6nqY5I4jP1xnp-0-230-0-345-crop,99,['English'],1981
+office-space,Office Space,['Comedy'],en,film-poster/5/0/9/9/1/50991-office-space-0-230-0-345-crop,89,['English'],1999
+back-to-the-future,Back to the Future,"['Adventure', 'Comedy', 'Science Fiction', 'Family']",en,film-poster/5/1/9/4/5/51945-back-to-the-future-0-230-0-345-crop,116,['English'],1985
+bridge-of-spies,Bridge of Spies,"['Thriller', 'Drama']",en,sm/upload/xd/r7/gq/zd/nokkbw7qbEj4qISQSWuTqltkaIo-0-230-0-345-crop,141,"['Pусский', 'English', 'Deutsch']",2015
+love-simon,"Love, Simon","['Comedy', 'Drama', 'Romance']",en,film-poster/3/8/1/3/4/0/381340-love-simon-0-230-0-345-crop,110,['English'],2018
+up,Up,"['Animation', 'Comedy', 'Family', 'Adventure']",en,film-poster/4/3/3/0/2/43302-up-0-230-0-345-crop,96,['English'],2009
+man-of-steel,Man of Steel,"['Action', 'Adventure', 'Fantasy', 'Science Fiction']",en,sm/upload/wx/hm/hf/14/uKnhbfNt1ZR2TdoZpdn7vSNZlhX-0-230-0-345-crop,143,['English'],2013
+cloverfield,Cloverfield,"['Action', 'Thriller', 'Science Fiction']",en,sm/upload/07/hp/61/ut/as01o40tJ2FhtheqeXf7bVZ0EQO-0-230-0-345-crop,85,"['Pусский', 'English']",2008
+the-trial-of-the-chicago-7,The Trial of the Chicago 7,"['History', 'Drama']",en,film-poster/4/8/5/5/1/9/485519-the-trial-of-the-chicago-7-0-230-0-345-crop,130,['English'],2020
+borat-cultural-learnings-of-america-for-make-benefit-glorious-nation-of-kazakhstan,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,['Comedy'],en,film-poster/5/1/6/1/4/51614-borat-cultural-learnings-of-america-for-make-benefit-glori-0-230-0-345-crop,84,"['עִבְרִית', 'English', 'Polski', 'Română']",2006
+zodiac,Zodiac,"['Crime', 'Drama', 'Mystery', 'Thriller']",en,sm/upload/58/tf/z6/gw/qKQIjErYaN149hZRP5Vgf8RoC7S-0-230-0-345-crop,157,['English'],2007
+mulan,Mulan,"['Animation', 'Family', 'Adventure']",en,sm/upload/yz/dm/zk/5z/5vG3XyQNxOkl2Qd7D8MzMoY6sm2-0-230-0-345-crop,88,"['English', '普通话']",1998
+suicide-squad-2016,Suicide Squad,"['Action', 'Adventure', 'Fantasy']",en,sm/upload/t0/3y/yr/rs/n3rm3gxguxzFDlygpROV7RHbELe-0-230-0-345-crop,123,"['English', '日本語', 'Español']",2016
+the-dark-knight,The Dark Knight,"['Drama', 'Action', 'Crime', 'Thriller']",en,sm/upload/78/y5/zg/ej/oefdD26aey8GPdx7Rm45PNncJdU-0-230-0-345-crop,152,"['English', '普通话']",2008
+prisoners,Prisoners,"['Drama', 'Thriller', 'Crime']",en,sm/upload/iw/eg/4g/nm/3w79tTsv6tmlT8Jww6snyPrgVok-0-230-0-345-crop,153,['English'],2013
+it-comes-at-night,It Comes at Night,"['Drama', 'Horror', 'Mystery']",en,film-poster/3/5/1/9/1/4/351914-it-comes-at-night-0-230-0-345-crop,91,['English'],2017
+brave-2012,Brave,"['Animation', 'Adventure', 'Comedy', 'Family', 'Action', 'Fantasy']",en,sm/upload/ct/de/cg/m1/tZhun7eLdyGv9nMJS9YTyOXeOCb-0-230-0-345-crop,93,['English'],2012
+spider-man-far-from-home,Spider-Man: Far from Home,"['Action', 'Adventure', 'Science Fiction']",en,film-poster/3/6/2/9/7/7/362977-spider-man-far-from-home-0-230-0-345-crop,129,"['Český', 'Nederlands', 'English', 'Deutsch', 'Italiano']",2019
+gone-girl,Gone Girl,"['Mystery', 'Thriller', 'Drama']",en,film-poster/1/4/9/8/5/7/149857-gone-girl-0-230-0-345-crop,149,['English'],2014
+war-for-the-planet-of-the-apes,War for the Planet of the Apes,"['Drama', 'Science Fiction', 'War']",en,sm/upload/8x/qv/nm/63/ijQHiImv16vNSeZQsmih04kwn0C-0-230-0-345-crop,140,['English'],2017
+magnolia,Magnolia,['Drama'],en,film-poster/5/1/7/2/8/51728-magnolia-0-230-0-345-crop,189,"['English', 'Français', 'Deutsch']",1999
+okja,Okja,"['Adventure', 'Drama', 'Science Fiction', 'Action']",en,film-poster/3/2/2/1/1/0/322110-okja-0-230-0-345-crop,122,"['한국어/조선말', 'Español', 'English']",2017
+pinocchio,Pinocchio,"['Animation', 'Family']",en,film-poster/4/5/7/9/7/45797-pinocchio-0-230-0-345-crop,88,['English'],1940
+the-texas-chain-saw-massacre,The Texas Chain Saw Massacre,['Horror'],en,film-poster/3/1/9/8/5/31985-the-texas-chain-saw-massacre-0-230-0-345-crop,83,['English'],1974
+widows-2018,Widows,"['Crime', 'Thriller']",en,film-poster/3/3/6/0/6/6/336066-widows-0-230-0-345-crop,129,"['English', 'Polski', 'Español']",2018
+the-empire-strikes-back,The Empire Strikes Back,"['Adventure', 'Action', 'Science Fiction']",en,sm/upload/mp/pz/lf/2i/7BuH8itoSrLExs2YZSsM01Qk2no-0-230-0-345-crop,124,['English'],1980
+paris-texas,"Paris, Texas",['Drama'],en,film-poster/5/1/4/6/9/51469-paris-texas-0-230-0-345-crop,146,"['Español', 'English']",1984
+paths-of-glory,Paths of Glory,"['Drama', 'War']",en,film-poster/5/1/1/9/4/51194-paths-of-glory-0-230-0-345-crop,88,"['English', 'Italiano', 'Latin', 'Deutsch']",1957
+rope,Rope,"['Crime', 'Thriller']",en,film-poster/5/0/9/5/4/50954-rope-0-230-0-345-crop,81,['English'],1948
+the-hobbit-the-desolation-of-smaug,The Hobbit: The Desolation of Smaug,"['Fantasy', 'Adventure', 'Action']",en,sm/upload/e0/ek/na/yb/gQCiuxGsfiXH1su6lp9n0nd0UeH-0-230-0-345-crop,161,['English'],2013
+blue-velvet,Blue Velvet,"['Drama', 'Crime', 'Mystery', 'Thriller']",en,film-poster/5/1/3/5/9/51359-blue-velvet-0-230-0-345-crop,120,['English'],1986
+the-kings-speech,The King's Speech,"['Drama', 'History']",en,film-poster/5/3/6/3/5363-the-king-s-speech-0-230-0-345-crop,118,['English'],2010
+the-usual-suspects,The Usual Suspects,"['Drama', 'Crime', 'Thriller']",en,film-poster/5/1/4/9/5/51495-the-usual-suspects-0-230-0-345-crop,106,"['Español', 'English', 'Français', 'Magyar']",1995
+the-neon-demon,The Neon Demon,"['Thriller', 'Horror']",en,sm/upload/bq/o8/8y/yr/paofVcjP4QgIruLIqeRKIskpDUw-0-230-0-345-crop,118,['English'],2016
+star-wars-the-rise-of-skywalker,Star Wars: The Rise of Skywalker,"['Action', 'Adventure', 'Science Fiction']",en,film-poster/1/3/1/9/8/4/131984-star-wars-the-rise-of-skywalker-0-230-0-345-crop,142,['English'],2019
+the-shining,The Shining,"['Horror', 'Thriller']",en,sm/upload/7s/m2/bw/d0/caoYMcjUamGoBVy65i1AHJBvdzw-0-230-0-345-crop,144,['English'],1980
+charlie-and-the-chocolate-factory,Charlie and the Chocolate Factory,"['Adventure', 'Comedy', 'Family', 'Fantasy']",en,film-poster/5/1/9/3/2/51932-charlie-and-the-chocolate-factory-0-230-0-345-crop,115,['English'],2005
+bill-teds-excellent-adventure,Bill & Ted's Excellent Adventure,"['Adventure', 'Comedy', 'Science Fiction']",en,film-poster/5/0/8/9/4/50894-bill-ted-s-excellent-adventure-0-230-0-345-crop,90,"['English', 'Français', 'Deutsch', 'ελληνικά']",1989
+one-flew-over-the-cuckoos-nest,One Flew Over the Cuckoo's Nest,['Drama'],en,sm/upload/lf/ry/hy/2e/RHteRHXqym9f0gI4cmChbFOxD-0-230-0-345-crop,133,['English'],1975
+army-of-darkness,Army of Darkness,"['Fantasy', 'Horror', 'Comedy']",en,sm/upload/a7/6d/2x/pn/z7jxLTbnDx4tmLprfClKoUvOPmF-0-230-0-345-crop,81,['English'],1992
+dazed-and-confused,Dazed and Confused,"['Comedy', 'Drama']",en,sm/upload/7h/zn/l9/ps/2lHRRgoof25kJsLgocf3go2Ccp1-0-230-0-345-crop,102,['English'],1993
+spider-man-homecoming,Spider-Man: Homecoming,"['Action', 'Adventure', 'Science Fiction', 'Drama']",en,film-poster/2/4/2/7/1/0/242710-spider-man-homecoming-0-230-0-345-crop,133,['English'],2017
+titanic-1997,Titanic,"['Drama', 'Romance']",en,film-poster/5/1/5/2/4/51524-titanic-0-230-0-345-crop,194,"['English', 'Français', 'Deutsch', 'svenska', 'Italiano', 'Pусский']",1997
+the-fifth-element,The Fifth Element,"['Adventure', 'Fantasy', 'Action', 'Thriller', 'Science Fiction']",en,film-poster/2/6/9/9/2699-the-fifth-element-0-230-0-345-crop,126,"['English', 'svenska', 'Deutsch']",1997
+punch-drunk-love,Punch-Drunk Love,"['Comedy', 'Drama', 'Romance']",en,film-poster/4/7/9/1/4/47914-punch-drunk-love-0-230-0-345-crop,96,['English'],2002
+black-swan,Black Swan,"['Drama', 'Thriller', 'Horror']",en,sm/upload/yt/ae/iz/kj/bIjkE9Og0nulRycj144sCcQcsZ6-0-230-0-345-crop,108,"['English', 'Français', 'Italiano']",2010
+sunset-boulevard,Sunset Boulevard,['Drama'],en,film-poster/5/1/5/2/2/51522-sunset-boulevard-0-230-0-345-crop,110,['English'],1950
+jaws,Jaws,"['Horror', 'Thriller', 'Adventure']",en,film-poster/5/1/5/4/2/51542-jaws-0-230-0-345-crop,124,['English'],1975
+the-killing-of-a-sacred-deer,The Killing of a Sacred Deer,"['Drama', 'Thriller', 'Mystery']",en,film-poster/3/3/3/3/1/0/333310-the-killing-of-a-sacred-deer-0-230-0-345-crop,121,"['English', 'Français']",2017
+rise-of-the-planet-of-the-apes,Rise of the Planet of the Apes,"['Thriller', 'Action', 'Drama', 'Science Fiction']",en,film-poster/4/9/4/8/4948-rise-of-the-planet-of-the-apes-0-230-0-345-crop,105,['English'],2011
+how-the-grinch-stole-christmas-2000,How the Grinch Stole Christmas,"['Family', 'Comedy', 'Fantasy']",en,film-poster/4/7/5/5/3/47553-the-grinch-0-230-0-345-crop,104,['English'],2000
+fast-five,Fast Five,"['Action', 'Thriller', 'Crime']",en,sm/upload/xr/1t/wx/2n/cA81CI8odKv5KHRUUzJbj83yN7c-0-230-0-345-crop,130,"['English', 'Español', 'Português', 'Italiano']",2011
+captain-phillips,Captain Phillips,"['Action', 'Drama', 'Thriller']",en,sm/upload/40/ff/o6/j6/zyYLjnmr928WDLOxGPF1fzdu7E5-0-230-0-345-crop,134,"['English', 'Somali']",2013
+about-time,About Time,"['Drama', 'Romance', 'Fantasy']",en,sm/upload/uo/th/yf/uz/zSuh8dGwqpsWR7ccvYbfxbSZ37o-0-230-0-345-crop,123,['English'],2013
+the-life-aquatic-with-steve-zissou,The Life Aquatic with Steve Zissou,"['Adventure', 'Comedy', 'Drama']",en,sm/upload/lj/js/4a/zc/the-life-aquatic-with-steve-zissou-original-0-230-0-345-crop,119,"['English', 'Íslenska', 'Português', 'Français', 'Deutsch', 'Italiano']",2004
+scream-4,Scream 4,"['Horror', 'Mystery']",en,sm/upload/xw/xb/gx/5p/xEl8QQunHWUtf0dlKEbMXlfKSdr-0-230-0-345-crop,111,['English'],2011
+the-post-2017,The Post,"['Drama', 'History']",en,sm/upload/3w/bp/ll/7n/qyRwj5VvuTRdJ76o2grP93grNxt-0-230-0-345-crop,116,['English'],2017
+the-lobster,The Lobster,"['Comedy', 'Drama', 'Romance']",en,film-poster/1/7/8/1/2/3/178123-the-lobster-0-230-0-345-crop,118,"['English', 'Français', 'ελληνικά']",2015
+dunkirk-2017,Dunkirk,"['War', 'Action', 'Drama']",en,sm/upload/md/nb/pu/3i/bOXBV303Fgkzn2K4FeKDc0O31q4-0-230-0-345-crop,107,"['English', 'Français', 'Deutsch']",2017
+monsters-university,Monsters University,"['Animation', 'Family']",en,sm/upload/jp/xk/2p/xm/rmhqxsa5RDlcDDGWnGr8t5IG6Fw-0-230-0-345-crop,104,['English'],2013
+furious-7,Furious 7,"['Action', 'Thriller', 'Crime', 'Adventure']",en,film-poster/1/2/4/1/3/3/124133-furious-7-0-230-0-345-crop,137,"['العربية', 'English', 'Español', 'ภาษาไทย']",2015
+the-lion-king-2019,The Lion King,"['Adventure', 'Family', 'Animation']",en,film-poster/3/5/4/5/3/9/354539-the-lion-king-0-230-0-345-crop,118,['English'],2019
+the-social-network,The Social Network,['Drama'],en,sm/upload/nw/cm/pa/ai/sGQv3ZMZBDBnl3z42Q0mEQ5uiDe-0-230-0-345-crop,121,['English'],2010
+borat-subsequent-moviefilm,Borat Subsequent Moviefilm,['Comedy'],en,sm/upload/vm/qf/ng/lp/2FE2A140-82B9-48C7-ABD8-6632D4385666-0-230-0-345-crop,96,"['English', 'български език', 'Magyar', 'עִבְרִית', 'Română']",2020
+moonlight-2016,Moonlight,['Drama'],en,sm/upload/90/gn/c7/9k/qAwFbszz0kRyTuXmMeKQZCX3Q2O-0-230-0-345-crop,111,['English'],2016
+harry-potter-and-the-deathly-hallows-part-2,Harry Potter and the Deathly Hallows: Part 2,"['Fantasy', 'Adventure']",en,film-poster/4/4/5/8/0/44580-harry-potter-and-the-deathly-hallows-part-2-0-230-0-345-crop,130,['English'],2011
+contagion,Contagion,"['Drama', 'Thriller', 'Science Fiction']",en,sm/upload/a3/9l/70/5b/kbC6I0AOSLTHFA2dieyat9h8QHP-0-230-0-345-crop,106,"['English', '广州话 / 廣州話', '普通话']",2011
+sicario-2015,Sicario,"['Action', 'Crime', 'Thriller']",en,film-poster/1/9/7/6/2/8/197628-sicario-0-230-0-345-crop,122,"['Español', 'English']",2015
+harry-potter-and-the-goblet-of-fire,Harry Potter and the Goblet of Fire,"['Adventure', 'Fantasy', 'Family']",en,film-poster/5/1/4/5/0/51450-harry-potter-and-the-goblet-of-fire-0-230-0-345-crop,157,"['English', 'Français']",2005
+doctor-strange-2016,Doctor Strange,"['Action', 'Adventure', 'Fantasy', 'Science Fiction']",en,film-poster/2/0/9/3/8/1/209381-doctor-strange-0-230-0-345-crop,115,['English'],2016
+cast-away,Cast Away,"['Adventure', 'Drama']",en,sm/upload/ze/6e/v4/6d/w515BrZvczKIxbHurG6HIiYYrba-0-230-0-345-crop,143,"['Pусский', 'English']",2000
+indiana-jones-and-the-kingdom-of-the-crystal-skull,Indiana Jones and the Kingdom of the Crystal Skull,"['Adventure', 'Action']",en,film-poster/5/1/8/3/9/51839-indiana-jones-and-the-kingdom-of-the-crystal-skull-0-230-0-345-crop,122,"['English', 'Deutsch', 'Pусский']",2008
+harry-potter-and-the-half-blood-prince,Harry Potter and the Half-Blood Prince,"['Adventure', 'Fantasy']",en,film-poster/5/1/3/8/5/51385-harry-potter-and-the-half-blood-prince-0-230-0-345-crop,153,['English'],2009
+captain-america-civil-war,Captain America: Civil War,"['Adventure', 'Action', 'Science Fiction']",en,film-poster/1/9/4/4/0/2/194402-captain-america-civil-war-0-230-0-345-crop,147,"['Română', 'English', 'Deutsch', 'Pусский']",2016
+beauty-and-the-beast-1991,Beauty and the Beast,"['Romance', 'Family', 'Animation', 'Fantasy']",en,sm/upload/qw/zu/zk/ky/iLe8yMOF5we6lvYbKLHzho7ATQk-0-230-0-345-crop,84,"['Français', 'English']",1991
+night-of-the-living-dead,Night of the Living Dead,"['Horror', 'Thriller']",en,sm/upload/mj/ua/dq/ml/faPfcZ181gWmCoMbal7bAXFPFh9-0-230-0-345-crop,96,['English'],1968
+et-the-extra-terrestrial,E.T. the Extra-Terrestrial,"['Science Fiction', 'Adventure', 'Family', 'Fantasy']",en,film-poster/5/1/5/2/0/51520-e-t-the-extra-terrestrial-0-230-0-345-crop,115,['English'],1982
+20th-century-women,20th Century Women,['Drama'],en,sm/upload/k1/lp/gd/60/mfmOHQRAiypRJQ8uSO7r2ZBVtur-0-230-0-345-crop,119,['English'],2016
+the-wicker-man,The Wicker Man,['Horror'],en,film-poster/4/1/6/6/2/41662-the-wicker-man-0-230-0-345-crop,94,['English'],1973
+the-wolverine,The Wolverine,"['Action', 'Science Fiction', 'Adventure', 'Fantasy']",en,film-poster/6/2/6/3/8/62638-the-wolverine-0-230-0-345-crop,126,['English'],2013
+john-wick-chapter-3-parabellum,John Wick: Chapter 3 - Parabellum,"['Action', 'Thriller', 'Crime']",en,film-poster/3/9/0/0/3/9/390039-john-wick-chapter-3-parabellum-0-230-0-345-crop,130,"['العربية', 'Pусский', '普通话', 'Latin', '日本語', 'Italiano', 'Bahasa indonesia', 'English']",2019
+the-simpsons-movie,The Simpsons Movie,"['Animation', 'Comedy', 'Family']",en,film-poster/2/6/8/4/2684-the-simpsons-movie-0-230-0-345-crop,87,['English'],2007
+network,Network,['Drama'],en,sm/upload/lr/v7/b3/mr/2W1xPQldNjJmFgqLllpUi6XRRCs-0-230-0-345-crop,122,['English'],1976
+judas-and-the-black-messiah,Judas and the Black Messiah,"['Drama', 'History']",en,film-poster/5/1/1/3/4/2/511342-judas-and-the-black-messiah-0-230-0-345-crop,125,['English'],2021
+free-guy,Free Guy,"['Comedy', 'Action', 'Adventure', 'Science Fiction']",en,film-poster/4/7/9/8/1/4/479814-free-guy-0-230-0-345-crop,115,"['日本語', 'English']",2021
+coraline,Coraline,"['Animation', 'Family', 'Fantasy']",en,sm/upload/x1/7y/oq/pi/ybOmHUVVXcwBQErjw7tmeE97fpO-0-230-0-345-crop,100,"['English', 'Pусский']",2009
+the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe","['Adventure', 'Family', 'Fantasy']",en,sm/upload/qz/9c/5h/2g/tFOQ4q6JnHcdw58ThL4SzFv37NT-0-230-0-345-crop,143,"['English', 'Deutsch']",2005
+first-reformed,First Reformed,['Drama'],en,sm/upload/25/z1/3z/xn/8HKA3Hwf8jQWy8TCYWr7C8Wft23-0-230-0-345-crop,113,['English'],2017
+candyman,Candyman,"['Drama', 'Horror', 'Thriller']",en,sm/upload/hs/ok/6b/1z/w5YQqrwzreHfa7RmXCB7rpLLxbe-0-230-0-345-crop,100,['English'],1992
+127-hours,127 Hours,"['Adventure', 'Drama', 'Thriller']",en,film-poster/2/1/0/5/0/21050-127-hours-0-230-0-345-crop,94,['English'],2010
+pirates-of-the-caribbean-the-curse-of-the-black-pearl,Pirates of the Caribbean: The Curse of the Black Pearl,"['Adventure', 'Fantasy', 'Action']",en,film-poster/2/6/9/5/2695-pirates-of-the-caribbean-the-curse-of-the-black-pearl-0-230-0-345-crop,143,['English'],2003
+blade-runner,Blade Runner,"['Science Fiction', 'Drama', 'Thriller']",en,sm/upload/85/io/38/dz/vfzE3pjE5G7G7kcZWrA3fnbZo7V-0-230-0-345-crop,117,"['English', 'Deutsch', '广州话 / 廣州話', '日本語', 'Magyar']",1982
+ice-age,Ice Age,"['Animation', 'Comedy', 'Family', 'Adventure']",en,film-poster/5/1/6/7/0/51670-ice-age-0-230-0-345-crop,81,['English'],2002
+dracula-1992,Dracula,"['Romance', 'Horror']",en,sm/upload/2j/ps/xy/wb/ioHxm3D3JdSXR61LRhcVb8KdZOz-0-230-0-345-crop,128,"['Latin', 'Română', 'български език', 'ελληνικά', 'English']",1992
+its-a-wonderful-life,It's a Wonderful Life,"['Drama', 'Family', 'Fantasy']",en,film-poster/5/0/9/4/9/50949-it-s-a-wonderful-life-0-230-0-345-crop,130,['English'],1946
+toy-story-4,Toy Story 4,"['Family', 'Adventure', 'Animation', 'Comedy', 'Fantasy', 'Drama']",en,film-poster/2/2/8/6/2/8/228628-toy-story-4-0-230-0-345-crop,100,['English'],2019
+the-matrix,The Matrix,"['Action', 'Science Fiction']",en,film-poster/5/1/5/1/8/51518-the-matrix-0-230-0-345-crop,136,['English'],1999
+zombieland,Zombieland,"['Comedy', 'Horror']",en,film-poster/3/9/3/5/2/39352-zombieland-0-230-0-345-crop,88,['English'],2009
+wreck-it-ralph,Wreck-It Ralph,"['Family', 'Animation', 'Comedy', 'Adventure']",en,film-poster/6/9/1/5/4/69154-wreck-it-ralph-0-230-0-345-crop,101,['English'],2012
+minari,Minari,['Drama'],en,film-poster/5/4/2/4/4/9/542449-minari-0-230-0-345-crop,115,"['English', '한국어/조선말']",2020
+the-florida-project,The Florida Project,['Drama'],en,film-poster/3/2/8/5/3/8/328538-the-florida-project-0-230-0-345-crop,112,"['English', 'Português', 'Español']",2017
+spider-man-2,Spider-Man 2,"['Action', 'Adventure', 'Fantasy']",en,sm/upload/pq/mi/kb/ck/7JtMVM58MnzxWeyubzLpXBiVnDC-0-230-0-345-crop,127,"['English', 'Pусский', '普通话']",2004
+life-2017,Life,"['Horror', 'Science Fiction', 'Thriller']",en,sm/upload/sb/s5/xi/u4/h2mhfbEBGABSHo2vXG1ECMKAJa7-0-230-0-345-crop,104,"['广州话 / 廣州話', 'English', '日本語']",2017
+500-days-of-summer,(500) Days of Summer,"['Comedy', 'Drama', 'Romance']",en,film-poster/3/9/3/5/0/39350--500-days-of-summer-0-230-0-345-crop,95,"['English', 'Français', 'svenska']",2009
+quantum-of-solace,Quantum of Solace,"['Adventure', 'Action', 'Thriller', 'Crime']",en,film-poster/4/5/9/1/8/45918-quantum-of-solace-0-230-0-345-crop,106,"['English', 'Español', 'Italiano', 'Français', 'Deutsch']",2008
+the-birds,The Birds,['Horror'],en,film-poster/5/1/5/4/9/51549-the-birds-0-230-0-345-crop,119,['English'],1963
+the-house-that-jack-built-2018,The House That Jack Built,"['Drama', 'Horror', 'Crime', 'Thriller']",en,film-poster/3/3/2/4/3/2/332432-the-house-that-jack-built-0-230-0-345-crop,151,"['English', 'Deutsch', 'Italiano']",2018
+aladdin,Aladdin,"['Animation', 'Family', 'Adventure', 'Fantasy', 'Romance']",en,sm/upload/n3/26/lb/e2/trm94WPjW5ApKulhFvuRm5cT8KQ-0-230-0-345-crop,90,['English'],1992
+predator,Predator,"['Science Fiction', 'Action', 'Adventure', 'Thriller']",en,film-poster/5/1/9/4/4/51944-predator-0-230-0-345-crop,107,"['English', 'Español']",1987
+badlands,Badlands,"['Drama', 'Crime']",en,film-poster/4/9/8/4/4/49844-badlands-0-230-0-345-crop,94,"['English', 'Español']",1973
+im-thinking-of-ending-things,I'm Thinking of Ending Things,"['Drama', 'Thriller', 'Horror']",en,film-poster/4/3/0/8/0/6/430806-i-m-thinking-of-ending-things-0-230-0-345-crop,135,['English'],2020
+midsommar,Midsommar,"['Horror', 'Drama', 'Mystery']",en,film-poster/4/5/9/5/6/4/459564-midsommar-0-230-0-345-crop,148,"['English', 'svenska']",2019
+jennifers-body,Jennifer's Body,"['Horror', 'Comedy']",en,film-poster/3/9/3/0/5/39305-jennifer-s-body-0-230-0-345-crop,102,"['Español', 'English']",2009
+sing-street,Sing Street,"['Comedy', 'Romance', 'Drama', 'Music']",en,sm/upload/ks/uk/z5/up/s0C78plmx3dFcO3WMnoXCz56FiN-0-230-0-345-crop,106,['English'],2016
+frozen-ii,Frozen II,"['Family', 'Animation', 'Adventure', 'Comedy', 'Fantasy']",en,film-poster/2/5/8/1/2/7/258127-frozen-ii-0-230-0-345-crop,103,['English'],2019
+tangled-2010,Tangled,"['Animation', 'Family']",en,sm/upload/0w/h1/le/1p/632CtNOARAuWYfdjoYn6ooP3BHQ-0-230-0-345-crop,100,['English'],2010
+alita-battle-angel,Alita: Battle Angel,"['Action', 'Science Fiction', 'Adventure']",en,film-poster/3/3/3/8/3/2/333832-alita-battle-angel-0-230-0-345-crop,122,"['English', 'Español']",2019
+source-code,Source Code,"['Thriller', 'Science Fiction', 'Mystery']",en,sm/upload/zf/hs/c9/gh/7mf5uH97NS2tUDcw01kcU5wdSZt-0-230-0-345-crop,94,['English'],2011
+climax-2018,Climax,"['Horror', 'Drama', 'Music']",fr,film-poster/4/3/6/8/7/3/436873-climax-0-230-0-345-crop,97,"['English', 'Français']",2018
+men-in-black,Men in Black,"['Action', 'Adventure', 'Comedy', 'Science Fiction']",en,film-poster/5/1/5/1/4/51514-men-in-black-0-230-0-345-crop,98,"['English', 'Español']",1997
+the-lord-of-the-rings-the-two-towers,The Lord of the Rings: The Two Towers,"['Adventure', 'Fantasy', 'Action']",en,film-poster/5/1/9/2/9/51929-the-lord-of-the-rings-the-two-towers-0-230-0-345-crop,179,['English'],2002
+the-grand-budapest-hotel,The Grand Budapest Hotel,"['Comedy', 'Drama']",en,film-poster/9/5/1/1/3/95113-the-grand-budapest-hotel-0-230-0-345-crop,100,"['English', 'Français']",2014
+the-devil-wears-prada,The Devil Wears Prada,"['Comedy', 'Drama', 'Romance']",en,film-poster/5/1/7/1/2/51712-the-devil-wears-prada-0-230-0-345-crop,109,"['English', 'Français']",2006
+guardians-of-the-galaxy-vol-2,Guardians of the Galaxy Vol. 2,"['Adventure', 'Action', 'Science Fiction']",en,sm/upload/1g/4f/6e/5b/prvWMj8cBFgVn5MLlsjlvH2hiIh-0-230-0-345-crop,137,['English'],2017
+chef,Chef,['Comedy'],en,film-poster/1/5/1/3/0/9/151309-chef-0-230-0-345-crop,114,"['English', 'Español']",2014
+fantastic-beasts-the-crimes-of-grindelwald,Fantastic Beasts: The Crimes of Grindelwald,"['Adventure', 'Fantasy', 'Drama']",en,film-poster/2/6/8/3/6/5/268365-fantastic-beasts-the-crimes-of-grindelwald-0-230-0-345-crop,134,"['English', 'Français']",2018
+silence,Silence,"['Drama', 'History']",en,film-poster/5/2/5/0/4/52504-silence-0-230-0-345-crop,161,"['日本語', 'English']",2016
+akira,Akira,"['Animation', 'Science Fiction', 'Action']",ja,sm/upload/xk/25/lu/0m/mi2Axov7Hy20wieoGfrbqDWLjSr-0-230-0-345-crop,124,['日本語'],1988
+isle-of-dogs-2018,Isle of Dogs,"['Adventure', 'Comedy', 'Animation']",en,sm/upload/z2/5l/zn/to/uMcbu3qVseJGH24xUAyIVzmcQV4-0-230-0-345-crop,101,"['English', '日本語']",2018
+zoolander,Zoolander,['Comedy'],en,film-poster/4/7/1/9/8/47198-zoolander-0-230-0-345-crop,90,['English'],2001
+american-history-x,American History X,['Drama'],en,sm/upload/ob/wg/lb/jd/w16MygFtasBBVfCJZQwsuwyKksc-0-230-0-345-crop,119,['English'],1998
+the-babysitter-2017,The Babysitter,"['Horror', 'Comedy']",en,sm/upload/06/mp/w2/ub/86a7GRVRCwfl7wdI4QadyvKa6Zu-0-230-0-345-crop,85,['English'],2017
+the-nice-guys,The Nice Guys,"['Comedy', 'Crime', 'Action']",en,film-poster/2/1/6/3/0/1/216301-the-nice-guys-0-230-0-345-crop,116,['English'],2016
+marriage-story-2019,Marriage Story,['Drama'],en,film-poster/4/2/2/6/8/2/422682-marriage-story-0-230-0-345-crop,137,['English'],2019
+the-king-of-comedy,The King of Comedy,"['Drama', 'Comedy']",en,sm/upload/4g/y9/qr/q9/pbAqLKoLydP7jl6P0vmYwlDtRPD-0-230-0-345-crop,109,['English'],1982
+room-2015,Room,"['Drama', 'Thriller']",en,sm/upload/19/uq/1o/de/eqFckcHuFCT1FrzLOAvXBb4jHwq-0-230-0-345-crop,118,['English'],2015
+tangerine,Tangerine,"['Comedy', 'Drama']",en,film-poster/2/3/4/8/1/4/234814-tangerine-0-230-0-345-crop,87,['English'],2015
+kingsman-the-golden-circle,Kingsman: The Golden Circle,"['Action', 'Adventure', 'Comedy', 'Crime', 'Thriller']",en,sm/upload/3h/o6/gc/iy/yOGf8Or1k78Y6OLdYmTTSGHW1dP-0-230-0-345-crop,141,"['svenska', 'English', 'Italiano']",2017
+mission-impossible-iii,Mission: Impossible III,"['Adventure', 'Action', 'Thriller']",en,film-poster/5/1/2/0/4/51204-mission-impossible-iii-0-230-0-345-crop,126,"['Deutsch', 'English', 'Italiano', '普通话', 'Český', '广州话 / 廣州話']",2006
+despicable-me-2,Despicable Me 2,"['Animation', 'Comedy', 'Family']",en,sm/upload/dz/ec/y7/pf/ek09KXB8ytg9nUb3hDUpJn7APdT-0-230-0-345-crop,98,['English'],2013
+the-elephant-man,The Elephant Man,"['Drama', 'History']",en,film-poster/5/0/6/5/3/50653-the-elephant-man-0-230-0-345-crop,124,['English'],1980
+brooklyn,Brooklyn,"['Romance', 'Drama']",en,sm/upload/0t/9m/7m/ti/5R4sbomuxa8wlH1T3WeSUTRZo4z-0-230-0-345-crop,111,['English'],2015
+almost-famous,Almost Famous,"['Drama', 'Music']",en,sm/upload/8r/4k/tl/rx/mlOGVofLSyFAoVYcjVS2WRVvQjr-0-230-0-345-crop,122,['English'],2000
+some-like-it-hot,Some Like It Hot,"['Comedy', 'Music', 'Romance', 'Crime']",en,film-poster/5/1/8/1/7/51817-some-like-it-hot-0-230-0-345-crop,122,['English'],1959
+house,House,"['Comedy', 'Fantasy', 'Horror']",ja,sm/upload/7f/z3/ho/6j/6vblWscFAbIm9V5CwHC7IImgAq9-0-230-0-345-crop,88,['日本語'],1977
+o-brother-where-art-thou,"O Brother, Where Art Thou?","['Adventure', 'Comedy', 'Crime']",en,sm/upload/a0/sz/qf/mq/erBsxkzVwkXuvuzUBpVnNxxPYhO-0-230-0-345-crop,107,['English'],2000
+pineapple-express,Pineapple Express,"['Action', 'Comedy', 'Crime']",en,film-poster/4/6/4/6/2/46462-pineapple-express-0-230-0-345-crop,111,"['广州话 / 廣州話', '한국어/조선말', 'English']",2008
+the-girl-with-the-dragon-tattoo-2011,The Girl with the Dragon Tattoo,"['Thriller', 'Crime', 'Mystery', 'Drama']",en,sm/upload/0a/ec/72/pb/zHGxi75Ugw69jtCmOK8TvwU588z-0-230-0-345-crop,158,['English'],2011
+argo,Argo,"['Drama', 'Thriller']",en,sm/upload/vx/tj/jr/as/PHf0KsjBWMmxjf_1_m-0-230-0-345-crop,120,"['العربية', 'English', 'Deutsch', 'فارسی']",2012
+the-conjuring,The Conjuring,"['Horror', 'Thriller']",en,film-poster/1/0/6/2/6/2/106262-the-conjuring-0-230-0-345-crop,112,['English'],2013
+la-haine,La Haine,['Drama'],fr,film-poster/5/1/6/8/4/51684-la-haine-0-230-0-345-crop,98,['Français'],1995
+singin-in-the-rain,Singin' in the Rain,"['Comedy', 'Music', 'Romance']",en,sm/upload/xc/8e/3x/nt/nUP6Kna8oiUl2VNbEQ4BJhTcpO8-0-230-0-345-crop,103,['English'],1952
+come-and-see,Come and See,"['Drama', 'War', 'History', 'Thriller']",ru,film-poster/3/6/1/9/2/36192-come-and-see-0-230-0-345-crop,142,"['беларуская мова', 'Deutsch', 'Pусский']",1985
+first-man,First Man,"['History', 'Drama']",en,film-poster/3/0/5/8/1/1/305811-first-man-0-230-0-345-crop,141,['English'],2018
+barry-lyndon,Barry Lyndon,"['Drama', 'Romance', 'War']",en,sm/upload/0f/r6/bn/w7/x2JQCgLjieWOwvImeGtLmuNgsrq-0-230-0-345-crop,185,"['Deutsch', 'Français', 'English']",1975
+ferris-buellers-day-off,Ferris Bueller's Day Off,['Comedy'],en,film-poster/4/7/2/1/9/47219-ferris-bueller-s-day-off-0-230-0-345-crop,103,['English'],1986
+shaun-of-the-dead,Shaun of the Dead,"['Horror', 'Comedy']",en,sm/upload/36/av/yn/jg/yWEeWO7fLs45XOcb94GPiLrHBRG-0-230-0-345-crop,99,['English'],2004
+the-evil-dead,The Evil Dead,['Horror'],en,sm/upload/c7/4g/ae/zn/7cpSdCrBY7UhiygkcP57dpixXsW-0-230-0-345-crop,85,['English'],1981
+the-big-lebowski,The Big Lebowski,"['Comedy', 'Crime']",en,film-poster/5/1/9/3/5/51935-the-big-lebowski-0-230-0-345-crop,117,"['English', 'עִבְרִית', 'Español', 'Deutsch']",1998
+hercules-1997,Hercules,"['Animation', 'Family', 'Fantasy', 'Adventure', 'Comedy', 'Romance']",en,film-poster/4/4/8/3/8/44838-hercules-0-230-0-345-crop,93,"['English', 'Español', 'ελληνικά']",1997
+2001-a-space-odyssey,2001: A Space Odyssey,"['Science Fiction', 'Mystery', 'Adventure']",en,sm/upload/fe/jp/49/l9/eDiexVN4nO3ZdDZCDMiJOX5fQ5r-0-230-0-345-crop,149,"['English', 'Pусский']",1968
+the-place-beyond-the-pines,The Place Beyond the Pines,"['Drama', 'Crime']",en,film-poster/8/0/2/0/0/80200-the-place-beyond-the-pines-0-230-0-345-crop,140,"['English', 'Español']",2012
+the-french-dispatch,The French Dispatch,"['Comedy', 'Drama', 'Romance']",en,film-poster/4/7/1/2/0/7/471207-the-french-dispatch-0-230-0-345-crop,108,"['Français', 'English']",2021
+the-interview-2014,The Interview,"['Action', 'Comedy']",en,film-poster/1/6/1/0/0/2/161002-the-interview-0-230-0-345-crop,112,"['한국어/조선말', 'English']",2014
+venom-2018,Venom,"['Science Fiction', 'Action']",en,film-poster/2/6/5/4/3/8/265438-venom-0-230-0-345-crop,112,"['普通话', 'English', 'Bahasa melayu']",2018
+stoker,Stoker,"['Drama', 'Horror', 'Thriller']",en,film-poster/7/3/3/7/1/73371-stoker-0-230-0-345-crop,99,['English'],2013
+the-cabin-in-the-woods,The Cabin in the Woods,"['Horror', 'Comedy', 'Fantasy', 'Thriller']",en,film-poster/3/7/5/9/8/37598-the-cabin-in-the-woods-0-230-0-345-crop,95,['English'],2011
+i-tonya,"I, Tonya",['Drama'],en,sm/upload/hv/nn/05/ss/d20vOJpywFDoz7Dd4ChomGdP0fr-0-230-0-345-crop,120,['English'],2017
+dawn-of-the-planet-of-the-apes,Dawn of the Planet of the Apes,"['Science Fiction', 'Action', 'Drama', 'Thriller']",en,film-poster/9/4/3/9/4/94394-dawn-of-the-planet-of-the-apes-0-230-0-345-crop,130,['English'],2014
+suspiria-2018,Suspiria,"['Horror', 'Thriller']",en,film-poster/2/9/3/0/6/6/293066-suspiria-0-230-0-345-crop,152,"['English', 'Français', 'Deutsch']",2018
+prometheus,Prometheus,"['Science Fiction', 'Adventure', 'Mystery']",en,sm/upload/39/zq/9r/ye/qsYQflQhOuhDpQ0W2aOcwqgDAeI-0-230-0-345-crop,124,['English'],2012
+shrek-the-third,Shrek the Third,"['Fantasy', 'Adventure', 'Animation', 'Comedy', 'Family']",en,sm/upload/qn/3n/0d/bn/lA17Mlz8hXVZsW5Y3WuUa8KPilQ-0-230-0-345-crop,93,['English'],2007
+election,Election,['Comedy'],en,sm/upload/4v/ul/e3/4c/4RHyF1v1n4iodWzHG4m7XkGcJVB-0-230-0-345-crop,103,['English'],1999
+12-angry-men,12 Angry Men,['Drama'],en,film-poster/5/1/7/0/0/51700-12-angry-men-0-230-0-345-crop,97,['English'],1957
+thor-the-dark-world,Thor: The Dark World,"['Action', 'Adventure', 'Fantasy']",en,sm/upload/pc/xw/7h/17/bnX5PqAdQZRXSw3aX3DutDcdso5-0-230-0-345-crop,112,['English'],2013
+from-dusk-till-dawn,From Dusk Till Dawn,"['Horror', 'Action', 'Thriller', 'Crime']",en,film-poster/5/1/3/9/7/51397-from-dusk-till-dawn-0-230-0-345-crop,108,"['English', 'Español']",1996
+cloudy-with-a-chance-of-meatballs,Cloudy with a Chance of Meatballs,"['Animation', 'Comedy', 'Family']",en,film-poster/3/7/6/9/6/37696-cloudy-with-a-chance-of-meatballs-0-230-0-345-crop,90,['English'],2009
+x-men-first-class,X-Men: First Class,"['Action', 'Science Fiction', 'Adventure']",en,film-poster/1/6/0/7/4/16074-x-men-first-class-0-230-0-345-crop,132,"['Deutsch', 'English', 'Español', 'Français', 'Pусский']",2011
+legally-blonde,Legally Blonde,['Comedy'],en,film-poster/4/7/5/8/6/47586-legally-blonde-0-230-0-345-crop,96,['English'],2001
+leon-the-professional,Léon: The Professional,"['Crime', 'Drama', 'Action']",en,sm/upload/6x/vq/25/fy/gE8S02QUOhVnAmYu4tcrBlMTujz-0-230-0-345-crop,111,"['English', 'Français', 'Italiano']",1994
+burn-after-reading,Burn After Reading,"['Comedy', 'Drama']",en,film-poster/4/9/0/5/4/49054-burn-after-reading-0-230-0-345-crop,96,['English'],2008
+there-will-be-blood,There Will Be Blood,['Drama'],en,sm/upload/jg/cd/7y/f5/there%20will%20be%20blood-0-230-0-345-crop,158,['English'],2007
+star-wars,Star Wars,"['Adventure', 'Action', 'Science Fiction']",en,film-poster/2/7/0/6/2706-star-wars-0-230-0-345-crop,121,['English'],1977
+aquaman-2018,Aquaman,"['Action', 'Adventure', 'Fantasy']",en,film-poster/2/2/5/0/6/0/225060-aquaman-0-230-0-345-crop,143,['English'],2018
+pulp-fiction,Pulp Fiction,"['Thriller', 'Crime']",en,film-poster/5/1/4/4/4/51444-pulp-fiction-0-230-0-345-crop,154,"['English', 'Español', 'Français']",1994
+the-mummy-1999,The Mummy,"['Adventure', 'Action', 'Fantasy']",en,sm/upload/5i/du/2g/s8/6CweTLmngcPrsEH4G6RKvdwmQdC-0-230-0-345-crop,124,"['English', 'العربية']",1999
+fantastic-mr-fox,Fantastic Mr. Fox,"['Adventure', 'Animation', 'Comedy', 'Family']",en,film-poster/4/6/3/4/4/46344-fantastic-mr-fox-0-230-0-345-crop,87,['English'],2009
+casino-royale-2006,Casino Royale,"['Adventure', 'Action', 'Thriller']",en,sm/upload/qb/if/j8/jr/zlWBxz2pTA9p45kUTrI8AQiKrHm-0-230-0-345-crop,144,"['English', 'Français']",2006
+life-of-pi,Life of Pi,"['Adventure', 'Drama', 'Action']",en,film-poster/7/4/3/4/8/74348-life-of-pi-0-230-0-345-crop,127,"['普通话', 'English', 'Français', 'हिन्दी', '日本語', 'Pусский', 'தமிழ்']",2012
+bridesmaids,Bridesmaids,"['Comedy', 'Romance']",en,film-poster/1/0/4/4/2/10442-bridesmaids-0-230-0-345-crop,125,['English'],2011
+the-big-short,The Big Short,"['Comedy', 'Drama']",en,film-poster/2/4/6/0/1/3/246013-the-big-short-0-230-0-345-crop,131,['English'],2015
+rashomon,Rashomon,"['Crime', 'Drama', 'Mystery']",ja,film-poster/5/1/5/7/0/51570-rashomon-0-230-0-345-crop,88,['日本語'],1950
+the-pianist,The Pianist,"['Drama', 'War']",en,film-poster/5/1/6/7/2/51672-the-pianist-0-230-0-345-crop,150,"['Polski', 'Deutsch', 'Pусский', 'English']",2002
+sinister,Sinister,"['Horror', 'Thriller', 'Mystery']",en,sm/upload/e2/ry/mu/yc/hrRYY7FcRc46Ue7h9jcKiW1xqJ3-0-230-0-345-crop,110,"['English', 'Português', 'Français']",2012
+the-thing,The Thing,"['Horror', 'Mystery', 'Science Fiction']",en,sm/upload/t3/qn/vs/p5/s5fH3GqFcHbi2F0NSBSh4KRNTc0-0-230-0-345-crop,109,"['English', 'Norsk']",1982
+rosemarys-baby,Rosemary's Baby,"['Drama', 'Horror']",en,sm/upload/ea/vc/su/y2/fdLOXB8AysEGRL44I1RvoKiWDcW-0-230-0-345-crop,138,['English'],1968
+batman-forever,Batman Forever,"['Action', 'Crime', 'Fantasy']",en,film-poster/5/1/6/7/8/51678-batman-forever-0-230-0-345-crop,121,['English'],1995
+the-maze-runner,The Maze Runner,"['Action', 'Mystery', 'Science Fiction', 'Thriller']",en,film-poster/1/4/2/5/4/9/142549-the-maze-runner-0-230-0-345-crop,113,['English'],2014
+airplane,Airplane!,['Comedy'],en,film-poster/5/1/3/3/9/51339-airplane--0-230-0-345-crop,88,['English'],1980
+true-grit-2010,True Grit,"['Drama', 'Adventure', 'Western']",en,film-poster/2/0/9/0/8/20908-true-grit-0-230-0-345-crop,110,['English'],2010
+the-hurt-locker,The Hurt Locker,"['Drama', 'Thriller', 'War']",en,film-poster/4/4/7/4/1/44741-the-hurt-locker-0-230-0-345-crop,131,"['English', 'العربية', 'Türkçe']",2008
+honey-boy,Honey Boy,['Drama'],en,film-poster/4/4/1/8/7/0/441870-honey-boy-0-230-0-345-crop,94,['English'],2019
+the-lego-batman-movie,The Lego Batman Movie,"['Family', 'Action', 'Animation', 'Comedy', 'Fantasy']",en,film-poster/2/5/1/9/3/7/251937-the-lego-batman-movie-0-230-0-345-crop,104,['English'],2017
+spectre-2015,Spectre,"['Action', 'Adventure', 'Thriller']",en,sm/upload/z4/ic/gk/3h/1o9prR1gAZdF9KpxH4qneJ3Rglf-0-230-0-345-crop,148,"['Français', 'English', 'Español', 'Italiano', 'Deutsch']",2015
+trainspotting,Trainspotting,"['Drama', 'Crime']",en,film-poster/5/1/4/9/7/51497-trainspotting-0-230-0-345-crop,94,['English'],1996
+panic-room,Panic Room,"['Crime', 'Drama', 'Thriller']",en,sm/upload/f2/vz/w1/kw/cLwfIWHGjXXrtVgaww33RbIR4Dh-0-230-0-345-crop,111,['English'],2002
+edward-scissorhands,Edward Scissorhands,"['Fantasy', 'Drama', 'Romance']",en,film-poster/5/1/8/8/9/51889-edward-scissorhands-0-230-0-345-crop,105,['English'],1990
+crimson-peak,Crimson Peak,"['Horror', 'Thriller', 'Romance', 'Mystery']",en,sm/upload/ab/6v/2r/jl/pCj8zem1NDAODdtvha9WFEB6iWR-0-230-0-345-crop,119,['English'],2015
+vertigo,Vertigo,"['Mystery', 'Romance', 'Thriller']",en,sm/upload/q9/3o/ng/om/obhM86qyv8RsE69XSMTtT9FdE0b-0-230-0-345-crop,128,['English'],1958
+the-batman,The Batman,"['Action', 'Crime', 'Drama']",en,film-poster/3/4/8/9/1/4/348914-the-batman-0-230-0-345-crop,0,['English'],2022
+if-beale-street-could-talk,If Beale Street Could Talk,"['Romance', 'Drama']",en,film-poster/3/9/7/5/7/8/397578-if-beale-street-could-talk-0-230-0-345-crop,120,['English'],2018
+get-out-2017,Get Out,"['Mystery', 'Thriller', 'Horror']",en,film-poster/3/5/3/1/1/7/353117-get-out-0-230-0-345-crop,104,['English'],2017
+whiplash-2014,Whiplash,"['Drama', 'Music']",en,sm/upload/cl/dn/kr/f1/4C9LHDxMsoYI0S3iMPZdm3Oevwo-0-230-0-345-crop,107,['English'],2014
+drive-2011,Drive,"['Drama', 'Thriller', 'Crime']",en,sm/upload/6d/6l/r3/e9/nu7XIa67cXc2t7frXCE5voXUJcN,100,['English'],2011
+arrival-2016,Arrival,"['Drama', 'Science Fiction', 'Mystery']",en,sm/upload/3u/dy/qd/qd/4Iu5f2nv7huqvuYkmZvSPOtbFjs-0-230-0-345-crop,116,"['普通话', 'English', 'Pусский']",2016
+sausage-party,Sausage Party,"['Animation', 'Adventure', 'Comedy', 'Fantasy']",en,sm/upload/h4/fy/g1/ks/jDeDRLEa8JqB3xmKVy6q3bkmDt6-0-230-0-345-crop,89,['English'],2016
+donnie-darko,Donnie Darko,"['Fantasy', 'Drama', 'Mystery']",en,sm/upload/ye/jq/f3/22/nmb4QhCRmdfNP6rgb81yUFgI83l-0-230-0-345-crop,114,['English'],2001
+the-polar-express,The Polar Express,"['Animation', 'Family', 'Adventure', 'Fantasy', 'Comedy']",en,film-poster/4/8/8/8/3/48883-the-polar-express-0-230-0-345-crop,100,['English'],2004
+the-amazing-spider-man,The Amazing Spider-Man,"['Action', 'Adventure', 'Fantasy']",en,film-poster/5/0/6/7/7/50677-the-amazing-spider-man-0-230-0-345-crop,136,['English'],2012
+carol-2015,Carol,"['Romance', 'Drama']",en,film-poster/1/8/2/1/4/2/182142-carol-0-230-0-345-crop,118,['English'],2015
+the-dark-knight-rises,The Dark Knight Rises,"['Action', 'Crime', 'Drama', 'Thriller']",en,film-poster/1/6/5/5/0/16550-the-dark-knight-rises-0-230-0-345-crop,165,['English'],2012
+walle,WALL·E,"['Animation', 'Family', 'Science Fiction']",en,sm/upload/b9/9n/tr/ss/wall-e-0-230-0-345-crop,98,['English'],2008
+death-proof,Death Proof,"['Action', 'Thriller']",en,film-poster/5/0/6/2/1/50621-death-proof-0-230-0-345-crop,113,['English'],2007
+the-father-2020,The Father,['Drama'],en,film-poster/5/2/7/6/7/1/527671-the-father-0-230-0-345-crop,97,['English'],2020
+citizen-kane,Citizen Kane,"['Mystery', 'Drama']",en,film-poster/2/7/0/2/2702-citizen-kane-0-230-0-345-crop,119,['English'],1941
+clue,Clue,"['Comedy', 'Thriller', 'Crime', 'Mystery']",en,film-poster/4/2/5/3/1/42531-clue-0-230-0-345-crop,94,"['Français', 'English']",1985
+city-of-god,City of God,"['Drama', 'Crime']",pt,film-poster/5/1/5/2/3/51523-city-of-god-0-230-0-345-crop,130,['Português'],2002
+the-witch-2015,The Witch,"['Horror', 'Drama', 'Mystery']",en,sm/upload/y2/i8/9s/h1/tNr2KYytArZNSh0K8PUcHU3JnX4-0-230-0-345-crop,92,['English'],2015
+jojo-rabbit,Jojo Rabbit,"['Comedy', 'War', 'Drama']",en,film-poster/4/4/4/6/0/0/444600-jojo-rabbit-0-230-0-345-crop,108,"['English', 'Deutsch']",2019
+birds-of-prey-and-the-fantabulous-emancipation-of-one-harley-quinn,Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn),"['Action', 'Crime']",en,film-poster/4/2/6/1/3/1/426131-birds-of-prey-and-the-fantabulous-emancipation-of-one-har-0-230-0-345-crop,109,"['普通话', 'English', 'Türkçe']",2020
+the-godfather,The Godfather,"['Drama', 'Crime']",en,film-poster/5/1/8/1/8/51818-the-godfather-0-230-0-345-crop,175,"['English', 'Italiano', 'Latin']",1972
+mad-max-fury-road,Mad Max: Fury Road,"['Action', 'Adventure', 'Science Fiction']",en,film-poster/6/2/7/8/0/62780-mad-max-fury-road-0-230-0-345-crop,121,['English'],2015
+collateral,Collateral,"['Drama', 'Crime', 'Thriller']",en,film-poster/5/0/9/9/5/50995-collateral-0-230-0-345-crop,120,"['Español', 'English']",2004
+world-war-z,World War Z,"['Action', 'Drama', 'Horror', 'Science Fiction', 'Thriller']",en,film-poster/5/7/2/9/2/57292-world-war-z-0-230-0-345-crop,116,['English'],2013
+the-martian,The Martian,"['Drama', 'Adventure', 'Science Fiction']",en,film-poster/2/1/1/5/1/1/211511-the-martian-0-230-0-345-crop,144,"['English', '普通话']",2015
+ready-player-one,Ready Player One,"['Science Fiction', 'Adventure', 'Action']",en,film-poster/2/6/1/8/6/6/261866-ready-player-one-0-230-0-345-crop,140,['English'],2018
+dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"['Drama', 'Comedy', 'War']",en,film-poster/5/1/2/1/8/51218-dr-strangelove-or-how-i-learned-to-stop-worrying-and-love--0-230-0-345-crop,95,['English'],1964
+blue-valentine,Blue Valentine,"['Drama', 'Romance']",en,sm/upload/dn/ni/2p/7i/r8l15gDSQMupjKXEyXkOMkRpcsn-0-230-0-345-crop,112,['English'],2010
+face-off,Face/Off,"['Action', 'Crime', 'Science Fiction', 'Thriller']",en,film-poster/5/1/3/9/8/51398-face-off-0-230-0-345-crop,138,"['English', 'Latin']",1997
+casino,Casino,"['Crime', 'Drama']",en,sm/upload/6p/om/dp/mc/casino-original-0-230-0-345-crop,179,['English'],1995
+harry-potter-and-the-prisoner-of-azkaban,Harry Potter and the Prisoner of Azkaban,"['Adventure', 'Fantasy']",en,sm/upload/a3/0q/kf/h8/jUFjMoLh8T2CWzHUSjKCojI5SHu-0-230-0-345-crop,141,['English'],2004
+top-gun,Top Gun,"['Action', 'Drama', 'Adventure']",en,sm/upload/e9/dh/nn/5w/fKSZl8ONN7DQh5ujgdObRIFmhiZ-0-230-0-345-crop,110,['English'],1986
+scott-pilgrim-vs-the-world,Scott Pilgrim vs. the World,"['Comedy', 'Action', 'Romance', 'Fantasy']",en,sm/upload/vs/75/02/fx/2B5zjs5E3xerqAyowpw3QcOCyLq-0-230-0-345-crop,112,['English'],2010
+vice-2018,Vice,"['Drama', 'History', 'Comedy']",en,film-poster/3/6/2/3/6/5/362365-vice-0-230-0-345-crop,132,['English'],2018
+it-2017,It,"['Horror', 'Fantasy']",en,sm/upload/w3/47/76/am/6uDpMsdn8bbZScDptbika5JEtSH-0-230-0-345-crop,135,['English'],2017
+moana-2016,Moana,"['Adventure', 'Comedy', 'Family', 'Animation']",en,film-poster/2/0/1/9/0/9/201909-moana-0-230-0-345-crop,107,['English'],2016
+starship-troopers,Starship Troopers,"['Adventure', 'Action', 'Thriller', 'Science Fiction']",en,film-poster/5/1/5/5/5/51555-starship-troopers-0-230-0-345-crop,129,['English'],1997
+american-psycho,American Psycho,"['Thriller', 'Drama', 'Crime', 'Horror']",en,sm/upload/5b/u9/av/il/ecoY7zJL6Ub3URP1oPhPfGflEjV-0-230-0-345-crop,102,"['English', 'Español', '广州话 / 廣州話']",2000
+gremlins,Gremlins,"['Fantasy', 'Horror', 'Comedy']",en,sm/upload/qh/df/sj/45/qehNFww7A9kRDbqCQNWvaQc8Y4w-0-230-0-345-crop,106,"['English', 'Español']",1984
+no-country-for-old-men,No Country for Old Men,"['Crime', 'Drama', 'Thriller']",en,sm/upload/dr/hr/pz/ez/ehLb2SQ3djlA1FrQKbP2WO3VH09-0-230-0-345-crop,122,"['English', 'Español']",2007
+oceans-eight,Ocean's Eight,"['Crime', 'Comedy', 'Action']",en,film-poster/3/3/7/5/6/7/337567-ocean-s-8-0-230-0-345-crop,111,"['English', 'Deutsch']",2018
+avengers-endgame,Avengers: Endgame,"['Adventure', 'Science Fiction', 'Action']",en,film-poster/2/2/6/6/6/0/226660-avengers-endgame-0-230-0-345-crop,181,"['English', '日本語']",2019
+cold-war-2018,Cold War,"['Drama', 'Romance', 'War', 'Music']",pl,film-poster/3/7/3/0/1/8/373018-cold-war-0-230-0-345-crop,88,"['Deutsch', 'Hrvatski', 'Français', 'Italiano', 'Polski', 'Pусский']",2018
+a-quiet-place-part-ii,A Quiet Place Part II,"['Science Fiction', 'Thriller', 'Horror']",en,film-poster/4/5/0/3/3/7/450337-a-quiet-place-part-ii-0-230-0-345-crop,97,['English'],2020
+upgrade,Upgrade,"['Action', 'Thriller', 'Science Fiction']",en,film-poster/4/3/0/6/3/3/430633-upgrade-0-230-0-345-crop,100,['English'],2018
+mother-2017,mother!,"['Drama', 'Horror', 'Mystery']",en,sm/upload/ur/o3/it/i9/m2Tc48MkhPWYaz0f0IMuIMJlGND-0-230-0-345-crop,121,['English'],2017
+full-metal-jacket,Full Metal Jacket,"['Drama', 'War']",en,sm/upload/l0/l4/6c/7v/29veIwD38rVL2qY74emXQw4y25H-0-230-0-345-crop,117,"['English', 'Tiếng Việt']",1987
+pirates-of-the-caribbean-dead-mans-chest,Pirates of the Caribbean: Dead Man's Chest,"['Adventure', 'Fantasy', 'Action']",en,film-poster/5/1/9/8/9/51989-pirates-of-the-caribbean-dead-man-s-chest-0-230-0-345-crop,151,"['English', 'Türkçe', 'ελληνικά', '普通话']",2006
+ant-man-and-the-wasp,Ant-Man and the Wasp,"['Action', 'Adventure', 'Science Fiction']",en,film-poster/2/9/6/3/4/1/296341-ant-man-and-the-wasp-0-230-0-345-crop,119,['English'],2018
+roma-2018,Roma,['Drama'],es,film-poster/3/5/9/8/5/9/359859-roma-0-230-0-345-crop,135,"['Español', 'English']",2018
+the-hunger-games,The Hunger Games,"['Science Fiction', 'Adventure', 'Fantasy']",en,sm/upload/x3/tw/wu/z4/vAkjFEm76Lu5hSevquxPgQ91OtI-0-230-0-345-crop,142,['English'],2012
+the-lord-of-the-rings-the-return-of-the-king,The Lord of the Rings: The Return of the King,"['Adventure', 'Fantasy', 'Action']",en,sm/upload/zs/nt/u4/uz/xieWkPAgQrrk5wOyncayPd65hrp-0-230-0-345-crop,201,['English'],2003
+twelve-monkeys,Twelve Monkeys,"['Science Fiction', 'Thriller', 'Mystery']",en,sm/upload/gx/5a/fn/12/6Sj9wDu3YugthXsU0Vry5XFAZGg-0-230-0-345-crop,129,"['English', 'Français']",1995
+the-emperors-new-groove,The Emperor's New Groove,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",en,film-poster/4/5/0/6/5/45065-the-emperor-s-new-groove-0-230-0-345-crop,78,['English'],2000
+childs-play,Child's Play,['Horror'],en,film-poster/4/6/0/8/7/46087-child-s-play-0-230-0-345-crop,87,['English'],1988
+dallas-buyers-club,Dallas Buyers Club,"['Drama', 'History']",en,film-poster/1/1/4/6/0/5/114605-dallas-buyers-club-0-230-0-345-crop,117,"['English', '日本語']",2013
+wonder-woman-1984,Wonder Woman 1984,"['Action', 'Adventure', 'Fantasy']",en,sm/upload/45/c0/bi/ej/tGKDb2USVmj6GDq2KC01UH121lO-0-230-0-345-crop,151,['English'],2020
+the-virgin-suicides,The Virgin Suicides,"['Drama', 'Romance']",en,film-poster/5/1/0/2/4/51024-the-virgin-suicides-0-230-0-345-crop,97,['English'],1999
+harry-potter-and-the-order-of-the-phoenix,Harry Potter and the Order of the Phoenix,"['Adventure', 'Fantasy', 'Mystery']",en,sm/upload/wd/w4/n0/yj/g6n8G0xPnBVUIKKK41sNmbZB5h4-0-230-0-345-crop,138,['English'],2007
+heathers,Heathers,"['Comedy', 'Crime']",en,film-poster/5/0/1/7/7/50177-heathers-0-230-0-345-crop,103,['English'],1989
+mission-impossible-ghost-protocol,Mission: Impossible - Ghost Protocol,"['Action', 'Thriller', 'Adventure']",en,sm/upload/mi/dr/zr/6r/e3SnEE5ug02TsH86H6EF30laHjO-0-230-0-345-crop,133,"['English', 'Pусский', 'Français', 'العربية', 'svenska']",2011
+the-graduate,The Graduate,"['Comedy', 'Drama']",en,sm/upload/64/us/cm/83/AuFvrbtWSPiBPIv9ewH2DV4nhCD-0-230-0-345-crop,106,['English'],1967
+her,Her,"['Romance', 'Science Fiction', 'Drama']",en,sm/upload/au/nb/i6/lq/fsoTLnUXEUTNuVCBxAJMY0HPPd-0-230-0-345-crop,126,['English'],2013
+promising-young-woman,Promising Young Woman,"['Thriller', 'Crime', 'Drama']",en,film-poster/5/1/0/0/4/7/510047-promising-young-woman-0-230-0-345-crop,114,['English'],2020
+misery,Misery,"['Drama', 'Thriller']",en,film-poster/5/0/8/4/6/50846-misery-0-230-0-345-crop,107,['English'],1990
+my-neighbor-totoro,My Neighbor Totoro,"['Fantasy', 'Animation', 'Family']",ja,film-poster/4/7/7/5/6/47756-my-neighbor-totoro-0-230-0-345-crop,86,['日本語'],1988
+the-visit-2015,The Visit,"['Horror', 'Thriller', 'Mystery']",en,film-poster/2/2/5/4/3/7/225437-the-visit-0-230-0-345-crop,94,['English'],2015
+hidden-figures,Hidden Figures,"['Drama', 'History']",en,film-poster/3/1/6/3/1/2/316312-hidden-figures-0-230-0-345-crop,127,['English'],2016
+a-fistful-of-dollars,A Fistful of Dollars,['Western'],it,film-poster/5/1/6/9/8/51698-a-fistful-of-dollars-0-230-0-345-crop,99,"['Italiano', 'Español']",1964
+uncut-gems,Uncut Gems,"['Crime', 'Drama', 'Thriller']",en,film-poster/4/0/4/2/6/6/404266-uncut-gems-0-230-0-345-crop,136,['English'],2019
+spotlight,Spotlight,"['Drama', 'Thriller', 'History']",en,sm/upload/k6/pu/xx/cp/ngKxbvsn9Si5TYVJfi1EGAGwThU-0-230-0-345-crop,129,['English'],2015
+cape-fear-1991,Cape Fear,"['Thriller', 'Crime']",en,sm/upload/wc/jb/p9/ds/cape-fear-0-230-0-345-crop,128,['English'],1991
+the-lighthouse-2019,The Lighthouse,"['Drama', 'Fantasy', 'Thriller', 'Horror']",en,film-poster/4/3/3/8/6/3/433863-the-lighthouse-0-230-0-345-crop,109,['English'],2019
+mean-girls,Mean Girls,['Comedy'],en,film-poster/4/6/0/4/9/46049-mean-girls-0-230-0-345-crop,97,"['Kiswahili', 'English', 'Deutsch', 'Tiếng Việt']",2004
+the-purge,The Purge,"['Science Fiction', 'Horror', 'Thriller']",en,film-poster/1/1/8/1/1/0/118110-the-purge-0-230-0-345-crop,86,['English'],2013
+hugo,Hugo,"['Adventure', 'Drama', 'Family']",en,sm/upload/kp/9v/8u/7j/rSmmVKeW3nsP86V2S6R7ePs4CFw-0-230-0-345-crop,126,['English'],2011
+the-revenant-2015,The Revenant,"['Western', 'Drama', 'Adventure']",en,film-poster/2/0/7/2/2/4/207224-the-revenant-0-230-0-345-crop,157,"['English', 'Français']",2015
+glass-2019,Glass,"['Thriller', 'Drama', 'Science Fiction']",en,film-poster/3/8/2/6/6/9/382669-glass-0-230-0-345-crop,129,"['English', 'Español']",2019
+district-9,District 9,['Science Fiction'],en,film-poster/4/0/8/6/0/40860-district-9-0-230-0-345-crop,112,"['Afrikaans', 'isiZulu', 'English']",2009
+dogtooth,Dogtooth,['Drama'],el,sm/upload/j6/sh/2m/01/xUnbL2Uoh4zoc1hJvIV6MDDJpka-0-230-0-345-crop,98,['ελληνικά'],2009
+22-jump-street,22 Jump Street,"['Crime', 'Comedy', 'Action']",en,sm/upload/qq/wx/vh/dy/tPnw9oqIvIMoYjVozkDkxm3xR8r-0-230-0-345-crop,112,['English'],2014
+yesterday-2019,Yesterday,"['Music', 'Comedy', 'Romance', 'Fantasy']",en,film-poster/4/4/4/7/9/9/444799-yesterday-0-230-0-345-crop,116,['English'],2019
+birdman-or-the-unexpected-virtue-of-ignorance,Birdman or (The Unexpected Virtue of Ignorance),"['Drama', 'Comedy']",en,film-poster/1/3/9/7/9/5/139795-birdman-0-230-0-345-crop,120,['English'],2014
+the-hunt-2012,The Hunt,['Drama'],da,film-poster/8/4/0/5/1/84051-the-hunt-0-230-0-345-crop,116,"['Dansk', 'Polski', 'English']",2012
+shame-2011,Shame,['Drama'],en,sm/upload/h1/2m/i0/od/wo6j31YThvs8VPTv9DAI3StSoby-0-230-0-345-crop,102,['English'],2011
+lilo-stitch,Lilo & Stitch,"['Animation', 'Family']",en,film-poster/4/5/2/0/4/45204-lilo-stitch-0-230-0-345-crop,85,['English'],2002
+raw-2016,Raw,"['Drama', 'Horror', 'Mystery']",fr,sm/upload/ux/k0/e5/em/kc8jT1MAiKM0iwdjAwC5lQrTNry-0-230-0-345-crop,99,['Français'],2016
+dead-poets-society,Dead Poets Society,['Drama'],en,film-poster/5/1/8/4/6/51846-dead-poets-society-0-230-0-345-crop,128,['English'],1989
+the-darjeeling-limited,The Darjeeling Limited,"['Adventure', 'Drama', 'Comedy']",en,sm/upload/1d/y8/h1/b8/47AGp0EKNMjqBBPaxRYDW0Sc5If-0-230-0-345-crop,92,"['English', 'हिन्दी', 'Deutsch']",2007
+the-devil-all-the-time,The Devil All the Time,"['Crime', 'Drama', 'Thriller']",en,film-poster/4/2/9/9/4/5/429945-the-devil-all-the-time-0-230-0-345-crop,138,['English'],2020
+harry-potter-and-the-philosophers-stone,Harry Potter and the Philosopher's Stone,"['Adventure', 'Fantasy']",en,sm/upload/5t/cj/6w/6e/harrypotter2-0-230-0-345-crop,152,['English'],2001
+a-nightmare-on-elm-street,A Nightmare on Elm Street,['Horror'],en,film-poster/5/1/7/0/8/51708-a-nightmare-on-elm-street-0-230-0-345-crop,91,['English'],1984
+possessor,Possessor,"['Thriller', 'Science Fiction', 'Horror', 'Mystery']",en,film-poster/3/6/8/5/4/0/368540-possessor-0-230-0-345-crop,104,['English'],2020
+breathless,Breathless,"['Drama', 'Crime']",fr,film-poster/5/1/7/8/7/51787-breathless-0-230-0-345-crop,90,"['Français', 'English']",1960
+true-romance,True Romance,"['Action', 'Thriller', 'Crime', 'Romance']",en,film-poster/5/1/7/4/0/51740-true-romance-0-230-0-345-crop,120,"['English', 'Italiano']",1993
+star-trek-into-darkness,Star Trek Into Darkness,"['Action', 'Adventure', 'Science Fiction']",en,film-poster/1/1/9/0/8/11908-star-trek-into-darkness-0-230-0-345-crop,132,['English'],2013
+poltergeist,Poltergeist,['Horror'],en,film-poster/5/1/5/1/2/51512-poltergeist-0-230-0-345-crop,114,['English'],1982
+rear-window,Rear Window,"['Thriller', 'Mystery']",en,film-poster/5/1/5/5/2/51552-rear-window-0-230-0-345-crop,112,['English'],1954
+happy-death-day,Happy Death Day,"['Horror', 'Mystery', 'Comedy']",en,sm/upload/zf/k0/fc/si/cTaEIUYTt52ooq9quVbAQ7NpGwo-0-230-0-345-crop,97,['English'],2017
+the-exorcist,The Exorcist,['Horror'],en,film-poster/4/7/0/4/8/47048-the-exorcist-0-230-0-345-crop,122,"['Deutsch', 'Français', 'Latin', 'العربية', 'ελληνικά', 'English']",1973
+under-the-silver-lake,Under the Silver Lake,"['Crime', 'Drama', 'Mystery']",en,film-poster/3/3/0/8/1/0/330810-under-the-silver-lake-0-230-0-345-crop,139,['English'],2018
+x-men-origins-wolverine,X-Men Origins: Wolverine,"['Adventure', 'Action', 'Thriller', 'Science Fiction']",en,film-poster/5/0/5/4/4/50544-x-men-origins-wolverine-0-230-0-345-crop,107,['English'],2009
+west-side-story,West Side Story,"['Crime', 'Drama', 'Romance']",en,sm/upload/em/vs/66/tb/zRQhCSREdR9h4OzEVvwhdlZNZ6m-0-230-0-345-crop,152,"['Español', 'English']",1961
+jurassic-park,Jurassic Park,"['Adventure', 'Science Fiction']",en,sm/upload/1g/zz/ez/d8/yyCKYaW908ZbpexpnBJ3p8o87HA-0-230-0-345-crop,127,"['English', 'Español']",1993
+boogie-nights,Boogie Nights,['Drama'],en,film-poster/4/9/0/0/7/49007-boogie-nights-0-230-0-345-crop,156,['English'],1997
+enemy,Enemy,"['Thriller', 'Mystery']",en,sm/upload/sj/00/0d/n1/aQkyFHzNzZoMhxZ7c0IaK8BljED-0-230-0-345-crop,91,['English'],2013
+the-hunger-games-catching-fire,The Hunger Games: Catching Fire,"['Adventure', 'Action', 'Science Fiction']",en,sm/upload/0a/6m/bl/rt/esWEsDI83IYqUBGSN69hb4A1Vfu-0-230-0-345-crop,146,['English'],2013
+paddington-2,Paddington 2,"['Adventure', 'Comedy', 'Family']",en,sm/upload/ij/ub/so/m3/zuXMvSQq9F7H29qzuUm0qyUqw6m-0-230-0-345-crop,104,['English'],2017
+john-wick,John Wick,"['Action', 'Thriller']",en,film-poster/1/7/2/0/7/6/172076-john-wick-0-230-0-345-crop,101,"['Magyar', 'English', 'Pусский']",2014
+fight-club,Fight Club,['Drama'],en,film-poster/5/1/5/6/8/51568-fight-club-0-230-0-345-crop,139,['English'],1999
+moulin-rouge-2001,Moulin Rouge!,"['Drama', 'Romance', 'Music']",en,film-poster/5/1/3/2/8/51328-moulin-rouge--0-230-0-345-crop,127,"['Français', 'Español', 'English']",2001
+kingsman-the-secret-service,Kingsman: The Secret Service,"['Crime', 'Comedy', 'Action', 'Adventure']",en,film-poster/1/4/8/2/0/0/148200-kingsman-the-secret-service-0-230-0-345-crop,129,['English'],2014
+spirited-away,Spirited Away,"['Animation', 'Family', 'Fantasy']",ja,film-poster/5/1/9/2/1/51921-spirited-away-0-230-0-345-crop,125,['日本語'],2001
+10-cloverfield-lane,10 Cloverfield Lane,"['Thriller', 'Science Fiction', 'Drama', 'Horror']",en,film-poster/2/6/1/8/9/1/261891-10-cloverfield-lane-0-230-0-345-crop,104,['English'],2016
+pans-labyrinth,Pan's Labyrinth,"['Fantasy', 'Drama', 'War']",es,film-poster/5/1/0/4/7/51047-pan-s-labyrinth-0-230-0-345-crop,118,['Español'],2006
+ant-man,Ant-Man,"['Science Fiction', 'Action', 'Adventure']",en,film-poster/8/3/5/5/7/83557-ant-man-0-230-0-345-crop,117,['English'],2015
+star-wars-episode-ii-attack-of-the-clones,Star Wars: Episode II - Attack of the Clones,"['Adventure', 'Action', 'Science Fiction']",en,film-poster/5/0/7/1/0/50710-star-wars-episode-ii-attack-of-the-clones-0-230-0-345-crop,142,['English'],2002
+the-man-from-uncle,The Man from U.N.C.L.E.,"['Comedy', 'Action', 'Adventure']",en,film-poster/1/4/5/8/2/2/145822-the-man-from-u-n-c-l-e--0-230-0-345-crop,116,"['Italiano', 'English', 'Pусский', 'Deutsch']",2015
+aladdin-2019,Aladdin,"['Adventure', 'Fantasy', 'Romance', 'Family']",en,sm/upload/qh/co/7j/kl/aladdin-0-230-0-345-crop,128,['English'],2019
+v-for-vendetta,V for Vendetta,"['Action', 'Thriller', 'Fantasy']",en,film-poster/5/1/4/0/0/51400-v-for-vendetta-0-230-0-345-crop,132,['English'],2005
+snow-white-and-the-seven-dwarfs,Snow White and the Seven Dwarfs,"['Fantasy', 'Animation', 'Family']",en,film-poster/5/1/6/8/2/51682-snow-white-and-the-seven-dwarfs-0-230-0-345-crop,83,['English'],1937
+edge-of-tomorrow,Edge of Tomorrow,"['Action', 'Science Fiction']",en,film-poster/1/0/5/1/8/3/105183-edge-of-tomorrow-0-230-0-345-crop,113,['English'],2014
+harry-potter-and-the-deathly-hallows-part-1,Harry Potter and the Deathly Hallows: Part 1,"['Adventure', 'Fantasy']",en,sm/upload/u8/tj/88/3v/harry-potter-and-the-deathly-hallows-part-i-original-0-230-0-345-crop,146,['English'],2010
+lost-in-translation,Lost in Translation,"['Comedy', 'Drama', 'Romance']",en,sm/upload/th/b5/6c/gl/5T8VvuFTdaawKLJk34i69Utaw7o-0-230-0-345-crop,102,"['日本語', 'English']",2003
+doctor-sleep,Doctor Sleep,"['Horror', 'Thriller']",en,film-poster/4/3/1/1/0/9/431109-doctor-sleep-0-230-0-345-crop,152,['English'],2019
+the-mask-1994,The Mask,"['Romance', 'Comedy', 'Crime', 'Fantasy']",en,film-poster/5/1/2/9/8/51298-the-mask-0-230-0-345-crop,101,"['svenska', 'English']",1994
+harry-potter-and-the-chamber-of-secrets,Harry Potter and the Chamber of Secrets,"['Adventure', 'Fantasy']",en,sm/upload/rj/yc/zl/ex/g8IQhqYYLERU0UxjVaySP46PFEZ-0-230-0-345-crop,161,['English'],2002
+john-wick-chapter-2,John Wick: Chapter 2,"['Thriller', 'Action', 'Crime']",en,sm/upload/wb/rc/zd/o6/fWz9LMfdES80BsJKucgzI5ZJhnB-0-230-0-345-crop,122,"['English', 'Italiano', 'Pусский']",2017
+the-conversation,The Conversation,"['Crime', 'Drama', 'Mystery']",en,film-poster/5/1/5/2/9/51529-the-conversation-0-230-0-345-crop,113,['English'],1974
+before-sunset,Before Sunset,"['Drama', 'Romance']",en,film-poster/5/1/9/7/0/51970-before-sunset-0-230-0-345-crop,80,"['English', 'Français']",2004
+anomalisa,Anomalisa,"['Animation', 'Drama', 'Romance']",en,sm/upload/8j/pp/36/x9/h6orfYDihFwZfneMvXyGUeTufeK-0-230-0-345-crop,90,['English'],2015
+monsters-inc,"Monsters, Inc.","['Animation', 'Comedy', 'Family']",en,sm/upload/r0/m8/t4/gs/7m1wKo1rM9QL5DMJCAs66bDQVYC-0-230-0-345-crop,92,['English'],2001
+frozen-2013,Frozen,"['Animation', 'Adventure', 'Family']",en,sm/upload/6w/m8/pw/94/eFnGmj63QPUpK7QUWSOUhypIQOT-0-230-0-345-crop,102,['English'],2013
+blood-simple,Blood Simple,"['Crime', 'Drama', 'Thriller']",en,sm/upload/b7/yw/x0/25/blood%20simple-0-230-0-345-crop,97,['English'],1984
+rango,Rango,"['Animation', 'Comedy', 'Family', 'Western', 'Adventure']",en,sm/upload/kg/9s/vs/0n/tB6RZA2pEFnolOKOAHR2GBu25aT-0-230-0-345-crop,107,['English'],2011
+pirates-of-the-caribbean-at-worlds-end,Pirates of the Caribbean: At World's End,"['Adventure', 'Fantasy', 'Action']",en,film-poster/5/1/7/7/3/51773-pirates-of-the-caribbean-at-world-s-end-0-230-0-345-crop,169,['English'],2007
+mad-max,Mad Max,"['Adventure', 'Action', 'Thriller', 'Science Fiction']",en,film-poster/4/6/9/4/2/46942-mad-max-0-230-0-345-crop,91,['English'],1979
+blow-out,Blow Out,"['Thriller', 'Crime', 'Mystery']",en,film-poster/4/5/1/0/9/45109-blow-out-0-230-0-345-crop,108,['English'],1981
+godzilla-2014,Godzilla,"['Action', 'Drama', 'Science Fiction']",en,film-poster/9/8/3/3/6/98336-godzilla-0-230-0-345-crop,123,"['English', '日本語']",2014
+school-of-rock,School of Rock,"['Comedy', 'Music', 'Family']",en,film-poster/5/0/9/5/0/50950-school-of-rock-0-230-0-345-crop,110,['English'],2003
+avengers-age-of-ultron,Avengers: Age of Ultron,"['Action', 'Adventure', 'Science Fiction']",en,film-poster/8/1/6/0/5/81605-avengers-age-of-ultron-0-230-0-345-crop,141,['English'],2015
+the-ring-2002,The Ring,"['Horror', 'Mystery']",en,sm/upload/fi/eb/jh/ni/the-ring-0-230-0-345-crop,115,['English'],2002
+watchmen,Watchmen,"['Action', 'Mystery', 'Science Fiction']",en,film-poster/4/4/0/7/0/44070-watchmen-0-230-0-345-crop,163,['English'],2009
+bee-movie,Bee Movie,"['Family', 'Animation', 'Adventure', 'Comedy']",en,film-poster/4/8/7/9/1/48791-bee-movie-0-230-0-345-crop,91,['English'],2007
+home-alone,Home Alone,"['Comedy', 'Family']",en,sm/upload/e6/mn/oi/ky/8IWPBT1rkAaI8Kpk5V3WfQRklJ7-0-230-0-345-crop,103,['English'],1990
+crazy-rich-asians,Crazy Rich Asians,"['Comedy', 'Drama', 'Romance']",en,film-poster/3/8/7/2/3/8/387238-crazy-rich-asians-0-230-0-345-crop,121,"['广州话 / 廣州話', '普通话', 'English']",2018
+finding-nemo,Finding Nemo,"['Animation', 'Family']",en,film-poster/2/7/0/5/2705-finding-nemo-0-230-0-345-crop,100,['English'],2003
+the-iron-giant,The Iron Giant,"['Family', 'Animation', 'Adventure', 'Science Fiction', 'Comedy']",en,film-poster/4/6/2/8/0/46280-the-iron-giant-0-230-0-345-crop,86,['English'],1999
+the-beguiled-2017,The Beguiled,['Drama'],en,sm/upload/rq/93/gp/2u/uQxfqFAqAvNK5b1wD11b2ycDAVg-0-230-0-345-crop,93,"['Français', 'English']",2017
+mandy-2018,Mandy,"['Horror', 'Action', 'Thriller', 'Fantasy']",en,film-poster/3/9/2/6/5/4/392654-mandy-0-230-0-345-crop,122,['English'],2018
+avatar,Avatar,"['Action', 'Adventure', 'Fantasy', 'Science Fiction']",en,sm/upload/1p/mh/li/l2/b7nR3eKeTOwHPKmDLUWunIGasKo-0-230-0-345-crop,162,"['English', 'Español']",2009
+batman-v-superman-dawn-of-justice,Batman v Superman: Dawn of Justice,"['Action', 'Adventure', 'Fantasy']",en,sm/upload/ge/rr/co/14/w7PsEa7Ilk53vFI7PplTJYckIJj-0-230-0-345-crop,152,['English'],2016
+godzilla-king-of-the-monsters-2019,Godzilla: King of the Monsters,"['Science Fiction', 'Action']",en,film-poster/3/0/9/1/0/7/309107-godzilla-king-of-the-monsters-0-230-0-345-crop,132,"['普通话', 'English', '日本語']",2019
+we-need-to-talk-about-kevin,We Need to Talk About Kevin,"['Drama', 'Thriller']",en,sm/upload/jw/sl/s7/m6/TBNvX42VMq5vRNppY27mPYEz4Z-0-230-0-345-crop,113,['English'],2011
+twin-peaks-fire-walk-with-me,Twin Peaks: Fire Walk with Me,"['Drama', 'Mystery', 'Horror']",en,sm/upload/xb/qg/78/zd/tOQekTHJmVCgfUYXTb6dLAu6l8W-0-230-0-345-crop,135,"['English', 'Français']",1992
+twilight-2008,Twilight,"['Fantasy', 'Drama', 'Romance']",en,film-poster/4/7/4/6/9/47469-twilight-0-230-0-345-crop,122,['English'],2008
+kong-skull-island,Kong: Skull Island,"['Action', 'Adventure', 'Fantasy']",en,film-poster/2/2/0/0/8/0/220080-kong-skull-island-0-230-0-345-crop,118,"['English', 'Tiếng Việt']",2017
+were-the-millers,We're the Millers,"['Comedy', 'Crime']",en,sm/upload/gy/z2/o8/vq/pyrv46Lr3rOIcSg1PkkCwktCC3G-0-230-0-345-crop,110,['English'],2013
+life-of-brian,Life of Brian,['Comedy'],en,sm/upload/ui/oc/sh/aa/wEgm6iVOD4afMlEo1VGi3Yz0cmd-0-230-0-345-crop,94,"['English', 'Latin']",1979
+ingrid-goes-west,Ingrid Goes West,"['Comedy', 'Drama']",en,sm/upload/te/ll/jj/tm/3LEyW11onDltXHo0L1X23j9Nnvg-0-230-0-345-crop,97,['English'],2017
+evil-dead-ii,Evil Dead II,"['Horror', 'Comedy', 'Fantasy']",en,sm/upload/p9/tg/s4/ca/dxbIRmIo0rN5R6WGvxnJuUJPh3t-0-230-0-345-crop,84,['English'],1987
+star-trek,Star Trek,"['Science Fiction', 'Action', 'Adventure']",en,film-poster/4/3/8/6/0/43860-star-trek-0-230-0-345-crop,127,['English'],2009
+the-fly-1986,The Fly,"['Horror', 'Science Fiction']",en,film-poster/4/7/1/7/1/47171-the-fly-0-230-0-345-crop,96,['English'],1986
+monty-python-and-the-holy-grail,Monty Python and the Holy Grail,"['Adventure', 'Comedy', 'Fantasy']",en,film-poster/5/1/3/9/0/51390-monty-python-and-the-holy-grail-0-230-0-345-crop,91,"['Français', 'Latin', 'English']",1975
+chinatown,Chinatown,"['Crime', 'Drama', 'Mystery', 'Thriller']",en,film-poster/5/1/3/2/3/51323-chinatown-0-230-0-345-crop,130,"['Español', '广州话 / 廣州話', 'English']",1974
+the-hobbit-the-battle-of-the-five-armies,The Hobbit: The Battle of the Five Armies,"['Action', 'Adventure', 'Fantasy']",en,film-poster/9/6/5/5/2/96552-the-hobbit-the-battle-of-the-five-armies-0-230-0-345-crop,144,['English'],2014
+rocky,Rocky,['Drama'],en,sm/upload/4z/ql/93/vq/2Zyuxm4fgCPKlnIdieHg7tfbxMS-0-230-0-345-crop,120,['English'],1976
+the-night-of-the-hunter,The Night of the Hunter,"['Crime', 'Drama', 'Thriller']",en,film-poster/4/9/8/6/0/49860-the-night-of-the-hunter-0-230-0-345-crop,93,['English'],1955
+hustlers-2019,Hustlers,"['Drama', 'Comedy', 'Crime']",en,film-poster/4/6/9/9/7/1/469971-hustlers-0-230-0-345-crop,110,"['English', 'Español', 'Pусский']",2019
+independence-day,Independence Day,"['Action', 'Adventure', 'Science Fiction']",en,sm/upload/7q/v8/7h/61/bqLlWZJdhrS0knfEJRkquW7L8z2-0-230-0-345-crop,145,['English'],1996
+iron-man-2,Iron Man 2,"['Adventure', 'Action', 'Science Fiction']",en,film-poster/4/6/5/1/1/46511-iron-man-2-0-230-0-345-crop,124,"['English', 'Pусский', 'Français']",2010
+annie-hall,Annie Hall,"['Comedy', 'Drama', 'Romance']",en,film-poster/5/1/4/2/3/51423-annie-hall-0-230-0-345-crop,93,"['English', 'Deutsch']",1977
+a-quiet-place-2018,A Quiet Place,"['Horror', 'Drama', 'Science Fiction']",en,film-poster/3/7/9/6/8/7/379687-a-quiet-place-0-230-0-345-crop,91,['English'],2018
+it-follows,It Follows,"['Horror', 'Mystery']",en,sm/upload/zr/lv/9v/wy/4MrwJZr0R9LbyOgZqwLNmtzzxbu-0-230-0-345-crop,101,['English'],2014
+once-upon-a-time-in-hollywood,Once Upon a Time… in Hollywood,"['Comedy', 'Drama', 'Thriller']",en,film-poster/3/9/7/8/5/9/397859-once-upon-a-time-in-hollywood-0-230-0-345-crop,162,"['English', 'Italiano', 'Español']",2019
+sherlock-holmes-2009,Sherlock Holmes,"['Action', 'Adventure', 'Crime', 'Mystery']",en,film-poster/4/6/1/4/4/46144-sherlock-holmes-0-230-0-345-crop,129,"['English', 'Français']",2009
+when-harry-met-sally,When Harry Met Sally...,"['Comedy', 'Romance', 'Drama']",en,film-poster/5/1/4/8/5/51485-when-harry-met-sally--0-230-0-345-crop,96,['English'],1989
+x-men-the-last-stand,X-Men: The Last Stand,"['Adventure', 'Action', 'Science Fiction', 'Thriller']",en,film-poster/2/7/7/1/3/27713-x-men-the-last-stand-0-230-0-345-crop,104,['English'],2006
+ghostbusters,Ghostbusters,"['Comedy', 'Fantasy']",en,film-poster/6/1/6/6/6166-ghostbusters-0-230-0-345-crop,107,['English'],1984
+solo-a-star-wars-story,Solo: A Star Wars Story,"['Science Fiction', 'Adventure', 'Action', 'Crime']",en,film-poster/2/7/8/6/6/8/278668-solo-a-star-wars-story-0-230-0-345-crop,135,['English'],2018
+pokemon-detective-pikachu,Pokémon Detective Pikachu,"['Action', 'Adventure', 'Fantasy']",en,film-poster/3/7/9/6/2/6/379626-pokemon-detective-pikachu-0-230-0-345-crop,105,['English'],2019
+inside-out-2015,Inside Out,"['Animation', 'Family', 'Adventure', 'Drama', 'Comedy']",en,film-poster/1/1/3/2/8/4/113284-inside-out-0-230-0-345-crop,95,['English'],2015
+steve-jobs,Steve Jobs,"['Drama', 'History']",en,sm/upload/ql/1g/sz/63/7SUaf2UgoY0ZRGbQtRlfDkLDBCb-0-230-0-345-crop,122,['English'],2015
+emma-2020,Emma.,"['Comedy', 'Romance']",en,film-poster/4/8/5/2/1/2/485212-emma-0-230-0-345-crop,125,['English'],2020
+hell-or-high-water,Hell or High Water,"['Western', 'Crime']",en,sm/upload/os/sk/tr/0a/6YOrNBdoXvT8aC5VPLkkN6t5z0V-0-230-0-345-crop,102,['English'],2016
+reservoir-dogs,Reservoir Dogs,"['Crime', 'Thriller']",en,sm/upload/u0/4o/op/yx/g7spS2Y4SZoQoC6Hn7zoqEqdYqR-0-230-0-345-crop,99,['English'],1992
+oceans-twelve,Ocean's Twelve,"['Thriller', 'Crime']",en,film-poster/5/1/8/8/8/51888-ocean-s-twelve-0-230-0-345-crop,125,"['Français', 'Italiano', 'Nederlands', '普通话', 'English']",2004
+the-worlds-end,The World's End,"['Comedy', 'Action', 'Science Fiction']",en,film-poster/8/6/9/9/1/86991-the-world-s-end-0-230-0-345-crop,109,['English'],2013
+mission-impossible-rogue-nation,Mission: Impossible - Rogue Nation,"['Action', 'Adventure']",en,sm/upload/lk/jb/17/6y/oUDKymEL932AeHyl4A4ee8zuBLF-0-230-0-345-crop,131,"['Deutsch', 'English', 'svenska']",2015
+the-descent,The Descent,"['Adventure', 'Horror']",en,film-poster/4/7/2/0/4/47204-the-descent-0-230-0-345-crop,99,['English'],2005
+insidious,Insidious,"['Horror', 'Thriller']",en,sm/upload/te/ew/lb/gd/urAaOffVaxQzRJ8X5Z0oDqOWAjl-0-230-0-345-crop,103,['English'],2010
+star-wars-episode-i-the-phantom-menace,Star Wars: Episode I - The Phantom Menace,"['Adventure', 'Action', 'Science Fiction']",en,film-poster/5/0/7/1/1/50711-star-wars-episode-i-the-phantom-menace-0-230-0-345-crop,136,['English'],1999
+finding-dory,Finding Dory,"['Adventure', 'Animation', 'Comedy', 'Family']",en,film-poster/9/9/4/0/2/99402-finding-dory-0-230-0-345-crop,97,['English'],2016
+batman-robin,Batman & Robin,"['Science Fiction', 'Action', 'Fantasy']",en,sm/upload/h8/o7/v6/cj/79AYCcxw3kSKbhGpx1LiqaCAbwo-0-230-0-345-crop,125,['English'],1997
+memento,Memento,"['Mystery', 'Thriller']",en,sm/upload/v1/3q/s4/aa/memento-0-230-0-345-crop,113,['English'],2000
+stalker,Stalker,"['Science Fiction', 'Drama']",ru,film-poster/5/1/0/6/2/51062-stalker-0-230-0-345-crop,162,['Pусский'],1979
+the-big-sick,The Big Sick,"['Comedy', 'Drama', 'Romance']",en,film-poster/3/5/0/3/8/4/350384-the-big-sick-0-230-0-345-crop,120,"['English', 'اردو']",2017
+beetlejuice,Beetlejuice,"['Fantasy', 'Comedy']",en,sm/upload/rs/wk/3i/nt/gWnW7vxm8yr01TVLQhL4aI02orp-0-230-0-345-crop,92,['English'],1988
+the-incredibles,The Incredibles,"['Action', 'Adventure', 'Animation', 'Family']",en,film-poster/4/6/8/0/6/46806-the-incredibles-0-230-0-345-crop,115,"['Français', 'English']",2004
+the-meyerowitz-stories-new-and-selected,The Meyerowitz Stories (New and Selected),"['Comedy', 'Drama']",en,sm/upload/3h/s9/0c/uc/lJr90SKXhEBaSchymgzOrbC56kA-0-230-0-345-crop,112,['English'],2017
+high-life-2018,High Life,"['Science Fiction', 'Drama', 'Mystery', 'Thriller']",en,sm/upload/d7/uh/1s/rj/wElOvH7H6sLElsTOLu1MY6oWRUx-0-230-0-345-crop,113,['English'],2018
+back-to-the-future-part-iii,Back to the Future Part III,"['Adventure', 'Comedy', 'Science Fiction']",en,film-poster/5/1/8/5/6/51856-back-to-the-future-part-iii-0-230-0-345-crop,119,['English'],1990
+nightcrawler,Nightcrawler,"['Crime', 'Drama', 'Thriller']",en,sm/upload/g7/2e/vi/vy/A9ANrAWlmIovxzjAIiOgseSLNc9-0-230-0-345-crop,118,['English'],2014
+the-little-mermaid,The Little Mermaid,"['Animation', 'Family', 'Fantasy']",en,sm/upload/tp/jv/zf/fi/Amwq3yJP4VblXUptDAV7S13smCd-0-230-0-345-crop,83,"['English', 'Français']",1989
+a-serious-man,A Serious Man,"['Comedy', 'Drama']",en,sm/upload/2u/48/o1/04/kCl9WXR7LOqDTEU3XUX8ssUETQR-0-230-0-345-crop,106,"['עִבְרִית', 'English', 'Italiano']",2009
+casablanca,Casablanca,"['Drama', 'Romance']",en,sm/upload/kq/vf/8s/1p/wOBKAoUJZb5qTsWv5XXvVV2vUzz-0-230-0-345-crop,102,"['Deutsch', 'Français', 'Italiano', 'English']",1942
+back-to-the-future-part-ii,Back to the Future Part II,"['Adventure', 'Comedy', 'Family', 'Science Fiction']",en,film-poster/5/1/8/8/6/51886-back-to-the-future-part-ii-0-230-0-345-crop,108,['English'],1989
+anchorman-the-legend-of-ron-burgundy,Anchorman: The Legend of Ron Burgundy,['Comedy'],en,film-poster/4/7/6/3/7/47637-anchorman-the-legend-of-ron-burgundy-0-230-0-345-crop,95,['English'],2004
+mid90s,mid90s,"['Drama', 'Comedy']",en,film-poster/3/7/0/4/5/1/370451-mid90s-0-230-0-345-crop,86,['English'],2018
+incredibles-2,Incredibles 2,"['Action', 'Adventure', 'Animation', 'Family']",en,film-poster/1/8/4/0/6/1/184061-incredibles-2-0-230-0-345-crop,118,['English'],2018
+good-time,Good Time,"['Crime', 'Drama', 'Thriller']",en,film-poster/3/6/2/3/6/2/362362-good-time-0-230-0-345-crop,102,['English'],2017
+short-term-12-2013,Short Term 12,['Drama'],en,sm/upload/0k/gq/x9/2w/wYkiNNMM1O5c2yEcj8Lf9UbaB1a-0-230-0-345-crop,96,['English'],2013
+i-am-legend,I Am Legend,"['Drama', 'Science Fiction', 'Thriller']",en,film-poster/4/8/2/9/6/48296-i-am-legend-0-230-0-345-crop,101,['English'],2007
+dune,Dune,"['Action', 'Science Fiction', 'Adventure']",en,sm/upload/e9/3l/l6/pt/dune-0-230-0-345-crop,137,"['English', 'Italiano']",1984
+inglourious-basterds,Inglourious Basterds,"['Drama', 'Action', 'Thriller', 'War']",en,film-poster/4/1/3/5/2/41352-inglourious-basterds-0-230-0-345-crop,153,"['Deutsch', 'English', 'Français', 'Italiano']",2009
+jackie-2016,Jackie,['Drama'],en,sm/upload/kl/ys/8q/uf/iMkl2Akc1f4CSJCieVwczM4KjZR-0-230-0-345-crop,100,"['English', 'Español']",2016
+indiana-jones-and-the-last-crusade,Indiana Jones and the Last Crusade,"['Adventure', 'Action']",en,film-poster/5/1/9/6/1/51961-indiana-jones-and-the-last-crusade-0-230-0-345-crop,127,"['Deutsch', 'ελληνικά', 'English']",1989
+se7en,Se7en,"['Crime', 'Mystery', 'Thriller']",en,sm/upload/yx/yw/v4/el/mhFXxB76LVgJBIfJM1sAuVBtVKv-0-230-0-345-crop,127,['English'],1995
+you-were-never-really-here,You Were Never Really Here,"['Thriller', 'Drama']",en,film-poster/3/3/2/4/3/7/332437-you-were-never-really-here-0-230-0-345-crop,89,['English'],2017
+paddington,Paddington,"['Comedy', 'Adventure', 'Family']",en,film-poster/9/2/1/6/0/92160-paddington-0-230-0-345-crop,96,['English'],2014
+evil-dead,Evil Dead,['Horror'],en,sm/upload/he/wz/f9/h1/6gtHgAxgemVd3pIQlbg4YoniqEY-0-230-0-345-crop,91,['English'],2013
+kung-fu-panda,Kung Fu Panda,"['Action', 'Adventure', 'Animation', 'Family', 'Comedy']",en,sm/upload/wn/0t/9w/2v/mk3UyyaLyXhgIhmLji25OUPXvGR-0-230-0-345-crop,90,['English'],2008
+the-fate-of-the-furious,The Fate of the Furious,"['Action', 'Crime', 'Thriller']",en,film-poster/2/6/6/6/2/8/266628-the-fate-of-the-furious-0-230-0-345-crop,136,"['English', 'Español']",2017
+joker-2019,Joker,"['Crime', 'Thriller', 'Drama']",en,film-poster/4/0/6/7/7/5/406775-joker-0-230-0-345-crop,122,['English'],2019
+boyhood,Boyhood,['Drama'],en,sm/upload/xi/gm/ev/iu/eKi4e5zXhQKs0De4xu5AAMvu376-0-230-0-345-crop,165,"['Español', 'English']",2014
+cars,Cars,"['Animation', 'Adventure', 'Comedy', 'Family']",en,sm/upload/de/kp/63/hd/dWg33ektXuHmxjSjEulwDPTWbC2-0-230-0-345-crop,117,"['English', 'Italiano', '日本語']",2006
+paterson,Paterson,"['Comedy', 'Drama', 'Romance']",en,sm/upload/ki/j6/o2/2a/steNZE5bgKiHb3AeLQNIl1j8YAS-0-230-0-345-crop,118,['English'],2016
+sweeney-todd-the-demon-barber-of-fleet-street-2007,Sweeney Todd: The Demon Barber of Fleet Street,"['Drama', 'Horror']",en,sm/upload/5k/6p/zw/vr/jqPaoeBu3hEphyyR0anAkMAxflb-0-230-0-345-crop,116,['English'],2007
+three-billboards-outside-ebbing-missouri,"Three Billboards Outside Ebbing, Missouri","['Crime', 'Drama']",en,film-poster/2/9/1/6/1/0/291610-three-billboards-outside-ebbing-missouri-0-230-0-345-crop,115,['English'],2017
+wind-river-2017,Wind River,"['Crime', 'Drama', 'Mystery', 'Thriller']",en,film-poster/3/3/0/2/2/0/330220-wind-river-0-230-0-345-crop,107,['English'],2017
+mank,Mank,"['Drama', 'History']",en,film-poster/5/4/1/4/2/5/541425-mank-0-230-0-345-crop,132,['English'],2020
+blackkklansman,BlacKkKlansman,"['Crime', 'Drama', 'History', 'Comedy']",en,film-poster/4/1/8/1/3/5/418135-blackkklansman-0-230-0-345-crop,135,['English'],2018
+wonder-woman-2017,Wonder Woman,"['Action', 'Adventure', 'Fantasy']",en,film-poster/2/2/5/0/2/7/225027-wonder-woman-0-230-0-345-crop,141,"['Deutsch', 'English']",2017
+shiva-baby-2020,Shiva Baby,"['Comedy', 'Drama']",en,film-poster/5/8/9/0/9/3/589093-shiva-baby-0-230-0-345-crop,78,"['English', 'עִבְרִית']",2020
+hot-fuzz,Hot Fuzz,"['Crime', 'Action', 'Comedy']",en,sm/upload/xe/2y/e6/gy/4XLSKzQcE4lIgJgd71Y8UhAhxqQ-0-230-0-345-crop,121,['English'],2007
+princess-mononoke,Princess Mononoke,"['Adventure', 'Fantasy', 'Animation']",ja,sm/upload/fu/5h/fp/mj/mNqZOtJIQfFQPjo3hmYLIn8Qqhf-0-230-0-345-crop,134,['日本語'],1997
+zootopia,Zootopia,"['Animation', 'Adventure', 'Family', 'Comedy']",en,film-poster/1/9/2/4/1/0/192410-zootopia-0-230-0-345-crop,109,['English'],2016
+hail-caesar-2016,"Hail, Caesar!","['Comedy', 'Drama', 'Mystery']",en,film-poster/1/9/3/7/4/8/193748-hail-caesar--0-230-0-345-crop,106,['English'],2016
+x-men,X-Men,"['Adventure', 'Action', 'Science Fiction']",en,sm/upload/ub/6i/kh/7q/8259CEB5-947B-4A88-9848-AE748636B747-0-230-0-345-crop,104,['English'],2000
+the-bourne-identity-2002,The Bourne Identity,"['Action', 'Drama', 'Mystery', 'Thriller']",en,film-poster/5/0/2/2/5/50225-the-bourne-identity-0-230-0-345-crop,119,"['English', 'Français', 'Deutsch', 'Nederlands', 'Italiano']",2002
+shazam,Shazam!,"['Action', 'Comedy', 'Fantasy']",en,film-poster/2/1/3/1/9/0/213190-shazam--0-230-0-345-crop,132,['English'],2019
+300,300,"['Action', 'Adventure', 'War']",en,film-poster/5/1/1/1/1/51111-300-0-230-0-345-crop,117,['English'],2006
+manchester-by-the-sea,Manchester by the Sea,['Drama'],en,sm/upload/i7/li/tp/62/i0t7F6b4R1wURRESAiw9VJNuVoV-0-230-0-345-crop,138,['English'],2016
+the-silence-of-the-lambs,The Silence of the Lambs,"['Crime', 'Drama', 'Thriller', 'Horror']",en,film-poster/5/1/7/8/2/51782-the-silence-of-the-lambs-0-230-0-345-crop,119,['English'],1991
+inside-llewyn-davis,Inside Llewyn Davis,"['Drama', 'Music']",en,film-poster/7/3/3/6/7/73367-inside-llewyn-davis-0-230-0-345-crop,104,['English'],2013
+ralph-breaks-the-internet,Ralph Breaks the Internet,"['Family', 'Animation', 'Comedy', 'Adventure']",en,film-poster/3/3/8/8/8/3/338883-ralph-breaks-the-internet-0-230-0-345-crop,112,['English'],2018
+american-sniper,American Sniper,"['War', 'Action']",en,film-poster/1/3/7/4/7/6/137476-american-sniper-0-230-0-345-crop,133,['English'],2014
+heat-1995,Heat,"['Action', 'Crime', 'Drama', 'Thriller']",en,sm/upload/8y/id/eb/z5/heat-original-0-230-0-345-crop,170,"['English', 'Español']",1995
+transformers,Transformers,"['Adventure', 'Science Fiction', 'Action']",en,sm/upload/5z/cu/ki/sx/transformers-0-230-0-345-crop,144,"['Español', 'English']",2007
+grease,Grease,"['Romance', 'Comedy']",en,sm/upload/uw/jl/ie/y3/grease-0-230-0-345-crop,110,['English'],1978
+annihilation,Annihilation,"['Science Fiction', 'Horror']",en,film-poster/2/2/7/7/8/4/227784-annihilation-0-230-0-345-crop,115,['English'],2018
+the-hunger-games-mockingjay-part-1,The Hunger Games: Mockingjay - Part 1,"['Science Fiction', 'Adventure', 'Thriller']",en,film-poster/1/0/1/9/9/1/101991-the-hunger-games-mockingjay-part-1-0-230-0-345-crop,123,['English'],2014
+the-hunger-games-mockingjay-part-2,The Hunger Games: Mockingjay - Part 2,"['Action', 'Adventure', 'Science Fiction']",en,sm/upload/tq/6c/uw/7r/nN4cEJMHJHbJBsp3vvvhtNWLGqg-0-230-0-345-crop,137,['English'],2015
+the-matrix-reloaded,The Matrix Reloaded,"['Adventure', 'Action', 'Thriller', 'Science Fiction']",en,film-poster/5/1/5/1/7/51517-the-matrix-reloaded-0-230-0-345-crop,138,['English'],2003
+a-simple-favor,A Simple Favor,"['Crime', 'Thriller', 'Mystery', 'Comedy']",en,film-poster/4/1/5/2/0/8/415208-a-simple-favor-0-230-0-345-crop,117,['English'],2018
+the-farewell-2019,The Farewell,"['Comedy', 'Drama']",en,film-poster/4/9/3/6/9/7/493697-the-farewell-0-230-0-345-crop,100,"['English', '日本語', '普通话']",2019
+videodrome,Videodrome,"['Horror', 'Mystery', 'Science Fiction']",en,sm/upload/xw/sw/3v/st/o8psaYgwTYFpqJhHISoMq178J4n-0-230-0-345-crop,88,['English'],1983
+the-fast-and-the-furious-2001,The Fast and the Furious,"['Action', 'Crime', 'Thriller']",en,film-poster/4/6/8/1/3/46813-the-fast-and-the-furious-0-230-0-345-crop,106,['English'],2001
+x-men-apocalypse,X-Men: Apocalypse,"['Action', 'Adventure', 'Science Fiction', 'Fantasy']",en,film-poster/1/7/2/4/9/2/172492-x-men-apocalypse-0-230-0-345-crop,144,['English'],2016
+who-framed-roger-rabbit,Who Framed Roger Rabbit,"['Fantasy', 'Animation', 'Comedy', 'Crime', 'Family']",en,film-poster/5/1/2/9/6/51296-who-framed-roger-rabbit-0-230-0-345-crop,104,['English'],1988
+tropic-thunder,Tropic Thunder,"['Action', 'Comedy', 'Adventure', 'War']",en,film-poster/4/8/0/3/0/48030-tropic-thunder-0-230-0-345-crop,107,['English'],2008
+grave-of-the-fireflies,Grave of the Fireflies,"['Animation', 'Drama', 'War']",ja,film-poster/4/4/5/5/8/44558-grave-of-the-fireflies-0-230-0-345-crop,89,['日本語'],1988
+apocalypse-now,Apocalypse Now,"['Drama', 'War']",en,film-poster/2/6/9/0/2690-apocalypse-now-0-230-0-345-crop,147,"['English', 'Français', 'Tiếng Việt']",1979
+the-rocky-horror-picture-show,The Rocky Horror Picture Show,"['Comedy', 'Science Fiction', 'Fantasy', 'Horror']",en,film-poster/2/7/6/9/8/27698-the-rocky-horror-picture-show-0-230-0-345-crop,100,['English'],1975
+looper,Looper,"['Action', 'Thriller', 'Science Fiction']",en,sm/upload/qp/zb/lh/ec/yZ7e9bmLURRe89No7ei6eZQO1qZ-0-230-0-345-crop,118,['English'],2012
+halloween-1978,Halloween,"['Horror', 'Thriller']",en,film-poster/6/0/2/9/8/60298-halloween-0-230-0-345-crop,91,['English'],1978
+ex-machina-2014,Ex Machina,"['Drama', 'Science Fiction']",en,film-poster/1/8/7/9/8/6/187986-ex-machina-0-230-0-345-crop,108,['English'],2014
+alien-3,Alien³,"['Science Fiction', 'Action', 'Horror']",en,film-poster/4/7/8/8/8/47888-alien-0-230-0-345-crop,114,['English'],1992
+spider-man-into-the-spider-verse,Spider-Man: Into the Spider-Verse,"['Action', 'Adventure', 'Animation', 'Science Fiction', 'Comedy']",en,film-poster/2/5/1/9/4/3/251943-spider-man-into-the-spider-verse-0-230-0-345-crop,117,"['English', 'Español']",2018
+kick-ass,Kick-Ass,"['Action', 'Crime']",en,sm/upload/qp/bw/k2/ia/jP8kukObEty5liW76QxJ1o5qlFL-0-230-0-345-crop,117,['English'],2010
+moneyball,Moneyball,['Drama'],en,sm/upload/h1/fd/pz/pi/3oAa8mJJ97CH9AeGEY6vjAxqcvZ-0-230-0-345-crop,134,['English'],2011
+aliens,Aliens,"['Action', 'Thriller', 'Science Fiction']",en,film-poster/5/1/4/4/5/51445-aliens-0-230-0-345-crop,137,['English'],1986
+dog-day-afternoon,Dog Day Afternoon,"['Crime', 'Drama', 'Thriller']",en,film-poster/5/1/1/9/5/51195-dog-day-afternoon-0-230-0-345-crop,125,['English'],1975
+before-sunrise,Before Sunrise,"['Drama', 'Romance']",en,film-poster/5/1/9/7/4/51974-before-sunrise-0-230-0-345-crop,101,"['English', 'Deutsch', 'Français']",1995
+the-raid-2011,The Raid,"['Action', 'Thriller', 'Crime']",id,film-poster/7/8/2/6/6/78266-the-raid-0-230-0-345-crop,101,['Bahasa indonesia'],2011
+super-8,Super 8,"['Thriller', 'Science Fiction', 'Mystery']",en,sm/upload/94/zp/vm/wr/b2FnFpBRuXa9buiYwctujn6zWrZ-0-230-0-345-crop,112,['English'],2011
+seven-samurai,Seven Samurai,"['Action', 'Drama']",ja,sm/upload/ji/5q/0k/rv/v6xrz4fr92KY1oNC3HsEvrsvR1n-0-230-0-345-crop,207,['日本語'],1954
+dont-breathe-2016,Don't Breathe,"['Horror', 'Thriller']",en,sm/upload/fq/1t/ps/wi/lw0IqOSMsQcy1QnVIEIDppLmNwk-0-230-0-345-crop,89,['English'],2016
+amelie,Amélie,"['Comedy', 'Romance']",fr,sm/upload/ly/0v/ey/u7/pM20xF4WFyX7G3ie0YBXFp75aEC-0-230-0-345-crop,122,"['Français', 'Pусский']",2001
+hunt-for-the-wilderpeople,Hunt for the Wilderpeople,"['Adventure', 'Comedy', 'Drama']",en,sm/upload/z3/0g/ol/7s/gALeMjf3NlSXy1gbz3eKct1aRhd-0-230-0-345-crop,101,['English'],2016
+total-recall,Total Recall,"['Action', 'Adventure', 'Science Fiction']",en,film-poster/5/1/2/9/1/51291-total-recall-0-230-0-345-crop,113,['English'],1990
+batman-begins,Batman Begins,"['Action', 'Crime', 'Drama']",en,film-poster/5/1/7/8/4/51784-batman-begins-0-230-0-345-crop,140,"['English', 'اردو', '普通话']",2005
+mamma-mia,Mamma Mia!,"['Comedy', 'Romance']",en,sm/upload/10/5l/wu/jl/gOm2iMMbC6EonrFzmSQ8xvCa4Ei,108,"['English', 'ελληνικά']",2008
+train-to-busan,Train to Busan,"['Action', 'Horror', 'Thriller']",ko,film-poster/3/3/0/9/1/2/330912-train-to-busan-0-230-0-345-crop,118,['한국어/조선말'],2016
+palm-springs-2020,Palm Springs,"['Comedy', 'Romance']",en,film-poster/5/1/5/4/6/7/515467-palm-springs-0-230-0-345-crop,90,"['English', 'Español']",2020
+dune-2021,Dune,"['Science Fiction', 'Adventure']",en,sm/upload/nx/8b/vs/gc/cDbNAY0KM84cxXhmj8f0dLWza3t-0-230-0-345-crop,155,"['普通话', 'English']",2021
+black-widow-2021,Black Widow,"['Action', 'Adventure', 'Science Fiction']",en,film-poster/4/2/7/8/0/7/427807-black-widow-0-230-0-345-crop,134,"['English', 'Pусский']",2021
+zack-snyders-justice-league,Zack Snyder's Justice League,"['Action', 'Adventure', 'Fantasy', 'Science Fiction']",en,film-poster/7/0/9/5/3/0/709530-zack-snyder-s-justice-league-0-230-0-345-crop,242,['English'],2021
+west-side-story-2021,West Side Story,"['Drama', 'Romance', 'Crime']",en,sm/upload/nn/9m/oa/gb/uvDAImzaVVO04h3CUM1pVJ535nf-0-230-0-345-crop,156,['English'],2021
+the-mitchells-vs-the-machines,The Mitchells vs. The Machines,"['Animation', 'Adventure', 'Comedy', 'Family', 'Science Fiction', 'Action']",en,film-poster/4/3/1/8/8/8/431888-the-mitchells-vs-the-machines-0-230-0-345-crop,114,['English'],2021
+the-matrix-resurrections,The Matrix Resurrections,"['Action', 'Adventure', 'Science Fiction']",en,film-poster/5/5/1/2/7/5/551275-the-matrix-resurrections-0-230-0-345-crop,147,['English'],2021
+the-green-knight,The Green Knight,"['Adventure', 'Drama', 'Fantasy']",en,film-poster/4/8/8/3/9/9/488399-the-green-knight-0-230-0-345-crop,130,['English'],2021
+spider-man-no-way-home,Spider-Man: No Way Home,"['Action', 'Adventure', 'Science Fiction']",en,film-poster/5/6/0/7/8/7/560787-spider-man-no-way-home-0-230-0-345-crop,0,"['English', 'Español']",2021
+shang-chi-and-the-legend-of-the-ten-rings,Shang-Chi and the Legend of the Ten Rings,"['Action', 'Adventure', 'Fantasy']",en,film-poster/4/9/4/9/6/9/494969-shang-chi-and-the-legend-of-the-ten-rings-0-230-0-345-crop,132,"['English', '普通话']",2021
+nobody-2021,Nobody,"['Action', 'Crime', 'Thriller', 'Drama']",en,film-poster/5/4/2/5/5/5/542555-nobody-0-230-0-345-crop,92,"['English', 'Pусский', 'Español']",2021
+godzilla-vs-kong,Godzilla vs. Kong,"['Action', 'Adventure', 'Fantasy']",en,film-poster/3/3/3/8/2/5/333825-godzilla-vs-kong-0-230-0-345-crop,113,['English'],2021
+dont-look-up-2021,Don't Look Up,"['Comedy', 'Drama', 'Science Fiction']",en,film-poster/5/7/2/2/5/5/572255-don-t-look-up-0-230-0-345-crop,145,['English'],2021
+black-panther,Black Panther,"['Action', 'Adventure', 'Science Fiction']",en,film-poster/2/0/9/3/8/3/209383-black-panther-0-230-0-345-crop,134,"['English', '한국어/조선말', 'Kiswahili']",2018
+luca-2021,Luca,"['Animation', 'Comedy', 'Family', 'Fantasy']",en,film-poster/4/3/8/7/2/2/438722-luca-0-230-0-345-crop,95,"['English', 'Italiano']",2021
+cruella,Cruella,"['Comedy', 'Crime']",en,film-poster/2/6/6/6/7/6/266676-cruella-0-230-0-345-crop,134,"['English', 'Français']",2021
+army-of-the-dead-2021,Army of the Dead,"['Action', 'Adventure', 'Crime', 'Horror']",en,film-poster/4/3/3/6/5/2/433652-army-of-the-dead-0-230-0-345-crop,148,"['English', 'Deutsch', 'Español']",2021
+titane,Titane,"['Drama', 'Thriller', 'Horror']",fr,film-poster/5/5/6/5/5/3/556553-titane-0-230-0-345-crop,108,['Français'],2021
+pig-2021,Pig,"['Drama', 'Thriller']",en,film-poster/5/6/1/7/6/3/561763-pig-0-230-0-345-crop,91,['English'],2021
+old-2021,Old,['Thriller'],en,film-poster/5/5/8/0/5/4/558054-old-0-230-0-345-crop,108,['English'],2021
+last-night-in-soho,Last Night in Soho,"['Drama', 'Horror', 'Mystery', 'Thriller']",en,film-poster/5/0/5/0/0/0/505000-last-night-in-soho-0-230-0-345-crop,117,['English'],2021
+fear-street-1994,Fear Street: 1994,"['Horror', 'Mystery']",en,film-poster/5/1/8/7/8/7/518787-fear-street-part-one-1994-0-230-0-345-crop,107,['English'],2021
+bo-burnham-inside,Bo Burnham: Inside,['Comedy'],en,film-poster/7/3/9/7/7/5/739775-bo-burnham-inside-0-230-0-345-crop,87,['English'],2021
+spencer-2021,Spencer,['Drama'],en,film-poster/6/3/9/5/5/9/639559-spencer-0-230-0-345-crop,117,['English'],2021
+the-power-of-the-dog,The Power of the Dog,"['Western', 'Romance', 'Drama']",en,film-poster/5/2/7/8/4/1/527841-the-power-of-the-dog-0-230-0-345-crop,126,['English'],2021
+eternals,Eternals,"['Action', 'Adventure', 'Science Fiction']",en,film-poster/4/5/4/0/1/6/454016-eternals-0-230-0-345-crop,157,"['العربية', 'English', 'हिन्दी', 'Latin', 'Español']",2021
+malignant-2021,Malignant,"['Horror', 'Mystery', 'Thriller']",en,film-poster/5/4/6/3/4/8/546348-malignant-0-230-0-345-crop,112,['English'],2021
+logan-2017,Logan,"['Action', 'Drama', 'Science Fiction']",en,sm/upload/f3/ub/fq/f5/gGBu0hKw9BGddG8RkRAMX7B6NDB-0-230-0-345-crop,137,"['English', 'Español']",2017
+licorice-pizza,Licorice Pizza,"['Drama', 'Comedy']",en,film-poster/6/4/1/0/8/6/641086-licorice-pizza-0-230-0-345-crop,133,['English'],2021
+tick-tick-boom-2021,"tick, tick...BOOM!","['Drama', 'Music']",en,film-poster/4/6/6/2/9/1/466291-tick-tick-boom--0-230-0-345-crop,121,"['English', 'Español']",2021
+encanto,Encanto,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Music']",en,film-poster/4/9/6/5/9/2/496592-encanto-0-230-0-345-crop,102,"['English', 'Español']",2021
+ex-machina-2015,Ex Machina,"['Drama', 'Science Fiction']",en,film-poster/1/8/7/9/8/6/187986-ex-machina-0-230-0-345-crop,108,['English'],2015
