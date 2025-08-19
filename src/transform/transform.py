@@ -16,7 +16,7 @@ from src.utils.logging_utils import setup_logger
 logger = setup_logger("transform_data", "transform_data.log")
 
 
-def transform_data(data) -> pd.DataFrame:
+def transform_data(data) -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
     try:
         logger.info("Starting data transformation process...")
         # Clean movies data
@@ -39,7 +39,7 @@ def transform_data(data) -> pd.DataFrame:
         logger.info("Data merged successfully.")
         # Enrich the merged data with user ratings data
         logger.info("Enriching merged data with user ratings data...")
-        enriched_data = enrich_movies_table_with_user_ratings_data(
+        enriched_movies_data = enrich_movies_table_with_user_ratings_data(
             merged_data, cleaned_user_ratings
         )
         logger.info(
@@ -50,7 +50,9 @@ def transform_data(data) -> pd.DataFrame:
         aggregated_user_ratings = aggregate_user_ratings(cleaned_user_ratings)
         logger.info("User ratings data aggregated successfully.")
 
-        return enriched_data, aggregated_user_ratings
+        return (
+            enriched_movies_data, cleaned_user_ratings, aggregated_user_ratings
+        )
     except Exception as e:
         logger.error(f"Data transformation failed: {str(e)}")
         raise
