@@ -29,8 +29,7 @@ def clean_user_ratings(user_ratings: pd.DataFrame) -> pd.DataFrame:
 
 def remove_missing_values(user_ratings: pd.DataFrame) -> pd.DataFrame:
     # Remove rows with missing values
-    user_ratings = user_ratings.dropna()
-    return user_ratings
+    return user_ratings.dropna()
 
 
 def anonymise_user_id(user_ratings: pd.DataFrame) -> pd.DataFrame:
