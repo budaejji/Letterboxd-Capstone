@@ -48,5 +48,4 @@ def standardise_ratings(movies_with_ratings: pd.DataFrame) -> pd.DataFrame:
 
 def drop_id_column(movies_with_ratings: pd.DataFrame) -> pd.DataFrame:
     # Drop the id column
-    movies_with_ratings = movies_with_ratings.drop(columns=["id"])
-    return movies_with_ratings
+    return movies_with_ratings.drop(columns=["id"])

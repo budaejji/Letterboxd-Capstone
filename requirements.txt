@@ -17,6 +17,7 @@ charset-normalizer==3.4.3
 click==8.2.1
 colorama==0.4.6
 comm==0.2.3
+coverage==7.10.4
 debugpy==1.8.16
 decorator==5.2.1
 defusedxml==0.7.1
@@ -50,6 +51,7 @@ jupyterlab==4.4.6
 jupyterlab_pygments==0.3.0
 jupyterlab_server==2.27.3
 lark==1.2.2
+-e git+https://github.com/budaejji/Letterboxd-Capstone.git@b02387d5d3c84ba560f81922b9577421ee318ff5#egg=Letterboxd_Ratings_Project
 MarkupSafe==3.0.2
 matplotlib-inline==0.1.7
 mistune==3.1.3

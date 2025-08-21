@@ -32,8 +32,7 @@ def clean_movies(movies: pd.DataFrame) -> pd.DataFrame:
 
 def remove_missing_values(movies: pd.DataFrame) -> pd.DataFrame:
     # Remove rows with missing values in the movie_id column
-    movies = movies.dropna(subset=["movie_id"])
-    return movies
+    return movies[movies['movie_id'].notna() & (movies['movie_id'] != "")]
 
 
 def convert_genres_to_list(movies: pd.DataFrame) -> pd.DataFrame:
