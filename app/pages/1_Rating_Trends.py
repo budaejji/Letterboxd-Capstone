@@ -144,6 +144,7 @@ if selected_attribute != "Select an attribute":
         runtime_vs_rating_corr = movies["runtime"].corr(movies["rating"])
         runtime_vs_users_rating_corr = movies["runtime"].corr(movies["power_users_rating"])
 
+        st.write(f"Average runtime: {round(movies['runtime'].mean())} minutes")
         st.write(
             f"Correlation coefficient for runtime vs Letterboxd rating: "
             f"{runtime_vs_rating_corr:.2f}"
