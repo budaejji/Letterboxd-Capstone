@@ -280,13 +280,6 @@ kanban
         (Epic 3: As a Data Analyst, I want to be able to access the extracted, transformed data loaded into the SQL database, so that analysis can be done on power-users ratings and compared against general users ratings.)
         (Epic 4: As the customer, I want to be able to view key insights about the dataset visualised in a Streamlit app, so that I can easily understand the trends analysed in a visual format.)
     Product Backlog
-        (Epic 1 Story 1: As a Data Analyst, I want to be able to access the movies data from a CSV file, so that it can be transformed ready for analysis.)
-        (Epic 1 Story 2: As a Data Analyst, I want to be able to access the user ratings data from a CSV file, so that it can be transformed, ready for analysis.)
-        (Epic 2 Story 3: As a Data Analyst, I want to be able to access cleaned, standardised movie data, so that it can be combined with the user ratings data and made available as a single table.)
-        (Epic 2 Story 4: As a Data Analyst/Scientist, I want to be able to access cleaned, standardised user ratings data, so that it can be combined with the movie data and made available as a single table.)
-        (Epic 2 Story 5: As a Data Analyst, I want to be able to access the combined, enriched and aggregated movie and user ratings, so that it can be analysed easier.)
-        (Epic 3 Story 6: As a Data Analyst, I want the cleaned, standardised, enriched and aggregated data to be available in the SQL database, so that it can be analysed easier.)
-        (Epic 4 Story 7: As the customer, I want to be able to access a deployed Streamlit application on the web,so that I can view visualisations of trends analysed and interact with the app based on what I want to view.)
     (Backlog - Epic 1 Story 1: As a Data Analyst, I want to be able to access the movie data from a CSV file, so that it can be transformed ready for analysis)
         Task 1: Create script to read the CSV file
         Task 2: Add logging to the script, including error handling and performance metrics
@@ -296,6 +289,13 @@ kanban
         Task 6: Create a component test to verify the extract_data function in extract.py works correctly
         Task 7: Create an end-to-end aka e2e test to verify the entire extraction process works correctly
     Done
+        (Epic 1 Story 1: As a Data Analyst, I want to be able to access the movies data from a CSV file, so that it can be transformed ready for analysis.)
+        (Epic 1 Story 2: As a Data Analyst, I want to be able to access the user ratings data from a CSV file, so that it can be transformed, ready for analysis.)
+        (Epic 2 Story 3: As a Data Analyst, I want to be able to access cleaned, standardised movie data, so that it can be combined with the user ratings data and made available as a single table.)
+        (Epic 2 Story 4: As a Data Analyst/Scientist, I want to be able to access cleaned, standardised user ratings data, so that it can be combined with the movie data and made available as a single table.)
+        (Epic 2 Story 5: As a Data Analyst, I want to be able to access the combined, enriched and aggregated movie and user ratings, so that it can be analysed easier.)
+        (Epic 3 Story 6: As a Data Analyst, I want the cleaned, standardised, enriched and aggregated data to be available in the SQL database, so that it can be analysed easier.)
+        (Epic 4 Story 7: As the customer, I want to be able to access a deployed Streamlit application on the web,so that I can view visualisations of trends analysed and interact with the app based on what I want to view.)
         None
 ```
 
