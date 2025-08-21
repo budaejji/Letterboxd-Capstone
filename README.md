@@ -288,7 +288,6 @@ kanban
         (Epic 2 Story 5: As a Data Analyst, I want to be able to access the combined, enriched and aggregated movie and user ratings, so that it can be analysed easier.)
         (Epic 3 Story 6: As a Data Analyst, I want the cleaned, standardised, enriched and aggregated data to be available in the SQL database, so that it can be analysed easier.)
         (Epic 4 Story 7: As the customer, I want to be able to access a deployed Streamlit application on the web,so that I can view visualisations of trends analysed and interact with the app based on what I want to view.)
-    None
 ```
 
 ---
