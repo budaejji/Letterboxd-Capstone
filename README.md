@@ -89,14 +89,14 @@ So that it can be transformed ready for analysis
 
 #### USER STORY 1 ACCEPTANCE CRITERIA
 
-- [ ] The movies data is extracted from a CSV file
-- [ ] Movies data extraction is executed in less than 2 seconds
-- [ ] Extraction occurs without errors and data integrity is maintained (no missing or corrupted data)
-- [ ] Successful extractions are logged
-- [ ] Database connection errors are logged and handled gracefully
-- [ ] Database transaction errors are logged and handled gracefully
-- [ ] Movies data is stored in a Pandas DataFrame for further processing
-- [ ] Tests are written to verify the movies data extraction process
+- [x] The movies data is extracted from a CSV file
+- [x] Movies data extraction is executed in less than 2 seconds
+- [x] Extraction occurs without errors and data integrity is maintained (no missing or corrupted data)
+- [x] Successful extractions are logged
+- [x] Database connection errors are logged and handled gracefully
+- [x] Database transaction errors are logged and handled gracefully
+- [x] Movies data is stored in a Pandas DataFrame for further processing
+- [x] Tests are written to verify the movies data extraction process
 
 ---
 
@@ -110,14 +110,14 @@ So that it can be transformed, ready for analysis
 
 #### USER STORY 2 ACCEPTANCE CRITERIA
 
-- [ ] The user ratings data is extracted from a CSV file
-- [ ] User ratings data extraction is executed in less than 2 seconds
-- [ ] Extraction occurs without errors and data integrity is maintained (no missing or corrupted data)
-- [ ] Successful extractions are logged
-- [ ] Database connection errors are logged and handled gracefully
-- [ ] Database transaction errors are logged and handled gracefully
-- [ ] User ratings data is stored in a Pandas DataFrame for further processing
-- [ ] Tests are written to verify the user ratings data extraction process
+- [x] The user ratings data is extracted from a CSV file
+- [x] User ratings data extraction is executed in less than 2 seconds
+- [x] Extraction occurs without errors and data integrity is maintained (no missing or corrupted data)
+- [x] Successful extractions are logged
+- [x] Database connection errors are logged and handled gracefully
+- [x] Database transaction errors are logged and handled gracefully
+- [x] User ratings data is stored in a Pandas DataFrame for further processing
+- [x] Tests are written to verify the user ratings data extraction process
 
 ---
 ---
@@ -140,15 +140,15 @@ So that it can be combined with the user ratings data and made available as a si
 
 #### USER STORY 3 ACCEPTANCE CRITERIA
 
-- [ ] Explored the dataset in Jupyter notebook to check extraction was successful
-- [ ] Dropped any duplicate rows in the movies table 
-- [ ] Reformatted any columns that are incorrectly formatted
-- [ ] Identified any rows with missing values
-- [ ] Tried to enrich rows with missing values with data from other sources where possible
-- [ ] Dropped rows with missing ratings when not possible
-- [ ] Rows with missing runtime, release date, language or genre can be kept
-- [ ] Standardised the data so it all follows the same format
-- [ ] Aggregated ratings to find the average in the case of any duplicated movies with differing ratings
+- [x] Explored the dataset in Jupyter notebook to check extraction was successful
+- [x] Dropped any duplicate rows in the movies table 
+- [x] Reformatted any columns that are incorrectly formatted
+- [x] Identified any rows with missing values
+- [x] Tried to enrich rows with missing values with data from other sources where possible
+- [x] Dropped rows with missing ratings when not possible
+- [x] Rows with missing runtime, release date, language or genre can be kept
+- [x] Standardised the data so it all follows the same format
+- [x] Aggregated ratings to find the average in the case of any duplicated movies with differing ratings
 
 ---
 
@@ -162,17 +162,17 @@ So that it can be combined with the movie data and made available as a single ta
 
 #### USER STORY 4 ACCEPTANCE CRITERIA
 
-- [ ] Explored the dataset in Jupyter notebook to check extraction was successful
-- [ ] Dropped any duplicate rows in the user ratings table 
-- [ ] Reformatted any columns that are incorrectly formatted
-- [ ] Identified any rows with missing values
-- [ ] Limited number of records to meet dataset size requirements
-- [ ] Dropped rows with missing ratings
-- [ ] Dropped unnecessary _id column
-- [ ] Standardised the data so it all follows the same format
-- [ ] Anonymised usernames
-- [ ] Aggregated average ratings of each user and stored it in a new table in the database
-- [ ] Aggregated average rating of movies rated by these users, as well as ratings count for each of these  movies, and stored it in a new table in the database
+- [x] Explored the dataset in Jupyter notebook to check extraction was successful
+- [x] Dropped any duplicate rows in the user ratings table 
+- [x] Reformatted any columns that are incorrectly formatted
+- [x] Identified any rows with missing values
+- [x] Limited number of records to meet dataset size requirements
+- [x] Dropped rows with missing ratings
+- [x] Dropped unnecessary _id column
+- [x] Standardised the data so it all follows the same format
+- [x] Anonymised usernames
+- [x] Aggregated average ratings of each user and stored it in a new table in the database
+- [x] Aggregated average rating of movies rated by these users, as well as ratings count for each of these  movies, and stored it in a new table in the database
 
 ---
 
@@ -187,7 +187,7 @@ So that it can be analysed easier
 #### USER STORY 5 ACCEPTANCE CRITERIA
 
 
-- [ ] Merged the movies table with the newly created "average rating of movie by our power-users" table
+- [x] Merged the movies table with the newly created "average rating of movie by our power-users" table
 
 ---
 ---
@@ -210,10 +210,10 @@ So that it can be analysed easier.
 
 #### USER STORY 6 ACCEPTANCE CRITERIA
 
-- [ ] Loaded the tables into the SQL database
-- [ ] Verified record count is correct
-- [ ] Database connection errors are logged and handled gracefully
-- [ ] Database transaction errors are logged and handled gracefully
+- [x] Loaded the tables into the SQL database
+- [x] Verified record count is correct
+- [x] Database connection errors are logged and handled gracefully
+- [x] Database transaction errors are logged and handled gracefully
   
 ---
 ---
@@ -236,15 +236,16 @@ So that I can view visualisations of trends analysed and interact with the app b
 
 #### USER STORY 7 ACCEPTANCE CRITERIA
 
-- [ ] App created with Streamlit
-- [ ] Visualisation of rating trends across runtime created
-- [ ] Visualisation of rating trends across genre created
-- [ ] Visualisation of rating trends across language created
+- [x] App created with Streamlit
+- [x] Visualisation of rating trends across runtime created
+- [x] Visualisation of rating trends across genre created
+- [x] Visualisation of rating trends across language created
+- [x] Visualisation of rating trends across decades created
 - [ ] Visualisation of top rated films with general users vs power-users created
-- [ ] Visualisation of most differently rated films with general users vs power-users created
-- [ ] Visualisation of subgroups within power-users created
-- [ ] Visualisations are interactive (users can change parameters/size of data viewed)
-- [ ] General layout of Streamlit app is formed to create an easy to navigate and visually appealing website
+- [x] Visualisation of most differently rated films with general users vs power-users created
+- [x] Visualisation of subgroups within power-users created
+- [x] Visualisations are interactive (users can change parameters/size of data viewed)
+- [x] General layout of Streamlit app is formed to create an easy to navigate and visually appealing website
 - [ ] Streamlit app is deployed
 
 ---
