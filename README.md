@@ -280,14 +280,6 @@ kanban
         (Epic 3: As a Data Analyst, I want to be able to access the extracted, transformed data loaded into the SQL database, so that analysis can be done on power-users ratings and compared against general users ratings.)
         (Epic 4: As the customer, I want to be able to view key insights about the dataset visualised in a Streamlit app, so that I can easily understand the trends analysed in a visual format.)
     Product Backlog
-    (Backlog - Epic 1 Story 1: As a Data Analyst, I want to be able to access the movie data from a CSV file, so that it can be transformed ready for analysis)
-        Task 1: Create script to read the CSV file
-        Task 2: Add logging to the script, including error handling and performance metrics
-        Task 3: Add movie extraction to extract.py and to scripts/run_etl.py
-        Task 4: Create integration tests to verify the customer data extraction process
-        Task 5: Create integration test to verify both sources are extracted correctly and that the performance metrics are met
-        Task 6: Create a component test to verify the extract_data function in extract.py works correctly
-        Task 7: Create an end-to-end aka e2e test to verify the entire extraction process works correctly
     Done
         (Epic 1 Story 1: As a Data Analyst, I want to be able to access the movies data from a CSV file, so that it can be transformed ready for analysis.)
         (Epic 1 Story 2: As a Data Analyst, I want to be able to access the user ratings data from a CSV file, so that it can be transformed, ready for analysis.)
@@ -296,7 +288,7 @@ kanban
         (Epic 2 Story 5: As a Data Analyst, I want to be able to access the combined, enriched and aggregated movie and user ratings, so that it can be analysed easier.)
         (Epic 3 Story 6: As a Data Analyst, I want the cleaned, standardised, enriched and aggregated data to be available in the SQL database, so that it can be analysed easier.)
         (Epic 4 Story 7: As the customer, I want to be able to access a deployed Streamlit application on the web,so that I can view visualisations of trends analysed and interact with the app based on what I want to view.)
-        None
+    None
 ```
 
 ---
