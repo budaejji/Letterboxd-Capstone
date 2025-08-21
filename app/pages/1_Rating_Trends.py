@@ -54,7 +54,7 @@ if selected_attribute != "Select an attribute":
         ).properties(
             title="Average Movie Ratings by Language",
             height=600
-        )
+        ).interactive()
 
         st.altair_chart(rating_vs_language_chart, use_container_width=True)
         

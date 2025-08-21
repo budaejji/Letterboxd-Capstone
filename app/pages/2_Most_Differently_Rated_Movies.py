@@ -9,25 +9,29 @@ movies["rating_diff"] = movies["rating"] - movies["power_users_rating"]
 higher_rated_by_avg_users = movies.loc[movies["rating_diff"].nlargest(10).index]
 
 higher_rated_by_avg_users_long_data = higher_rated_by_avg_users.melt(
-    id_vars="movie_id",
+    id_vars="movie_title",
     value_vars=["rating", "power_users_rating"],
     var_name="rating_type",
     value_name="avg_rating"
 )
 
 # Display these side by side in a bar chart
-higher_rated_by_avg_users_chart = alt.Chart(higher_rated_by_avg_users_long_data).mark_bar().encode(
+higher_rated_by_avg_users_chart = alt.Chart(
+    higher_rated_by_avg_users_long_data
+).mark_bar().encode(
     x=alt.X(
-        "movie_id",
+        "movie_title",
         sort=alt.EncodingSortField(
             field="rating_diff",
             order="descending"
         ),
         title="Movie Title"),
-    y=alt.Y("avg_rating", title="Average Rating"),
+    y=alt.Y(
+        "avg_rating",
+        title="Average Rating"
+    ),
     color=alt.Color(
         "rating_type",
-        title="Rating Type",
         scale=alt.Scale(
             domain=['rating', 'power_users_rating'],
             range=['#40bcf4', '#F27405']
@@ -46,16 +50,18 @@ movies["rating_diff"] = movies["power_users_rating"] - movies["rating"]
 higher_rated_by_power_users = movies.loc[movies["rating_diff"].nlargest(10).index]
 
 higher_rated_by_power_users_long_data = higher_rated_by_power_users.melt(
-    id_vars="movie_id",
+    id_vars="movie_title",
     value_vars=["rating", "power_users_rating"],
     var_name="rating_type",
     value_name="avg_rating"
 )
 
 # Display these side by side in a bar chart
-higher_rated_by_power_users_chart = alt.Chart(higher_rated_by_power_users_long_data).mark_bar().encode(
+higher_rated_by_power_users_chart = alt.Chart(
+    higher_rated_by_power_users_long_data
+).mark_bar().encode(
     x=alt.X(
-        "movie_id",
+        "movie_title",
         sort=alt.EncodingSortField(
             field="rating_diff",
             order="descending"
@@ -68,7 +74,6 @@ higher_rated_by_power_users_chart = alt.Chart(higher_rated_by_power_users_long_d
     ),
     color=alt.Color(
         "rating_type",
-        title="Rating Type",
         scale=alt.Scale(
             domain=['rating', 'power_users_rating'],
             range=['#40bcf4', '#F27405']
